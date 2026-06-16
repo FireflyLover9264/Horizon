@@ -9,7 +9,7 @@
     "max_tokens": 4096,
     "throttle_sec": 0,
     "analysis_concurrency": 1,
-    "enrichment_concurrency": 3,
+    "enrichment_concurrency": 5,
     "languages": ["en", "zh"]
   },
   "email": {
