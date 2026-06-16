@@ -35,6 +35,18 @@
         "owner": "astral-sh",
         "repo": "uv",
         "enabled": true
+      },
+      { 
+        "type": "repo_releases", 
+        "owner": "huggingface", 
+        "repo": "transformers", 
+        "enabled": true 
+      },
+      { 
+        "type": "repo_releases", 
+        "owner": "vllm-project", 
+        "repo": "vllm", 
+        "enabled": true 
       }
     ],
     "hackernews": {
@@ -48,6 +60,42 @@
         "url": "https://simonwillison.net/atom/everything/",
         "enabled": true,
         "category": "ai-tools"
+      },
+      { 
+        "name": "arXiv CS.AI", 
+        "url": "https://rss.arxiv.org/rss/cs.AI", 
+        "enabled": true, 
+        "category": "ai-research" 
+      },
+      { 
+        "name": "Hugging Face Blog", 
+        "url": "https://huggingface.co/blog/feed.xml", 
+        "enabled": true, 
+        "category": "ai-tools" 
+      },
+      { 
+        "name": "OpenAI Blog", 
+        "url": "https://openai.com/blog/rss.xml", 
+        "enabled": true, 
+        "category": "ai-news" 
+      },
+      { 
+        "name": "Anthropic Blog", 
+        "url": "https://www.anthropic.com/blog/rss.xml", 
+        "enabled": true, 
+        "category": "ai-news" 
+      },
+      { 
+        "name": "Google DeepMind", 
+        "url": "https://deepmind.google/blog/feed.xml", 
+        "enabled": true, 
+        "category": "ai-research" 
+      },
+      { 
+        "name": "The Batch (Andrew Ng)", 
+        "url": "https://www.deeplearning.ai/the-batch/rss/", 
+        "enabled": true, 
+        "category": "ai-news" 
       },
       {
         "name": "LWN.net (subscriber full-text)",
@@ -66,6 +114,22 @@
           "time_filter": "day",
           "fetch_limit": 15,
           "min_score": 50
+        },
+        { 
+          "subreddit": "LocalLLaMA", 
+          "enabled": true, 
+          "sort": "hot", 
+          "time_filter": "day", 
+          "fetch_limit": 15, 
+          "min_score": 30 
+        },
+        { 
+          "subreddit": "singularity", 
+          "enabled": true, 
+          "sort": "hot", 
+          "time_filter": "day", 
+          "fetch_limit": 10, 
+          "min_score": 50 
         }
       ],
       "users": [
@@ -103,7 +167,7 @@
       ]
     },
     "ossinsight": {
-      "enabled": false,
+      "enabled": true,
       "period": "past_24_hours",
       "languages": ["All", "Python", "TypeScript"],
       "keywords": [],
