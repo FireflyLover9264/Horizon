@@ -56,47 +56,144 @@
     },
     "rss": [
       {
+        "name": "arXiv CS.AI",
+        "url": "https://rss.arxiv.org/rss/cs.AI",
+        "enabled": true,
+        "category": "ai-research",
+        "fetch_limit": 30
+      },
+      {
+        "name": "Anthropic Research",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+        "enabled": true,
+        "category": "ai-research",
+        "fetch_limit": 20
+      },
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "enabled": true,
+        "category": "ai-research",
+        "fetch_limit": 20
+      },
+      {
+        "name": "Meta AI",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml",
+        "enabled": true,
+        "category": "ai-research",
+        "fetch_limit": 15
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/blog/rss.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 20
+      },
+      {
+        "name": "Anthropic News",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 20
+      },
+      {
+        "name": "Claude Blog",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 20
+      },
+      {
+        "name": "Mistral AI",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 20
+      },
+      {
+        "name": "Cohere Blog",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 15
+      },
+      {
+        "name": "xAI News",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 15
+      },
+      {
+        "name": "The Batch (Andrew Ng)",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_the_batch.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 15
+      },
+      {
+        "name": "Perplexity Hub",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_perplexity_hub.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 10
+      },
+      {
         "name": "Simon Willison",
         "url": "https://simonwillison.net/atom/everything/",
         "enabled": true,
-        "category": "ai-tools"
+        "category": "ai-tools",
+        "fetch_limit": 20
       },
-      { 
-        "name": "arXiv CS.AI", 
-        "url": "https://rss.arxiv.org/rss/cs.AI", 
-        "enabled": true, 
-        "category": "ai-research", 
-        "fetch_limit": 30 
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "enabled": true,
+        "category": "ai-tools",
+        "fetch_limit": 20
       },
-      { 
-        "name": "Hugging Face Blog", 
-        "url": "https://huggingface.co/blog/feed.xml", 
-        "enabled": true, 
-        "category": "ai-tools" 
+      {
+        "name": "Anthropic Engineering",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml",
+        "enabled": true,
+        "category": "ai-tools",
+        "fetch_limit": 20
       },
-      { 
-        "name": "OpenAI Blog", 
-        "url": "https://openai.com/blog/rss.xml", 
-        "enabled": true, 
-        "category": "ai-news" 
+      {
+        "name": "Google AI Dev",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_google_ai.xml",
+        "enabled": true,
+        "category": "ai-tools",
+        "fetch_limit": 20
       },
-      { 
-        "name": "Anthropic Blog", 
-        "url": "https://www.anthropic.com/feed", 
-        "enabled": true, 
-        "category": "ai-news" 
+      {
+        "name": "Groq Blog",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_groq.xml",
+        "enabled": true,
+        "category": "ai-tools",
+        "fetch_limit": 15
       },
-      { 
-        "name": "Google DeepMind", 
-        "url": "https://blog.google/technology/ai/rss/", 
-        "enabled": true, 
-        "category": "ai-research" 
+      {
+        "name": "Cursor Blog",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml",
+        "enabled": true,
+        "category": "ai-tools",
+        "fetch_limit": 10
       },
-      { 
-        "name": "The Batch (Andrew Ng)", 
-        "url": "https://www.deeplearning.ai/blog/rss.xml", 
-        "enabled": true, 
-        "category": "ai-news" 
+      {
+        "name": "Ollama Blog",
+        "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ollama.xml",
+        "enabled": true,
+        "category": "ai-tools",
+        "fetch_limit": 10
+      },
+      {
+        "name": "LINUX.DO 前沿快讯",
+        "url": "https://linux.do/c/news/34/latest.rss",
+        "enabled": true,
+        "category": "tech-community",
+        "fetch_limit": 30
       },
       {
         "name": "LWN.net (subscriber full-text)",
