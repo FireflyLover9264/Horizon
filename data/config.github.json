@@ -65,7 +65,8 @@
         "name": "arXiv CS.AI", 
         "url": "https://rss.arxiv.org/rss/cs.AI", 
         "enabled": true, 
-        "category": "ai-research" 
+        "category": "ai-research", 
+        "fetch_limit": 30 
       },
       { 
         "name": "Hugging Face Blog", 
@@ -81,19 +82,19 @@
       },
       { 
         "name": "Anthropic Blog", 
-        "url": "https://www.anthropic.com/blog/rss.xml", 
+        "url": "https://www.anthropic.com/feed", 
         "enabled": true, 
         "category": "ai-news" 
       },
       { 
         "name": "Google DeepMind", 
-        "url": "https://deepmind.google/blog/feed.xml", 
+        "url": "https://blog.google/technology/ai/rss/", 
         "enabled": true, 
         "category": "ai-research" 
       },
       { 
         "name": "The Batch (Andrew Ng)", 
-        "url": "https://www.deeplearning.ai/the-batch/rss/", 
+        "url": "https://www.deeplearning.ai/blog/rss.xml", 
         "enabled": true, 
         "category": "ai-news" 
       },
