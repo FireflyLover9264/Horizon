@@ -138,6 +138,7 @@ class RSSSourceConfig(BaseModel):
     url: HttpUrl
     enabled: bool = True
     category: Optional[str] = None
+    fetch_limit: Optional[int] = None
 
 
 class RedditSubredditConfig(BaseModel):
