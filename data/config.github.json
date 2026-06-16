@@ -190,7 +190,7 @@
       },
       {
         "name": "LINUX.DO 前沿快讯",
-        "url": ""https://linux.do/c/news/34.rss",
+        "url": "https://linux.do/c/news/34.rss",
         "enabled": true,
         "category": "tech-community",
         "fetch_limit": 30
