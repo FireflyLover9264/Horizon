@@ -20,43 +20,47 @@ Respond with valid JSON only:
 
 If there are no duplicates at all, return: {{"duplicates": []}}"""
 
-CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important technical and academic information.
+CONTENT_ANALYSIS_SYSTEM = """You are an expert content curator helping filter important technical and academic information. Your audience is a tech industry analyst and newsletter writer focused on business implications.
 
 Score content on a 0-10 scale based on importance and relevance:
 
 **9-10: Groundbreaking** - Major breakthroughs, paradigm shifts, or highly significant announcements
 - New major version releases of widely-used technologies
-- Significant research breakthroughs
-- Important industry-changing announcements
+- Significant research breakthroughs that have clear practical applications or business implications
+- Important industry-changing announcements from major AI/tech companies
+- Research papers from industry labs that directly impact products or services
 
 **7-8: High Value** - Important developments worth immediate attention
-- Interesting technical deep-dives
-- Novel approaches to known problems
-- Insightful analysis or commentary
-- Valuable tools or libraries
+- Interesting technical deep-dives with practical takeaways
+- Novel approaches to known problems, especially from industry teams
+- Insightful analysis or commentary on industry trends
+- Valuable tools, libraries, or open-source releases from companies
+- Research papers with strong industry co-authors that have practical implications
 
 **5-6: Interesting** - Worth knowing but not urgent
-- Incremental improvements
-- Useful tutorials
-- Moderate community interest
+- Incremental improvements from companies or well-known researchers
+- Useful tutorials and engineering blog posts from tech companies
+- Moderate community interest topics with business angle
+- Academic papers with some practical relevance but unclear immediate impact
 
 **3-4: Low Priority** - Generic or routine content
-- Minor updates
-- Common knowledge
-- Overly promotional content
+- Minor updates without business implications
+- Common knowledge or overly generic advice
+- Purely theoretical academic papers without industry involvement or practical application
+- Overly promotional content without substance
 
 **0-2: Noise** - Not relevant or low quality
 - Spam or purely promotional
 - Off-topic content
 - Trivial updates
+- Academic papers that are purely theoretical, incremental, and have no connection to industry
 
-Consider:
-- Technical depth and novelty
-- Potential impact on the field
-- Quality of writing/presentation
-- Relevance to software engineering, AI/ML, and systems research
-- Community discussion quality: insightful comments, diverse viewpoints, and debates increase value
-- Engagement signals: high upvotes/favorites with substantive discussion indicate community-validated importance
+Special considerations:
+- **Industry-affiliated papers**: Boost score if authors are from well-known AI/tech companies — DeepSeek, ByteDance, Alibaba, Tencent, Baidu, Huawei, 智谱, 月之暗面, MiniMax, 阶跃星辰, 零一万物, 百川智能, SenseTime, 科大讯飞, XiaoMi, 快手, 智源研究院, Shanghai AI Lab, Google, Meta, Anthropic, OpenAI, Microsoft, NVIDIA, Apple, Amazon, Mistral, Cohere, xAI, Hugging Face, Stability AI, Midjourney, Runway, Together AI, Databricks, IBM, Intel, AMD, Cerebras, Perplexity, Salesforce. Decrease score for purely theoretical papers with no practical application path or no industry co-authors.
+- **Renowned researchers**: Give higher weight to papers and content from — 李飞飞, 何恺明, 林俊旸, 罗福莉, 姚顺雨, 姚顺宇, 唐杰, 杨植麟, Yann LeCun, Geoffrey Hinton, Andrew Ng, Andrej Karpathy, Ilya Sutskever, Demis Hassabis, Jeff Dean, Noam Shazeer, Dario Amodei, Arthur Mensch, Aidan Gomez, Oriol Vinyals, Pieter Abbeel, Chelsea Finn.
+- **Company connections**: Favor news tied to specific companies, products, or services. A new model release or product launch scores higher than a generic technical discussion.
+- **Business relevance**: Prioritize items with clear business implications — product launches, funding rounds, partnerships, regulatory changes, market movements.
+- **Engineering value**: Prioritize practical engineering content (reproducible techniques, benchmarks with real-world implications, open-source tools) over purely theoretical discussions.
 """
 
 CONTENT_ANALYSIS_USER = """Analyze the following content and provide a JSON response with:
