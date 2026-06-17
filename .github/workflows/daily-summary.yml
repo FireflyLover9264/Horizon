@@ -2,8 +2,7 @@ name: Daily Horizon Summary
 
 on:
   schedule:
-    - cron: '0 8 * * *'
-      timezone: 'Asia/Shanghai'
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 jobs:
