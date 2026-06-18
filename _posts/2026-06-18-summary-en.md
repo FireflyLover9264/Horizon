@@ -5,751 +5,666 @@ date: 2026-06-18
 lang: en
 ---
 
-> From 130 items, 62 important content pieces were selected
+> From 129 items, 62 important content pieces were selected
 
 ---
 
-1. [Tesco moving 40k workloads off VMware over Broadcom pricing](#item-1) ⭐️ 9.0/10
-2. [AI Chemist Using GPT-5.4 Improves Medicinal Chemistry Reaction](#item-2) ⭐️ 9.0/10
-3. [GLM-5.2: Most Powerful Open Weights Text LLM Released](#item-3) ⭐️ 9.0/10
-4. [Noam Shazeer, Transformer Co-Author, Joins OpenAI from Google DeepMind](#item-4) ⭐️ 9.0/10
-5. [NextLat: Transformers Predict Own Latent States](#item-5) ⭐️ 9.0/10
-6. [US Delays Blacklisting DeepSeek, Labels 100+ Chinese Firms as Risks](#item-6) ⭐️ 8.0/10
-7. [Running Firecracker VMs in EC2 for Sub-Second Browser Start](#item-7) ⭐️ 8.0/10
-8. [U.S. science in crisis: funding cuts and political interference drive talent abroad](#item-8) ⭐️ 8.0/10
-9. [GLM-5.2 Tops Open-Source AI Rankings on Artificial Analysis](#item-9) ⭐️ 8.0/10
-10. [New Metric: Structural Uncertainty for LLM Reasoning Consistency](#item-10) ⭐️ 8.0/10
-11. [Cognitive Models Improve LLM Simulation of Human Decision-Making](#item-11) ⭐️ 8.0/10
-12. [Google DeepMind AI to Speed Up UK Housing Planning](#item-12) ⭐️ 8.0/10
-13. [Anthropic opens Seoul office, forms Korean AI partnerships](#item-13) ⭐️ 8.0/10
-14. [Fable 5 Export Controls Harm US Cyber Defense](#item-14) ⭐️ 8.0/10
-15. [Google Announces Agentic Resource Discovery Specification](#item-15) ⭐️ 8.0/10
-16. [Apple to Raise Prices Due to Rising Memory Chip Costs, Says Cook](#item-16) ⭐️ 8.0/10
-17. [Speculative Decoding Hits Mainstream with SGLang's SOTA Implementation](#item-17) ⭐️ 8.0/10
-18. [Midjourney Unveils Medical Imaging Project to Reduce CT Radiation](#item-18) ⭐️ 7.0/10
-19. [Lore: Open source VCS for game development scalability](#item-19) ⭐️ 7.0/10
-20. [Adam Launches CADAM: Open-Source AI CAD from Text](#item-20) ⭐️ 7.0/10
-21. [RFC 10008 Defines New HTTP QUERY Method](#item-21) ⭐️ 7.0/10
-22. [Volkswagen blocks GrapheneOS users from app access](#item-22) ⭐️ 7.0/10
-23. [Robot Game Tests AI Models: Claude vs Grok Cost Showdown](#item-23) ⭐️ 7.0/10
-24. [DivInit: Diverse Query Initialization for Agentic Search](#item-24) ⭐️ 7.0/10
-25. [Can Language Models Discover the Concept of Zero?](#item-25) ⭐️ 7.0/10
-26. [SpeechDx: Multi-Task Benchmark for Clinical Speech AI](#item-26) ⭐️ 7.0/10
-27. [Brand Bias in LLM Recommendations Creates Incumbent Advantage](#item-27) ⭐️ 7.0/10
-28. [Foundation Model Orchestrates Crash Safety Design](#item-28) ⭐️ 7.0/10
-29. [Closing the Feedback Loop in Verbal Reinforcement Learning](#item-29) ⭐️ 7.0/10
-30. [SkillMigrator transfers web skills via layout matching](#item-30) ⭐️ 7.0/10
-31. [Tracing LLM Code Reasoning Internal Lifecycle](#item-31) ⭐️ 7.0/10
-32. [EComAgentBench: Benchmark for Long-Horizon Shopping Agents](#item-32) ⭐️ 7.0/10
-33. [LongWebBench: Benchmark for Long-Horizon Webpage Generation](#item-33) ⭐️ 7.0/10
-34. [DecoSearch: Training-Free Framework for Complex Text-to-SQL](#item-34) ⭐️ 7.0/10
-35. [OpenAI Launches LifeSciBench for AI in Life Sciences](#item-35) ⭐️ 7.0/10
-36. [Anthropic Launches Workload Identity Federation for Claude](#item-36) ⭐️ 7.0/10
-37. [AI Flips Economics of Code: From Precious to Disposable](#item-37) ⭐️ 7.0/10
-38. [Georgi Gerganov Endorses Qwen3.6-27B for Local Coding](#item-38) ⭐️ 7.0/10
-39. [From Hugging Face Hub to Robot Hardware with Strands Agents and LeRobot](#item-39) ⭐️ 7.0/10
-40. [GLM-5.2: Built for Long-Horizon Tasks](#item-40) ⭐️ 7.0/10
-41. [Hugging Face Launches Agentic Resource Discovery Tool](#item-41) ⭐️ 7.0/10
-42. [Google introduces hybrid MCP + A2UI patterns for agentic UIs](#item-42) ⭐️ 7.0/10
-43. [Tencent QQ Mail Launches Agently Mail for AI Agents](#item-43) ⭐️ 7.0/10
-44. [AI predicts grammar, meaning, and context from neuron recordings](#item-44) ⭐️ 7.0/10
-45. [Stanford Grads Raise $11M for Noninvasive Hormone Wearable](#item-45) ⭐️ 7.0/10
-46. [Anthropic CEO Urges US-Led AI Alliance to Exclude China](#item-46) ⭐️ 7.0/10
-47. [OpenAI Introduces Facial Recognition Verification](#item-47) ⭐️ 7.0/10
-48. [Self-Evolving LLM Agent Enhances BM25 for Legal Case Retrieval](#item-48) ⭐️ 6.0/10
-49. [MemTrace: Probing Hidden Failures in LLM Long-Term Memory](#item-49) ⭐️ 6.0/10
-50. [New Benchmark Evaluates LLM Map Agents on Implicit User Needs](#item-50) ⭐️ 6.0/10
-51. [Intent-Execution Gap Formalized in AI Agent Systems](#item-51) ⭐️ 6.0/10
+1. [US delays blacklisting DeepSeek and over 100 Chinese firms](#item-1) ⭐️ 9.0/10
+2. [GLM-5.2 Becomes Top Open Weights AI Model on Artificial Analysis](#item-2) ⭐️ 9.0/10
+3. [GPT-5.4 Boosts Drug-Making Reaction in Autonomous AI Chemist](#item-3) ⭐️ 9.0/10
+4. [ByteDance Doubao Agent Sandbox S3 Access Isolation Flaw](#item-4) ⭐️ 9.0/10
+5. [Noam Shazeer leaves Google for OpenAI](#item-5) ⭐️ 9.0/10
+6. [Local Qwen: Complementary Tool, Not Inferior Substitute](#item-6) ⭐️ 8.0/10
+7. [Browser-Use runs Firecracker VMs in EC2 to start browsers under 1s](#item-7) ⭐️ 8.0/10
+8. [LLM Recommendations Show Strong Brand Bias, Study Finds](#item-8) ⭐️ 8.0/10
+9. [Google DeepMind and UK Government Partner on AI for Faster Housing Planning](#item-9) ⭐️ 8.0/10
+10. [OpenAI Releases LifeSciBench for AI in Life Science Research](#item-10) ⭐️ 8.0/10
+11. [Anthropic opens Seoul office, partners with Korean AI ecosystem](#item-11) ⭐️ 8.0/10
+12. [Huawei Ascend Offers Day 0 Support for GLM-5.2 with Inference Optimizations](#item-12) ⭐️ 8.0/10
+13. [Tencent Launches Agently Mail for AI Agents](#item-13) ⭐️ 8.0/10
+14. [AI decodes grammar, meaning from single-neuron speech data](#item-14) ⭐️ 8.0/10
+15. [Microsoft's NextLat: Predicting Latent States for Faster, Efficient Transformers](#item-15) ⭐️ 8.0/10
+16. [Midjourney Announces AI-Powered Ultrasonic CT Scanner](#item-16) ⭐️ 7.0/10
+17. [Lore: Open-source version control for game development scalability](#item-17) ⭐️ 7.0/10
+18. [Adam (YC W25) Launches Open-Source AI CAD Platform](#item-18) ⭐️ 7.0/10
+19. [SteamOS 3.8 Stable Released with Arch Linux and KDE Plasma 6.4](#item-19) ⭐️ 7.0/10
+20. [RFC 10008 Defines New HTTP QUERY Method](#item-20) ⭐️ 7.0/10
+21. [DivInit Improves Agentic Search with Diverse Query Initialization](#item-21) ⭐️ 7.0/10
+22. [CEO-Bench: Benchmarking LLMs as Strategic CEOs](#item-22) ⭐️ 7.0/10
+23. [SEAGym: An Evaluation Environment for Self-Evolving LLM Agents](#item-23) ⭐️ 7.0/10
+24. [Foundation Model Orchestrates Crash Safety Design Workflow](#item-24) ⭐️ 7.0/10
+25. [SkillMigrator: Reusable Web Skills via Layout Matching](#item-25) ⭐️ 7.0/10
+26. [New Framework Reveals Internal Code Reasoning Failures](#item-26) ⭐️ 7.0/10
+27. [Equation-to-Behavior Prompting for Human-like LLM Simulation](#item-27) ⭐️ 7.0/10
+28. [EComAgentBench: Benchmark for Long-Horizon Shopping Agents](#item-28) ⭐️ 7.0/10
+29. [LongWebBench: Benchmark for Long-Horizon Webpage Generation](#item-29) ⭐️ 7.0/10
+30. [Anthropic launches Workload Identity Federation for Claude](#item-30) ⭐️ 7.0/10
+31. [Anthropic Announces Claude Opus 4.8 Hackathon Winners](#item-31) ⭐️ 7.0/10
+32. [AI Makes Code Disposable, Demands More Discipline](#item-32) ⭐️ 7.0/10
+33. [Georgi Gerganov Endorses Qwen3.6-27B for Local Coding](#item-33) ⭐️ 7.0/10
+34. [Deploy AI Models from Hub to Real Robots with Strands Agents & LeRobot](#item-34) ⭐️ 7.0/10
+35. [Hugging Face Launches Agentic Resource Discovery for AI Agents](#item-35) ⭐️ 7.0/10
+36. [Google Announces Open Spec for AI Agent Discovery](#item-36) ⭐️ 7.0/10
+37. [Google introduces hybrid patterns for MCP and A2UI](#item-37) ⭐️ 7.0/10
+38. [DeepSeek Launches Image Recognition Mode](#item-38) ⭐️ 7.0/10
+39. [Tencent Launches TokenPlan Enterprise with GLM 5.2](#item-39) ⭐️ 7.0/10
+40. [Google to Deprecate Standard Gemini API Keys by September 2026](#item-40) ⭐️ 7.0/10
+41. [Volcano Engine Coding Plan Limits Daily Purchases After GLM-5.2 Launch](#item-41) ⭐️ 7.0/10
+42. [Speculative Decoding Trending on Papers with Code](#item-42) ⭐️ 7.0/10
+43. [HeyGen's HyperFrames: AI agents create videos from HTML](#item-43) ⭐️ 7.0/10
+44. [Volkswagen blocks GrapheneOS users from app and API](#item-44) ⭐️ 6.0/10
+45. [MicroUI: Tiny Immediate-Mode GUI Library in ANSI C](#item-45) ⭐️ 6.0/10
+46. [Structural Uncertainty for LLM Reasoning Consistency](#item-46) ⭐️ 6.0/10
+47. [MemTrace: Benchmark for LLM Agent Long-Term Memory](#item-47) ⭐️ 6.0/10
+48. [SpeechDx: A Multi-Task Benchmark for Clinical Speech AI](#item-48) ⭐️ 6.0/10
+49. [Adaptive Clinical Decision Support AI via Digital Twin and RL](#item-49) ⭐️ 6.0/10
+50. [MapSatisfyBench: Benchmark for Satisfaction-Aware Map Agents](#item-50) ⭐️ 6.0/10
+51. [Paper Dissects Agent Harness Intent-Execution Gap](#item-51) ⭐️ 6.0/10
 52. [Curriculum-Grounded LLM-as-Judge Pipeline for Exam Marking](#item-52) ⭐️ 6.0/10
-53. [SEAGym: New Evaluation for Self-Evolving LLM Agents](#item-53) ⭐️ 6.0/10
-54. [FinAcumen: Self-Evolving Memory for Financial Multimodal Reasoning](#item-54) ⭐️ 6.0/10
-55. [Anthropic Announces Winners of Claude Opus 4.8 Hackathon](#item-55) ⭐️ 6.0/10
-56. [Datasette 1.0a34 Adds Insert/Edit/Delete Rows in UI](#item-56) ⭐️ 6.0/10
-57. [WhatsApp Tests View-Once Text Messages](#item-57) ⭐️ 6.0/10
-58. [HuggingFace Chat Adds GLM-5.2 Model Support](#item-58) ⭐️ 6.0/10
-59. [Agent-Reach CLI Lets AI Agents Scrape Social Media Without API Fees](#item-59) ⭐️ 6.0/10
-60. [CodeGraph: Pre-indexed knowledge graph to cut AI coding agent costs](#item-60) ⭐️ 6.0/10
-61. [Headroom Compresses LLM Inputs by 60-95% with No Quality Loss](#item-61) ⭐️ 6.0/10
-62. [Alibaba Releases Lightweight In-Process Vector Database zvec](#item-62) ⭐️ 6.0/10
+53. [Brick-DICL: Dynamic In-Context Learning for Brick Schema Classification](#item-53) ⭐️ 6.0/10
+54. [DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL](#item-54) ⭐️ 6.0/10
+55. [MolmoMotion: Language-guided 3D motion forecasting](#item-55) ⭐️ 6.0/10
+56. [Step Plan Free Trial: Up to 120 Days for New and Existing Users](#item-56) ⭐️ 6.0/10
+57. [StepFun's Step Plan Shifts to Token-Based Pricing](#item-57) ⭐️ 6.0/10
+58. [Claude Design Adds Bidirectional Sync via /design-sync Command](#item-58) ⭐️ 6.0/10
+59. [Codex Quotas Reset with Reduced Limits](#item-59) ⭐️ 6.0/10
+60. [CodeGraph: Pre-indexed code knowledge graph cuts AI agent token use](#item-60) ⭐️ 6.0/10
+61. [Headroom: Compress LLM inputs by 60-95% with no quality loss](#item-61) ⭐️ 6.0/10
+62. [Omnigent: Meta-harness for Multiple AI Agents](#item-62) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Tesco moving 40k workloads off VMware over Broadcom pricing](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/) ⭐️ 9.0/10
+## [US delays blacklisting DeepSeek and over 100 Chinese firms](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) ⭐️ 9.0/10
 
-Tesco, the UK's largest supermarket chain, is migrating 40,000 server workloads away from VMware in response to Broadcom's aggressive pricing and support cuts following its acquisition of VMware. This large-scale migration by a major enterprise signals a potential shift in the virtualization market, as customers increasingly explore open-source alternatives to VMware due to Broadcom's pricing strategy. The migration faces data security challenges as the new, unnamed virtualization software is incompatible with Veeam and Zerto backup products, and the software is speculated to be not Nutanix.
+The US government decided to postpone adding DeepSeek and more than 100 other Chinese companies to the Entity List, a restricted trade list, as reported by Reuters on June 17, 2026. This delay offers temporary relief for DeepSeek, a rapidly growing AI startup, and other Chinese tech firms, allowing them continued access to US goods and services. However, it signals ongoing regulatory uncertainty and heightened tensions in US-China technology competition. Being on the Entity List does not completely prohibit trade but restricts US companies from selling goods or services to listed entities. Chinese AI firms like DeepSeek have limited dependence on US exports except for advanced semiconductors such as NVIDIA GPUs, which are already subject to export controls.
 
-hackernews · Bender · Jun 17, 21:00 · [Discussion](https://news.ycombinator.com/item?id=48576838)
+hackernews · giuliomagnifico · Jun 17, 03:55 · [Discussion](https://news.ycombinator.com/item?id=48565498)
 
-**Background**: VMware is a dominant virtualization platform, but after Broadcom's acquisition in 2023, the company has raised prices and reduced support, prompting many enterprises to consider alternatives. Open-source hypervisors like Proxmox and XCP-ng have emerged as popular options for organizations seeking to avoid vendor lock-in and high costs.
+**Background**: DeepSeek is a Chinese AI company founded in 2023, known for developing cost-effective large language models like DeepSeek-R1 that rival GPT-4. The US Entity List is an export control tool used to restrict trade with entities deemed a national security threat. The US has increasingly scrutinized Chinese tech firms, especially in AI, amid ongoing trade tensions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://linbit.com/blog/comparing-open-source-virtualization-platforms/">Comparing Open Source Virtualization Platforms - LINBIT</a></li>
-<li><a href="https://opennebula.io/blog/experiences/vmware-workload-migration/">The OpenNebula Model for VMware Workload Migration</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Entity_List">Entity List - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters criticized Broadcom's business model as 'tech bottom feeders' that squeeze acquired companies, and noted that Tesco's migration challenges with backup software are a key technical hurdle. One commenter remarked that Broadcom's marketing for Proxmox is 'extremely effective.'
+**Discussion**: Hacker News comments were mixed. Some users noted that the Entity List has limited practical impact on Chinese AI firms since they rely little on US exports except restricted chips. Others criticized US policy as hypocritical or resembling China's restrictions, with concerns about enforceability and geopolitical gamesmanship.
 
-**Tags**: `#VMware`, `#Broadcom`, `#enterprise migration`, `#pricing`, `#open source alternatives`
+**Tags**: `#DeepSeek`, `#US-China trade`, `#AI regulation`, `#security risks`, `#business implications`
 
 ---
 
 <a id="item-2"></a>
-## [AI Chemist Using GPT-5.4 Improves Medicinal Chemistry Reaction](https://openai.com/index/ai-chemist-improves-reaction) ⭐️ 9.0/10
+## [GLM-5.2 Becomes Top Open Weights AI Model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) ⭐️ 9.0/10
 
-OpenAI and Molecule.one have demonstrated a near-autonomous AI chemist, powered by GPT-5.4, that successfully improved a challenging reaction used in medicinal chemistry. This breakthrough showcases the practical application of large language models in organic chemistry, potentially accelerating drug discovery by autonomously optimizing reaction conditions. The system uses GPT-5.4, a version of GPT fine-tuned for chemistry, and integrates with Molecule.one's Maria platform to plan and execute experiments with minimal human intervention.
+Zhipu AI's GLM-5.2 has been ranked as the leading open weights model on the Artificial Analysis Intelligence Index, approaching frontier-level performance at a fraction of the cost of proprietary models. This development signals a significant shift in AI accessibility, as open weights models can match proprietary frontier performance while drastically reducing costs, potentially democratizing advanced AI capabilities. GLM-5.2 is an open weights model, meaning its learned parameters are publicly available, and it was released by the Chinese AI startup Zhipu AI. The model excels in coding benchmarks and long-running agent tasks.
 
-rss · OpenAI Blog · Jun 17, 10:00
+hackernews · himata4113 · Jun 17, 09:12 · [Discussion](https://news.ycombinator.com/item?id=48567759)
 
-**Background**: Medicinal chemistry often involves optimizing reactions that are notoriously difficult and time-consuming. An AI chemist combines large language models with robotic lab equipment to autonomously propose, test, and refine reaction conditions, reducing the need for manual bench work. GPT-5.4 is a specialized iteration of OpenAI's GPT model trained on chemical literature and experimental data.
+**Background**: Open weights models release the final trained parameters, enabling others to run, fine-tune, and audit the model. The Artificial Analysis Intelligence Index evaluates language models on text-only English tasks, providing independent benchmarks. Prior to GLM-5.2, models like DeepSeek V4 and Kimi K2.6 led the open weights category.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://molecule.one/">molecule.one - Chemistry AI for Autonomous Discovery</a></li>
-<li><a href="https://techcrunch.com/2021/06/01/molecule-one-grows-its-drug-synthesis-ai-platform-with-a-4-6m-seed-round/">Molecule.one grows its drug synthesis AI platform with a $4.6M seed round | TechCrunch</a></li>
+<li><a href="https://opensource.org/ai/open-weights">Open Weights: not quite what you’ve been told</a></li>
+<li><a href="https://www.reuters.com/technology/chinas-ai-startup-zhipu-releases-new-flagship-model-glm-5-2026-02-11/">Chinese AI startup Zhipu releases new flagship model GLM-5 | Reuters</a></li>
+<li><a href="https://artificialanalysis.ai/">AI Model & API Providers Analysis | Artificial Analysis</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI chemistry`, `#drug discovery`, `#OpenAI`, `#GPT-5.4`, `#autonomous AI`
+**Discussion**: Commenters expressed enthusiasm about GLM-5.2's performance-to-cost ratio, though some noted reasoning inefficiency. One user wished for better reasoning efficiency after GLM-5.2 spent over 15 minutes on a simple coding task, while others highlighted that providers offer unlimited tokens at $50 per month, undercutting proprietary APIs.
+
+**Tags**: `#GLM`, `#Zhipu AI`, `#open-source`, `#AI model`, `#benchmarking`
 
 ---
 
 <a id="item-3"></a>
-## [GLM-5.2: Most Powerful Open Weights Text LLM Released](https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything) ⭐️ 9.0/10
+## [GPT-5.4 Boosts Drug-Making Reaction in Autonomous AI Chemist](https://openai.com/index/ai-chemist-improves-reaction) ⭐️ 9.0/10
 
-Z.ai released GLM-5.2, a 753 billion parameter open-weights text-only LLM with a 1 million token context window under MIT license, claiming top performance on independent benchmarks. This model likely surpasses all other open-weights LLMs in text-only tasks, democratizing access to state-of-the-art AI for researchers and developers, and intensifying competition in the open-source LLM ecosystem. GLM-5.2 uses a Mixture of Experts architecture with 40 active parameters out of 753B total, but consumes significantly more output tokens per task than peers (43k vs 24-37k). It ranks 2nd on the Code Arena WebDev leaderboard behind only Claude Fable 5.
+OpenAI and Molecule.one have demonstrated a near-autonomous AI chemist powered by GPT-5.4 that successfully improved a challenging reaction used in drug manufacturing, showing significant yield enhancement. This breakthrough integrates advanced language models directly into wet-lab chemistry, potentially accelerating drug discovery and reducing the need for manual experimentation in medicinal chemistry. The system utilized GPT-5.4's reasoning and planning capabilities to autonomously design and execute experiments on Molecule.one's robotic platform MARIA. GPT-5.4 features a 1M+ token context window and unifies coding, reasoning, and computer use.
 
-rss · Simon Willison · Jun 17, 23:58
+rss · OpenAI Blog · Jun 17, 10:00
 
-**Background**: Open weights models provide the trained parameters but not training data or code, offering less transparency than fully open-source. Mixture of Experts (MoE) is a technique where multiple specialized sub-networks are activated per input, reducing computation cost while maintaining large capacity. GLM-5.2 is the latest from Chinese lab Z.ai, continuing their GLM series.
+**Background**: Molecule.one operates an AI-powered high-throughput robotic synthesis platform called MARIA, staffed by skilled chemists and engineers. GPT-5.4 is OpenAI's latest frontier model that integrates Codex and GPT lines, excelling in abstract reasoning tasks. The collaboration represents a step toward fully autonomous chemical research.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Large_language_model">Large language model - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mixture_of_experts">Mixture of experts - Wikipedia</a></li>
-<li><a href="https://www.ibm.com/think/topics/mixture-of-experts">What is mixture of experts? | IBM</a></li>
+<li><a href="https://blockchainnews.azurewebsites.net/news/ai-chemist-gpt54-drug-reaction-yields">AI -Powered Chemist GPT-5.4 Boosts Drug... - Blockchain.News</a></li>
+<li><a href="https://molecule.one/">molecule . one - Making Molecules . Discovering Chemistry</a></li>
+<li><a href="https://openrouter.ai/openai/gpt-5.4">GPT - 5 . 4 - API Pricing & Benchmarks | OpenRouter</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#open weights`, `#GLM-5.2`, `#Z.ai`, `#AI model release`
+**Tags**: `#AI Chemistry`, `#Drug Discovery`, `#OpenAI`, `#GPT-5.4`, `#Medicinal Chemistry`
 
 ---
 
 <a id="item-4"></a>
-## [Noam Shazeer, Transformer Co-Author, Joins OpenAI from Google DeepMind](https://linux.do/t/topic/2426456) ⭐️ 9.0/10
+## [ByteDance Doubao Agent Sandbox S3 Access Isolation Flaw](https://linux.do/t/topic/2427590) ⭐️ 9.0/10
 
-Noam Shazeer, a co-author of the seminal Transformer paper and former co-lead of Google DeepMind's Gemini project, has announced he is joining OpenAI. This move comes just two years after Google re-acquired him and his team from Character.AI for $2.7 billion. Shazeer is one of the most influential AI researchers, and his move to OpenAI could significantly strengthen the company's research in Transformer-based architectures and Mixture of Experts (MoE). It underscores the fierce talent war between Google and OpenAI, and may shift the balance of AI development. In addition to co-authoring the Transformer paper, Shazeer is a pioneer of the Mixture of Experts (MoE) approach. He was lured back to Google in 2024 via a $2.7 billion acquisition of Character.AI, and was quickly appointed as a Gemini co-lead before now departing for OpenAI.
+A security researcher discovered that ByteDance's Doubao agent sandbox lacks access isolation, allowing any user to read and write other users' S3 file systems by simply requesting the root directory. This flaw exposes sensitive data of all Doubao users, potentially leading to data breaches and undermining trust in ByteDance's AI agent services. The vulnerability was triggered in the 'office task' mode by asking the agent to check the '/' directory; screenshots confirmed access to files belonging to other users.
 
-rss · LINUX.DO 前沿快讯 · Jun 18, 02:16
+rss · LINUX.DO 前沿快讯 · Jun 18, 04:32
 
-**Background**: Noam Shazeer is a co-author of the 2017 paper 'Attention is All You Need,' which introduced the Transformer architecture that now powers most large language models (LLMs). He also pioneered Mixture of Experts (MoE), a technique that divides a problem into regions handled by specialized expert networks, improving efficiency and performance. MoE has gained renewed attention in models like Mixtral 8x7B and GPT-4. His move from Google to OpenAI marks a major change in the AI landscape.
+**Background**: An agent sandbox is a secure execution environment for AI agents to run tasks safely. S3 (Amazon Simple Storage Service) is a cloud object storage service where proper access isolation is critical to prevent cross-tenant data leakage. This vulnerability shows the sandbox failed to enforce per-user or per-tenant isolation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Mixture_of_experts">Mixture of experts - Wikipedia</a></li>
-<li><a href="https://huggingface.co/blog/moe">Mixture of Experts Explained</a></li>
+<li><a href="https://aws.amazon.com/cn/blogs/china/agentic-ai-sandbox-practice/">Agentic AI...</a></li>
+<li><a href="https://zone.huoxian.cn/d/2670-s3">带你走进S3存储桶中的潜在漏洞 - 火线 Zone-安全攻防社区</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Noam Shazeer`, `#OpenAI`, `#Google DeepMind`, `#Transformer`, `#AI talent war`
+**Discussion**: The community confirmed the issue with screenshots and reacted with comments like 'criminal', indicating serious concern about the security lapse.
+
+**Tags**: `#安全漏洞`, `#字节跳动`, `#豆包`, `#S3`, `#数据泄露`
 
 ---
 
 <a id="item-5"></a>
-## [NextLat: Transformers Predict Own Latent States](https://www.reddit.com/r/MachineLearning/comments/1u84mio/nextlatent_prediction_transformers_r/) ⭐️ 9.0/10
+## [Noam Shazeer leaves Google for OpenAI](https://linux.do/t/topic/2427233) ⭐️ 9.0/10
 
-Microsoft Research introduces Next-Latent Prediction (NextLat), a self-supervised method that trains transformers to predict their next latent state, achieving up to 3.3x faster inference via self-speculative decoding. NextLat improves data efficiency and representation learning by compressing history into compact belief states, and enables faster inference for large language models without additional models. Theoretically, NextLat latents provably converge to belief states that compress necessary history; the method extends standard next-token training with latent-space prediction and uses recursive multi-step lookahead for speculative decoding.
+Noam Shazeer, Google Gemini co-lead and co-author of the Transformer paper 'Attention Is All You Need', announced on X that he is leaving Google to join OpenAI. This move significantly impacts the AI talent landscape, as Shazeer is one of the most influential researchers in the field. His departure weakens Google's AI leadership and strengthens OpenAI's capabilities. Shazeer was a co-author of the seminal 2017 Transformer paper, co-founded Character.ai in 2021, and returned to Google in 2024 via a $2.7 billion licensing deal before becoming Gemini co-lead. He has not disclosed his specific role at OpenAI yet.
 
-reddit · r/MachineLearning · /u/jayden_teoh_ · Jun 17, 08:44
+rss · LINUX.DO 前沿快讯 · Jun 18, 03:36
 
-**Background**: Next-token prediction trains models to predict the next token given previous tokens, but it is myopic. Latent states are compressed representations of input history. Self-speculative decoding allows a single model to draft and verify tokens for faster generation without losing quality.
+**Background**: The Transformer architecture, introduced in the 2017 paper 'Attention Is All You Need', revolutionized natural language processing and became the foundation for models like GPT and Gemini. Character.ai is a generative AI chatbot platform that allows users to interact with customizable characters. Shazeer's return to Google in 2024 was part of a deal to license Character.ai's technology. His move to OpenAI highlights ongoing competition for top AI talent between major tech companies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2511.05963">[2511.05963] Next-Latent Prediction Transformers Learn Compact World Models</a></li>
-<li><a href="https://arxiv.org/html/2511.05963v1">Next-Latent Prediction Transformers Learn Compact World Models</a></li>
-<li><a href="https://www.emergentmind.com/topics/next-latent-prediction-nextlat">Next-Latent Prediction Overview</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Character.ai">Character.ai</a></li>
+<li><a href="https://arxiv.org/abs/1706.03762">Abstract page for arXiv paper 1706.03762: Attention Is All You Need</a></li>
+<li><a href="https://research.google/pubs/attention-is-all-you-need/">Attention is All You Need</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#transformers`, `#self-supervised learning`, `#inference acceleration`, `#Microsoft Research`, `#world models`
+**Tags**: `#Noam Shazeer`, `#OpenAI`, `#Google`, `#Transformer`, `#AI talent`
 
 ---
 
 <a id="item-6"></a>
-## [US Delays Blacklisting DeepSeek, Labels 100+ Chinese Firms as Risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) ⭐️ 8.0/10
+## [Local Qwen: Complementary Tool, Not Inferior Substitute](https://blog.alexellis.io/local-ai-is-not-opus/) ⭐️ 8.0/10
 
-The United States has decided not to add DeepSeek, a Chinese AI startup, to its trade blacklist for now, but has designated over 100 other Chinese companies as security risks. This decision comes amid ongoing geopolitical tensions over technology and trade. This signals a nuanced US approach toward Chinese AI firms, potentially avoiding a direct escalation with a major industry player while still tightening controls on the broader Chinese tech ecosystem. The decision impacts global supply chains and AI development, especially for companies relying on US technology and services. DeepSeek's flagship model, DeepSeek R1, has been noted for its competitive performance at a fraction of the cost of rival models like OpenAI's GPT-4. However, other Chinese AI companies like Zhipu AI (now Z.ai) were already on the Entity List since January 2025, indicating the US has been selectively targeting firms.
+A blog post by Alex Ellis argues that local AI models like Qwen are complementary to frontier models like Claude Opus, not inferior substitutes, and that they require different prompting techniques. This perspective challenges the common assumption that local models are simply worse versions of frontier models, highlighting their unique value for specific use cases like offline operation and privacy. The post notes that local models can be faster for certain tasks and offer better data privacy, but their prompting strategies differ—being more explicit often works better than the indirect phrasing sometimes used with Claude.
 
-hackernews · giuliomagnifico · Jun 17, 03:55 · [Discussion](https://news.ycombinator.com/item?id=48565498)
+hackernews · alphabettsy · Jun 18, 03:04 · [Discussion](https://news.ycombinator.com/item?id=48580209)
 
-**Background**: DeepSeek is a Chinese AI startup based in Hangzhou, funded by hedge fund High-Flyer, and known for its large language models like DeepSeek R1 and V4. The US Entity List restricts American companies from selling certain goods and services to listed entities, though buying from them is still allowed. Many Chinese AI firms already face export restrictions on Nvidia GPUs.
+**Background**: Local large language models (LLMs) run on a user's own device without requiring internet connectivity, offering privacy and offline access. Frontier models like Claude Opus are cutting-edge, cloud-exclusive systems from companies like Anthropic. Qwen is a family of LLMs developed by Alibaba that can be run locally.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek - Wikipedia</a></li>
-<li><a href="https://www.cnn.com/2025/01/27/tech/deepseek-ai-explainer">What is DeepSeek, the Chinese AI startup that shook the tech world? | CNN Business</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Z.ai">Z.ai - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Qwen">Qwen - Wikipedia</a></li>
+<li><a href="https://grokipedia.com/page/Local_large_language_model">Local large language model</a></li>
+<li><a href="https://grokipedia.com/page/Frontier_model">Frontier model</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments show a mix of views: some users praise DeepSeek's affordability and performance, while others criticize the US approach as hypocritical or reminiscent of China's practices. A comment notes that being on the Entity List does not completely ban trade, but Chinese AI companies already face GPU export restrictions.
+**Discussion**: Commenters generally agreed that local models and frontier models serve different purposes, with some emphasizing the importance of adapting prompting techniques. A few noted the rapid improvement of local models, while others debated performance trade-offs between engines like vLLM and llama.cpp.
 
-**Tags**: `#DeepSeek`, `#US-China`, `#regulation`, `#AI industry`, `#geopolitics`
+**Tags**: `#local LLMs`, `#Qwen`, `#Claude Opus`, `#AI tools`, `#prompting`
 
 ---
 
 <a id="item-7"></a>
-## [Running Firecracker VMs in EC2 for Sub-Second Browser Start](https://browser-use.com/posts/firecracker-browser-infra) ⭐️ 8.0/10
+## [Browser-Use runs Firecracker VMs in EC2 to start browsers under 1s](https://browser-use.com/posts/firecracker-browser-infra) ⭐️ 8.0/10
 
-Browser Use demonstrates a method to run Firecracker microVMs inside AWS EC2 instances using nested virtualization, enabling browser startup in under 1 second with an 81% stealth rate against anti-bot measures. This approach combines the security of hardware virtualization with the speed of lightweight containers, potentially transforming how browser automation services handle anti-bot detection while reducing infrastructure costs. Nested virtualization on regular EC2 instances became generally available in February 2026, eliminating the need for bare-metal instances to run Firecracker VMs. The setup achieves 84.8% on Halluminate BrowserBench, the highest among providers.
+Browser-Use explains how they run Firecracker microVMs inside EC2 instances using nested virtualization, achieving browser startup times under one second by restoring from pre-created snapshots. This approach combines the security of hardware virtualization with the speed of container-like startup, making it ideal for scalable browser automation services such as web scraping and testing. It also demonstrates a practical use case for nested virtualization on standard EC2 instances, potentially reducing costs compared to using bare-metal instances. They leverage nested virtualization, which became available on regular EC2 instances only in February 2026, and use the userfaultfd system call for efficient memory management during snapshot restore. Browser-Use originally used Unikraft but moved away due to challenges in horizontally scaling the underlying EC2 infrastructure, not because of browser startup performance.
 
 hackernews · gregpr07 · Jun 16, 15:15 · [Discussion](https://news.ycombinator.com/item?id=48556561)
 
-**Background**: Firecracker is an open-source virtualization technology by AWS that creates lightweight microVMs, combining security and isolation with fast boot times. It is used in AWS Lambda to run functions in isolated environments, booting in about 125ms. Regular EC2 instances previously did not support nested virtualization, requiring dedicated metal instances for running hypervisors like Firecracker.
+**Background**: Firecracker is an open-source virtualization technology from AWS that creates lightweight microVMs with fast boot times and strong isolation. Nested virtualization allows running a hypervisor (like Firecracker) inside a virtual machine, which previously required bare-metal EC2 instances but is now supported on standard instances. MicroVM snapshots capture the entire guest state, enabling near-instantaneous restoration to a known state, such as a browser already started.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://firecracker-microvm.github.io/">Firecracker</a></li>
-<li><a href="https://huggingface.co/blog/agentbox-master/firecracker-vs-docker-tech-boundary">Firecracker vs Docker: The Technical Boundary Between MicroVMs and Containers</a></li>
+<li><a href="https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/nested-virtualization">What is Nested Virtualization for Hyper-V? | Microsoft Learn</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments raise ethical concerns about bypassing anti-bot measures, questioning the purpose of such services. Some users note that nested virtualization on EC2 is a recent capability, and suggest alternatives like AWS Lambda or switching to more efficient browsers like Lightpanda for better performance.
+**Discussion**: Community comments noted that nested virtualization on regular EC2 instances only became possible in February 2026, and some users suggested alternatives like AWS Lambda for simpler architectures or Lightpanda as a more efficient browser. Others praised the use of userfaultfd for fine-grained memory control during snapshot restore.
 
-**Tags**: `#Firecracker`, `#AWS EC2`, `#browser automation`, `#anti-bot`, `#cloud infrastructure`
+**Tags**: `#Firecracker`, `#EC2`, `#browser automation`, `#nested virtualization`, `#AWS`
 
 ---
 
 <a id="item-8"></a>
-## [U.S. science in crisis: funding cuts and political interference drive talent abroad](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) ⭐️ 8.0/10
+## [LLM Recommendations Show Strong Brand Bias, Study Finds](https://arxiv.org/abs/2606.17443) ⭐️ 8.0/10
 
-U.S. scientific research is facing a severe crisis characterized by funding cuts, arbitrary grant cancellations, and political interference, exemplified by prohibitions on DEI-related language. This has led to a growing brain drain as researchers leave the country or abandon science altogether. This crisis threatens the U.S. innovation pipeline and its global leadership in science and technology. If unresolved, it will have long-term negative impacts on the tech industry, national competitiveness, and public health. Researchers report that grant funding has dried up and visa restrictions prevent hiring of foreign graduate students. The number of people skilled in specialized instruments like optical traps is estimated at around 2,000 worldwide, highlighting the irreplaceable expertise being lost.
+A new study investigates how brand bias and marketing language affect LLM product recommendations, finding that well-known brands dominate but can be challenged by authority-style claims. This research reveals the dynamics of brand competition in LLM-based recommendation systems, with direct implications for e-commerce, marketing, and the emerging practice of generative engine optimization (GEO). Using skincare products across three commercial LLMs (GPT-4o-mini, Claude Sonnet, Gemini 3 Flash), the study introduces an Incumbent Advantage Index (IAI) and Bias Surplus Value to quantify effects, finding that a +0.1-star rating advantage or fabricated clinical claims can break the monopoly of well-known brands.
 
-hackernews · presspot · Jun 17, 09:54 · [Discussion](https://news.ycombinator.com/item?id=48568058)
+rss · arXiv CS.AI · Jun 18, 04:00
 
-**Background**: The U.S. has historically maintained a compact between science and politics, where research funding was largely nonpartisan. Recent political decisions have broken this compact through budget cuts, delayed disbursements, and ideologically motivated restrictions, creating an environment of uncertainty that drives scientists to seek opportunities in other countries or leave academia.
+**Background**: Large language models (LLMs) are increasingly used as product recommendation tools, but their biases are not well understood. Brand bias, the tendency to favor familiar brands, is a well-known consumer behavior. This study extends that concept to LLM recommendations and introduces generative engine optimization (GEO) as an emerging marketing practice that can shape LLM outputs.
 
-**Discussion**: Comments express despair and firsthand accounts: one researcher's wife, an expert in optical traps, cries frequently and is moving abroad; professors cannot hire foreign students due to visa issues; even fields previously insulated are now tense, with promising PhDs and postdocs leaving for other countries.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2606.17443">[2606.17443] Incumbent Advantage: Brand Bias and Cognitive...</a></li>
+<li><a href="https://www.linkedin.com/pulse/perception-power-how-brand-bias-can-fuel-business-growth-tanvi-sood-jnmqc">Perception is Power: How Brand Bias Can Fuel Business Growth</a></li>
+<li><a href="https://www.emarketer.com/content/brand-bias-drives-84-of-purchases-limiting-ad-influence">Brand bias drives 84% of purchases, limiting ad influence</a></li>
 
-**Tags**: `#U.S. science`, `#research funding`, `#brain drain`, `#science policy`, `#tech industry impact`
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#recommendation systems`, `#brand bias`, `#e-commerce`, `#marketing`
 
 ---
 
 <a id="item-9"></a>
-## [GLM-5.2 Tops Open-Source AI Rankings on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) ⭐️ 8.0/10
+## [Google DeepMind and UK Government Partner on AI for Faster Housing Planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) ⭐️ 8.0/10
 
-GLM-5.2, developed by Zhipu AI (Z.AI), has become the top-ranked open weights model on the Artificial Analysis benchmark, surpassing previous leaders with frontier-level quality at significantly lower cost. This achievement demonstrates that open-source models can now compete directly with proprietary frontier models, potentially democratizing access to advanced AI capabilities and reducing costs for businesses and developers. GLM-5.2 supports a 1-million-token context window and is optimized for long-horizon tasks such as software development, coding, and multi-step reasoning, making it suitable for agentic workflows.
+Google DeepMind has announced a collaboration with the UK government to develop an AI-powered prototype aimed at accelerating housing planning decisions. This partnership could significantly reduce delays in housing development, addressing the UK's housing shortage by streamlining the planning process, which is often a major bottleneck. The prototype will use AI to analyze planning applications and provide recommendations, but it is not intended to replace human decision-makers. The project is in its early stages, with no specific timeline for deployment.
 
-hackernews · himata4113 · Jun 17, 09:12 · [Discussion](https://news.ycombinator.com/item?id=48567759)
+rss · Google DeepMind · Jun 16, 21:29
 
-**Background**: Artificial Analysis is an independent platform that benchmarks AI models across quality, price, speed, and latency. Open weights models are those with publicly released parameters, allowing anyone to run them. GLM-5.2 is the latest in Zhipu AI's GLM series, which focuses on agentic software engineering.
+**Background**: In the UK, housing planning decisions are often slow due to the volume of applications and manual review processes. AI can help by automating data analysis and flagging common issues, potentially reducing processing times. This initiative is part of a broader trend of governments exploring AI for public services.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://huggingface.co/zai-org/GLM-5.2">zai-org/GLM-5.2 · Hugging Face</a></li>
-<li><a href="https://artificialanalysis.ai/">AI Model & API Providers Analysis | Artificial Analysis</a></li>
-<li><a href="https://docs.z.ai/guides/llm/glm-5.2">GLM-5.2 - Overview - Z.AI DEVELOPER DOCUMENT</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community members praised the model's cost-performance advantage, noting that providers offer it at prices significantly lower than Anthropic's Opus or OpenAI's GPT models. However, some users pointed out excessive reasoning token usage and slow inference for complex tasks, hoping for future optimization.
-
-**Tags**: `#AI`, `#open source`, `#GLM`, `#model release`, `#artificial analysis`
+**Tags**: `#AI`, `#government`, `#housing`, `#planning`, `#DeepMind`
 
 ---
 
 <a id="item-10"></a>
-## [New Metric: Structural Uncertainty for LLM Reasoning Consistency](https://arxiv.org/abs/2606.17312) ⭐️ 8.0/10
+## [OpenAI Releases LifeSciBench for AI in Life Science Research](https://openai.com/index/introducing-life-sci-bench) ⭐️ 8.0/10
 
-Researchers from IBM propose structural uncertainty, a framework that quantifies consistency in LLM logical reasoning by analyzing self-preference rankings over sampled reasoning solutions. The paper received the Best Paper Award at the ICLR 2026 Workshop on Logical Reasoning of Large Language Models. This work addresses the critical but overlooked aspect of reasoning consistency in LLMs, providing a more nuanced evaluation method beyond simple answer accuracy. It has practical implications for industry deployment, helping to identify unreliable instances in logical and mathematical reasoning tasks. The framework uses the Bradley-Terry model with PageRank to aggregate pairwise self-preferences into ranking distributions, and decomposes structural uncertainty into two components: across-trial ranking instability and within-trial candidate ambiguity. On factual retrieval tasks, structural signals collapse toward uniformity, indicating a regime where reasoning-level consistency evaluation is uninformative.
+OpenAI has introduced LifeSciBench, an expert-authored and reviewed benchmark consisting of 750 real-world life science research tasks, with expert-written rubrics for grading AI performance. This benchmark provides a rigorous evaluation of AI systems on realistic research tasks, which could accelerate drug discovery and research automation by identifying current limitations and guiding improvements. LifeSciBench includes 750 tasks co-authored by 173 scientists, and according to early results, even the strongest AI model passes only 36.1% of the tasks, highlighting significant room for improvement.
 
-rss · arXiv CS.AI · Jun 17, 04:00
+rss · OpenAI Blog · Jun 17, 00:00
 
-**Background**: Existing methods for LLM reliability assessment primarily focus on answer dispersion—how much sampled answers differ—but ignore whether the model can consistently rank competing reasoning candidates. The Bradley-Terry model is a statistical model for pairwise comparisons that estimates the probability of one item being preferred over another, commonly used in ranking tasks. By leveraging self-preferences, structural uncertainty captures signals missed by dispersion-based approaches.
+**Background**: Benchmarks are standardized tests used to evaluate and compare AI systems on specific capabilities. LifeSciBench goes beyond simple biology question-answering by assessing an AI's ability to perform authentic research tasks like experimental design and data interpretation, which are critical for real-world scientific applications.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2606.17312">[2606.17312] Quantifying Consistency in LLM Logical Reasoning via...</a></li>
-<li><a href="https://www.linkedin.com/posts/anila-joshi_quantifying-consistency-in-llm-logical-reasoning-activity-7453990520030224384-1iar">Can you trust LLMs' reasoning or just their answers | LinkedIn</a></li>
+<li><a href="https://www.marktechpost.com/2026/06/17/openai-releases-lifescibench-a-750-task-benchmark-grading-ai-models-on-real-life-science-research-with-expert-written-rubric/">OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The LinkedIn post by Anila Joshi highlights the paper receiving the Best Paper Award at the ICLR 2026 Workshop and expresses enthusiasm about the practical implications for evaluating LLM reasoning consistency. The community response appears positive, acknowledging the novelty and potential impact.
-
-**Tags**: `#LLM`, `#reasoning`, `#consistency`, `#evaluation`, `#uncertainty`
+**Tags**: `#OpenAI`, `#benchmark`, `#life science`, `#AI evaluation`, `#research`
 
 ---
 
 <a id="item-11"></a>
-## [Cognitive Models Improve LLM Simulation of Human Decision-Making](https://arxiv.org/abs/2606.17657) ⭐️ 8.0/10
+## [Anthropic opens Seoul office, partners with Korean AI ecosystem](https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem) ⭐️ 8.0/10
 
-A new paper proposes Equation-to-Behavior Prompting and Equation-to-Behavior RL to align large language models with cognitive models of human decision-making, showing that large models can approximate Bayesian and biased reasoning via prompts, while RL training reduces belief error by 26.5% in out-of-distribution scenarios. This work could improve the realism of simulated humans used for safety evaluations and training of LLMs, potentially leading to more robust alignment and safer AI systems. The study evaluates four cognitive models: Bayesian updating, affine distortion, motivated updating, and Grether's α-β model. Small models fail with prompting alone, but fine-tuning with RL on mathematical rules helps them generalize to unseen cognitive models.
+Anthropic has opened a new office in Seoul, South Korea, and announced multiple partnerships with local companies in the Korean AI ecosystem. This strategic expansion strengthens Anthropic's presence in Asia, potentially accelerating the adoption of its AI models in the Korean market and fostering innovation through local collaborations. The specific partners and details of the partnerships were not disclosed in the announcement, but the move signals a commitment to building relationships in one of the world's leading technology hubs.
 
-rss · arXiv CS.AI · Jun 17, 04:00
+rss · Anthropic News · Jun 17, 00:00
 
-**Background**: Large language models are often used to simulate human behavior for safety evaluations, but these simulations may not capture the full range of human decision-making biases and strategies. Cognitive science and economics offer mathematical models, such as Bayesian updating and motivated reasoning, that precisely describe how people make decisions in strategic interactions. This paper bridges the two fields by showing how to prompt or train LLMs to adhere to these formal models.
+**Background**: Anthropic is a US-based AI safety startup known for its Claude model. South Korea has a strong AI ecosystem with major tech companies and growing AI research. Opening an office in Seoul allows Anthropic to engage with local talent, businesses, and policymakers.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/pdf/2606.17657">Using Cognitive Models to Improve Language Model Simulation of...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLMs`, `#cognitive science`, `#human simulation`, `#safety evaluation`, `#persuasion games`
+**Tags**: `#Anthropic`, `#Korea`, `#AI Ecosystem`, `#Partnerships`
 
 ---
 
 <a id="item-12"></a>
-## [Google DeepMind AI to Speed Up UK Housing Planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) ⭐️ 8.0/10
+## [Huawei Ascend Offers Day 0 Support for GLM-5.2 with Inference Optimizations](https://linux.do/t/topic/2428728) ⭐️ 8.0/10
 
-The UK government has partnered with Google DeepMind to develop an AI-powered prototype aimed at accelerating housing planning decisions, as part of a broader initiative to modernize the planning system and meet the target of building 1.5 million homes. This partnership demonstrates a high-value application of AI in government and urban planning, potentially reducing approval times and boosting housing supply. It could set a precedent for AI use in public sector decision-making. The AI prototype will be built by Google DeepMind, leveraging its expertise in AI research. The project is part of the UK government's plan to use AI planning tools to speed up decisions and support the 1.5 million homes target.
+Huawei's Ascend AI platform announced Day 0 support for Zhipu's GLM-5.2 model on June 17, 2025, providing comprehensive inference optimizations including MoE fusion operators, communication-computation overlap, and PD separation. This marks a significant step for domestic AI infrastructure, enabling efficient inference of competitive Chinese LLMs on Huawei's Ascend hardware, reducing reliance on foreign GPUs. The optimizations improve throughput and latency for long-context and coding tasks, benefiting Chinese AI ecosystem development. The optimizations include a fused MoE operator, communication-computation overlap via ReduceScatter and AllGather, attention preprocessing with multi-token prediction, high-concurrency scheduling, intelligent caching with IndexCache, and PD separation with prefix caching. Under 1M context length, FLOPs per token are reduced to 2.9 times of baseline.
 
-rss · Google DeepMind · Jun 16, 21:29
+rss · LINUX.DO 前沿快讯 · Jun 18, 07:09
 
-**Background**: The UK planning system has been criticized for being slow and bureaucratic, often delaying housing projects. AI tools like Extract are emerging to streamline planning permission processes. Google DeepMind is a leading AI research lab known for breakthroughs like AlphaGo and AlphaFold.
+**Background**: Ascend is Huawei's AI accelerator series, and GLM-5.2 is the latest large language model from Zhipu AI, featuring a Mixture-of-Experts (MoE) architecture that activates only a subset of parameters per token. Inference optimizations are critical to reduce memory and compute costs, especially for long-context scenarios. PD separation separates the prefill and decode phases to improve throughput stability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.pbctoday.co.uk/news/digital-construction-news/ai-planning-tool-accelerate-governments-1-5m-homes-target/162946/">AI planning tool to accelerate government’s 1.5m homes target</a></li>
+<li><a href="https://www.qbitai.com/2025/05/289806.html">每2秒吃透一道高数 大 题！ 华 为 终于揭秘准万亿 MoE ...</a></li>
+<li><a href="https://docs.vllm.ai/projects/vllm-ascend-cn/zh-cn/latest/user_guide/feature_guide/Multi_Token_Prediction.html">多 Token 预 测 ( MTP ) — vllm-ascend</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#government`, `#urban planning`, `#partnership`, `#DeepMind`
+**Tags**: `#Huawei Ascend`, `#GLM-5.2`, `#AI Inference`, `#Chinese AI`, `#Model Optimization`
 
 ---
 
 <a id="item-13"></a>
-## [Anthropic opens Seoul office, forms Korean AI partnerships](https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem) ⭐️ 8.0/10
+## [Tencent Launches Agently Mail for AI Agents](https://linux.do/t/topic/2426264) ⭐️ 8.0/10
 
-Anthropic has announced the opening of a new office in Seoul, South Korea, along with new partnerships across the Korean AI ecosystem. This expansion signals Anthropic's strategic commitment to the Korean market, potentially accelerating AI adoption and collaboration in the region. The office opening and partnerships are part of Anthropic's broader global expansion, though specific partner names were not disclosed.
+Tencent's QQ Mail team has launched Agently Mail, a dedicated email service specifically designed for AI agents. It offers CLI integration and is completely isolated from personal email accounts. This marks a significant step in building infrastructure for AI agents, enabling them to independently send and receive emails. It could accelerate the development of autonomous agent workflows by providing a secure, dedicated communication channel. Users can create multiple email addresses per account and potentially authorize multiple agents to use one address. The service includes usage limits and is accessed via CLI setup with a prompt that users copy to their agent.
 
-rss · Anthropic News · Jun 17, 00:00
+rss · LINUX.DO 前沿快讯 · Jun 18, 01:55
 
-**Background**: Anthropic is a leading AI research and safety company, known for developing Claude, a large language model. The Korean AI ecosystem includes major tech companies, startups, and research institutions, making it a strategic location for expansion.
+**Background**: AI agents are autonomous software programs that can perform tasks without human intervention. Email is a common tool for agents to communicate or receive instructions, but using personal email poses security risks. Agently Mail provides a sandboxed environment where agents can operate safely.
 
-**Tags**: `#Anthropic`, `#Korea`, `#business expansion`, `#partnerships`, `#AI ecosystem`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://agent.qq.com/">Agently Mail</a></li>
+<li><a href="https://www.npmjs.com/package/@tencent-qqmail/agently-cli">tencent- qqmail /agently- cli - npm</a></li>
+<li><a href="https://github.com/Tencent/AgentlyMail">GitHub - Tencent /AgentlyMail · GitHub</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments note that the domain agent.qq.com seems valuable and may indicate future expansions. Users found setup simple, involving copying a prompt to the agent and authorizing via a URL. Some speculated that this email service might be a transitional product.
+
+**Tags**: `#Tencent`, `#Agent`, `#Email`, `#QQ Mail`, `#AI Agent`
 
 ---
 
 <a id="item-14"></a>
-## [Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) ⭐️ 8.0/10
+## [AI decodes grammar, meaning from single-neuron speech data](https://linux.do/t/topic/2425787) ⭐️ 8.0/10
 
-The US export controls forced Anthropic to ban Claude Fable 5 from fixing code vulnerabilities, a capability that security experts argue is essential for cyber defense. This decision was based on a misinterpretation of defensive security requests as jailbreaks. This policy undermines US cyber security by preventing the use of advanced AI to patch vulnerabilities, while adversaries can still exploit such tools. It highlights the tension between AI regulation and practical security needs. The researchers used a multistep process to ask Fable 5 to 'fix this code' on open-source code with known CVEs and intentionally planted vulnerabilities. Kate Moussouris confirmed this was a defensive task, not a jailbreak.
+Researchers combined single-cell brain recordings from humans during conversation with machine learning models to identify neurons encoding grammar, syntax, and meaning. The findings, published in Nature, reveal specialized neurons that track parts of speech, phrase boundaries, and sentence context. This work provides unprecedented insight into how the human brain encodes language at the cellular level, with direct implications for brain-computer interfaces and restorative communication devices. It demonstrates that AI can decode linguistic features from individual neurons, paving the way for neural prosthetics that restore speech for paralyzed patients. The study focused on neurons in the frontal and temporal cortex, showing that individual cells are selective for specific linguistic features such as noun/verb categories and constituent boundaries. The AI models achieved above-chance decoding of grammatical relations, depth, and semantic context from populations of 579 neurons.
 
-rss · Simon Willison · Jun 16, 05:20
+rss · LINUX.DO 前沿快讯 · Jun 18, 00:45
 
-**Background**: Export controls on AI models aim to restrict adversaries' access to cutting-edge technology, but they are applied broadly, impacting legitimate uses. Claude Fable 5 is Anthropic's most powerful model with high performance on coding benchmarks. The term 'jailbreak' refers to circumventing model safety guardrails to produce harmful content.
+**Background**: Neural decoding aims to reconstruct sensory or cognitive information from neural activity patterns. Single-cell recordings capture electrical activity from individual neurons, offering high spatial resolution. Prior work in language decoding often used fMRI or ECoG, which average over large brain regions; this study achieves finer granularity by targeting single neurons.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519">Inside the whirlwind 24 hours that led the White House to slap export ...</a></li>
-<li><a href="https://www.datacamp.com/blog/claude-fable-5">Claude Fable 5 : A Mythos-Class Model You Can Use | DataCamp</a></li>
-<li><a href="https://repello.ai/blog/understanding-ai-jailbreaking-techniques-and-safeguards-against-prompt-exploits">AI Jailbreak Prompts: How They Work, Why They Work... | Repello AI</a></li>
+<li><a href="https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action">Ambitious Brain Recordings Create Unprecedented... | Stanford HAI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Neural_decoding">Neural decoding - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#export controls`, `#AI policy`, `#cybersecurity`, `#Claude`, `#vulnerability fixing`
+**Tags**: `#neuroscience`, `#AI`, `#brain-computer interface`, `#language processing`
 
 ---
 
 <a id="item-15"></a>
-## [Google Announces Agentic Resource Discovery Specification](https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/) ⭐️ 8.0/10
+## [Microsoft's NextLat: Predicting Latent States for Faster, Efficient Transformers](https://www.reddit.com/r/MachineLearning/comments/1u84mio/nextlatent_prediction_transformers_r/) ⭐️ 8.0/10
 
-Google has announced the Agentic Resource Discovery (ARD) specification, an open standard for publishing, discovering, and verifying AI agent capabilities across the web. This specification could become a foundational standard for agent interoperability, enabling autonomous AI agents to find and use tools and services without human intervention, potentially transforming how AI systems operate on the web. ARD is an open specification, hosted by the Linux Foundation's JDF (Joint Development Foundation), and includes a reference implementation on GitHub, with contributions from Hugging Face and other partners.
+Microsoft Research introduces Next-Latent Prediction (NextLat), a self-supervised method that trains transformers to predict their own next latent state, augmenting standard next-token prediction. NextLat improves representation learning, data efficiency, and enables up to 3.3x faster inference via self-speculative decoding, offering a practical boost for large language models. The method trains the transformer to predict its next latent state given the current latent state and next token, providing denser supervision than one-hot token prediction. It also enables recursive multi-step lookahead for faster inference.
 
-rss · Google AI Dev · Jun 17, 00:00
+reddit · r/MachineLearning · /u/jayden_teoh_ · Jun 17, 08:44
 
-**Background**: Agentic AI refers to AI systems that can autonomously take actions to complete tasks, often by interacting with web services and tools. Currently, there is no standard way for these agents to discover available resources, leading to fragmentation. ARD aims to fill this gap by providing a uniform discovery and verification protocol.
+**Background**: Standard autoregressive transformers predict the next token directly, which is myopic and inefficient for planning. NextLat introduces a compact world model by predicting in latent space, compressing history into belief states. Self-speculative decoding uses a single model to draft and verify token blocks, losslessly accelerating generation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/">Announcing the Agentic Resource Discovery specification</a></li>
-<li><a href="https://github.com/huggingface/hf-discover">GitHub - huggingface/hf- discover : Agentic Resource Discovery ...</a></li>
-<li><a href="https://www.marcus-povey.co.uk/2026/05/11/being-prepared-for-agentic-search/">Being prepared for Agentic Search – Marcus Povey</a></li>
+<li><a href="https://www.emergentmind.com/topics/next-latent-prediction-nextlat">Next - Latent Prediction Overview</a></li>
+<li><a href="https://arxiviq.substack.com/p/next-latent-prediction-transformers">Next - Latent Prediction Transformers Learn Compact World Models</a></li>
+<li><a href="https://huggingface.co/blog/layerskip">Faster Text Generation with Self - Speculative Decoding</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#agentic AI`, `#Google`, `#open standard`, `#tool discovery`, `#agents`
+**Discussion**: The submitter, likely an author, expressed excitement about the work, but no other community comments were provided in the post.
+
+**Tags**: `#Microsoft Research`, `#transformer`, `#self-supervised learning`, `#efficient inference`, `#latent prediction`
 
 ---
 
 <a id="item-16"></a>
-## [Apple to Raise Prices Due to Rising Memory Chip Costs, Says Cook](https://linux.do/t/topic/2425614) ⭐️ 8.0/10
+## [Midjourney Announces AI-Powered Ultrasonic CT Scanner](https://www.midjourney.com/medical/blogpost) ⭐️ 7.0/10
 
-Apple CEO Tim Cook stated in an interview with The Wall Street Journal that the company will raise product prices due to surging costs of memory and storage chips, calling the increase 'inevitable' after efforts to absorb the pressure. This signals a significant shift in Apple's pricing strategy, potentially impacting consumer prices across iPhones, iPads, Macs, and other devices, and reflects broader industry-wide supply chain cost pressures. The price increases are driven by NAND flash and DRAM chip cost surges, with recent reports showing NAND flash prices rising 5-10% and DRAM prices jumping 50-55% in Q4 2025 alone.
-
-rss · LINUX.DO 前沿快讯 · Jun 17, 23:52
-
-**Background**: Memory and storage chip prices have been volatile. In 2025, major manufacturers like Samsung, SK Hynix, and Micron announced price increases due to strong demand from AI and data centers. NAND flash saw its first major price increase in seven years, and DRAM prices are expected to surge up to 110% by early 2026. Apple's products rely heavily on these components, making it susceptible to cost fluctuations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.semicone.com/article-173.html">NAND Flash Prices Surge: Understanding the... - Semicon electronics</a></li>
-<li><a href="https://www.tweaktown.com/news/109996/analysts-say-pc-dram-pricing-for-q1-2026-will-hit-record-highs-doubling-the-previous-estimate/index.html">Analysts say PC DRAM pricing for Q1 2026 will hit record highs...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: In the forum discussion, some users joked that their old Apple devices might increase in value, reflecting a lighthearted take on the price hike news. The 19 comments suggest active community engagement on this topic.
-
-**Tags**: `#Apple`, `#Pricing`, `#Supply Chain`, `#Memory Chips`
-
----
-
-<a id="item-17"></a>
-## [Speculative Decoding Hits Mainstream with SGLang's SOTA Implementation](https://www.reddit.com/r/MachineLearning/comments/1u83kzt/what_is_speculative_decoding_trending_on/) ⭐️ 8.0/10
-
-Speculative decoding is currently trending on Papers with Code, and the serving framework SGLang has released a blog post detailing how it achieves state-of-the-art inference latencies by integrating with Modal and Z.ai's DFlash speculative decoding models. This technique dramatically accelerates large language model inference without compromising output quality, enabling more responsive real-time applications like chatbots and code assistants. SGLang's implementation marks a key step toward practical deployment. Speculative decoding uses a small draft model to propose multiple tokens that are then verified in parallel by a larger target model. SGLang's integration with DFlash models achieves state-of-the-art latency by optimizing the draft-verify pipeline.
-
-reddit · r/MachineLearning · /u/NielsRogge · Jun 17, 07:41
-
-**Background**: Large language models generate text one token at a time, making inference slow and costly. Speculative decoding accelerates this by leveraging a fast draft model to speculate several future tokens, which a large model then verifies in a single batch. SGLang is a high-performance serving framework designed for low-latency, high-throughput LLM inference.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://grokipedia.com/page/Speculative_Decoding">Speculative Decoding</a></li>
-<li><a href="https://www.datacamp.com/tutorial/speculative-decoding">Speculative Decoding : A Guide With Implementation... | DataCamp</a></li>
-<li><a href="https://www.sglang.io/">SGLang - High-Performance Serving Framework for LLMs and VLMs</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#speculative decoding`, `#LLM inference`, `#optimization`, `#SGLang`, `#vLLM`
-
----
-
-<a id="item-18"></a>
-## [Midjourney Unveils Medical Imaging Project to Reduce CT Radiation](https://www.midjourney.com/medical/blogpost) ⭐️ 7.0/10
-
-Midjourney announced the 'Midjourney Medical' project, which aims to use ultrasound and AI to achieve full-body imaging in as little as 60 seconds, potentially reducing CT scan radiation. This marks a significant pivot for a prominent AI company into healthcare, potentially enabling cheaper and safer full-body screening. However, skepticism about its feasibility tempers the impact. The project is based on 'Ultrasonic CT' and claims superiority over MRI in some aspects, but lacks published clinical data. The announcement includes only a concept video and a sign-up page.
+Midjourney, known for its AI image generation platform, announced a new division called Midjourney Medical and presented a concept for an 'Ultrasonic CT' device that uses AI and ultrasound to create full-body images, aiming to reduce radiation exposure compared to traditional CT scans. If successful, this could revolutionize medical imaging by providing a safer, cheaper alternative to CT scans, potentially enabling earlier detection of various diseases. However, the announcement is currently conceptual with no proof of working prototype. The device is described as a 'full-body ultrasound' using phased array beamforming and nanometer deflection sensitivity, but the resolution claims may not directly translate to image quality. Midjourney's existing AI compute resources may be repurposed for this effort.
 
 hackernews · ricochet11 · Jun 18, 01:59 · [Discussion](https://news.ycombinator.com/item?id=48579650)
 
-**Background**: CT scans use X-rays to create detailed cross-sectional images, but involve radiation exposure. Ultrasound uses sound waves and is radiation-free, but traditionally limited by bone and air. AI can enhance ultrasound image quality. Midjourney is well-known for its AI image generation tool, now pivoting to medical imaging.
+**Background**: Midjourney is a leading AI company primarily known for its text-to-image generation model. Traditional CT scans use X-rays to create cross-sectional images but expose patients to ionizing radiation. The proposed 'Ultrasonic CT' aims to use harmless sound waves and AI reconstruction to produce similar images without radiation.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.midjourney.com/medical">Midjourney Medical</a></li>
 <li><a href="https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan">Midjourney Medical goes from AI image generation to... | The Verge</a></li>
-<li><a href="https://www.electricsense.com/what-about-ct-scan-radiation/">How Dangerous Are The EMFs From CT Scan Radiation ?</a></li>
+<li><a href="https://www.shacknews.com/article/149705/midjourney-medical-is-a-new-division-from-midjourney">Midjourney Scanner is a new medical diagnostic device from the AI ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reactions are mixed: some express cautious optimism, while others point out the lack of substance. A doctor-engineer doubts it will replace MRI, and a user suggests it's a revenue pivot. There is also excitement about the potential for low-cost monitoring, but concerns about compute requirements.
+**Discussion**: Comments are mixed: some find the concept exciting and technically plausible, while others note the lack of substantive proof and warn about over-detection risks. One commenter with MRI background praises the technical direction but cautions about misleading claims on resolution.
 
-**Tags**: `#Midjourney`, `#medical imaging`, `#AI`, `#CT scan`, `#healthcare`
+**Tags**: `#AI`, `#medical imaging`, `#Midjourney`, `#healthcare`, `#deep learning`
 
 ---
 
-<a id="item-19"></a>
-## [Lore: Open source VCS for game development scalability](https://lore.org/) ⭐️ 7.0/10
+<a id="item-17"></a>
+## [Lore: Open-source version control for game development scalability](https://lore.org/) ⭐️ 7.0/10
 
-Epic Games has announced Lore, an open source version control system designed specifically for game development, targeting scalability for large binary files and exclusive file locking, as a competitor to Perforce. This matters because game development has long relied on proprietary Perforce for handling large assets and locking, and an open source alternative could reduce costs and increase flexibility for studios of all sizes, especially those using Unreal Engine. Lore is already the built-in VCS for UEFN (Unreal Editor for Fortnite), but the open source version currently cannot communicate with UEFN due to proprietary compression formats; it is released under a permissive license.
+Lore is a new open-source version control system designed specifically for scalability in game development, handling large binary files and exclusive locks as a competitor to Perforce. Game developers have long struggled with Git's poor handling of large binary assets and lack of file locking; Lore offers a free, open-source alternative to the proprietary Perforce, potentially reducing costs and improving collaboration. Lore focuses on features essential for game development such as exclusive file locks to prevent conflicts on binary assets, and efficient storage for large files. It is not intended to replace Git for code but to serve as a specialized tool for game teams.
 
 hackernews · regnerba · Jun 17, 14:30 · [Discussion](https://news.ycombinator.com/item?id=48571081)
 
-**Background**: Version control systems track changes to files over time. Git dominates for code but struggles with large binary files and lacks fine-grained file locking needed for game assets. Perforce (P4) is the industry standard in game development for handling large projects and exclusive locks. Lore aims to combine the best of both with modern scalability.
+**Background**: Version control systems track changes to files over time. Git is popular for code but struggles with large binary files (e.g., textures, models) common in game development. Perforce is the industry standard for games due to its support for large files and exclusive locks, but it is proprietary and expensive. Lore aims to provide similar capabilities as an open-source solution.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://epicgames.github.io/lore/explanation/system-design/">The Lore Version Control System - Lore Developer Documentation</a></li>
-<li><a href="https://github.com/EpicGames/lore">GitHub - EpicGames/ lore : Lore is a next-generation, open source...</a></li>
-<li><a href="https://alternativeto.net/software/lore-version-control/about/">Lore Version Control : Lore is a next-generation, open... | AlternativeTo</a></li>
+<li><a href="https://www.perforce.com/products/helix-core">Perforce P4: Version Control that Scales With Your Team</a></li>
+<li><a href="https://www.codeguru.com/tools/version-control-systems/">Top 10 Version Control Systems | CodeGuru.com</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments on Hacker News show strong interest, noting Lore addresses real pain points (large files, exclusive locks) and that Perforce needs a challenger. Some mention Git's UI unfriendliness and that Lore is particularly promising for Unreal Engine development. Sentiment is positive but cautious about the current UEFN limitation.
+**Discussion**: Community comments on Hacker News express strong support for Lore as a much-needed alternative to Perforce, especially for Unreal Engine development. Some criticize Git's user interface and highlight Perforce's complexity, while noting that Lore could simplify game development workflows.
 
 **Tags**: `#version control`, `#game development`, `#open source`, `#scalability`
 
 ---
 
-<a id="item-20"></a>
-## [Adam Launches CADAM: Open-Source AI CAD from Text](https://github.com/Adam-CAD/CADAM) ⭐️ 7.0/10
+<a id="item-18"></a>
+## [Adam (YC W25) Launches Open-Source AI CAD Platform](https://github.com/Adam-CAD/CADAM) ⭐️ 7.0/10
 
-Adam (YC W25) launched CADAM, an open-source AI agent that generates parametric 3D mechanical CAD models from natural language prompts or image references, outputting OpenSCAD code with interactive sliders for dimension adjustments. This represents a step toward AI-driven mechanical design, potentially reducing the barrier to CAD modeling for non-experts, though current limitations in spatial understanding and engineer trust remain challenges. CADAM runs entirely in-browser by compiling OpenSCAD to WebAssembly and uses a model-agnostic approach via the Vercel AI SDK, supporting multiple LLMs like Claude, Gemini, and OpenAI with adaptive thinking.
+Adam (YC W25) launched CADAM, an open-source text-to-CAD platform that generates parametric 3D models from natural language and image references, outputting OpenSCAD code with interactive parameter sliders. This represents a significant step towards making CAD design accessible via AI, potentially democratizing mechanical design for non-experts and accelerating workflows for professionals, especially with its open-source nature allowing community contributions and customization. The platform runs entirely in-browser using WebAssembly-compiled OpenSCAD, supports multiple LLM backends including Gemini, Claude, and OpenAI via the Vercel AI SDK, and exports in STL, SCAD, OBJ, GLB, FBX, and DXF formats. It features two modes: parametric (OpenSCAD code generation) and mesh (textured 3D meshes).
 
 hackernews · zachdive · Jun 17, 16:14 · [Discussion](https://news.ycombinator.com/item?id=48572553)
 
-**Background**: Traditional CAD software requires manual modeling, but CADAM uses AI to generate code (OpenSCAD) from text, then compiles it into 3D models. OpenSCAD is a script-based CAD tool that creates models via code, making it suitable for AI generation.
+**Background**: CAD (Computer-Aided Design) traditionally requires specialized software and expertise to create 3D models. Text-to-CAD tools use AI to interpret natural language descriptions and generate corresponding 3D models. CADAM is built with React (TanStack Start) and Supabase for backend services. OpenSCAD is a script-only CAD modeler that creates 3D objects from code, making it suitable for AI generation.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://tanstack.com/start/v0">TanStack Start</a></li>
-<li><a href="https://grokipedia.com/page/Supabase">Supabase</a></li>
+<li><a href="https://supabase.com/">Supabase | The Postgres Development Platform.</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reactions are mixed: some engineers question the practical use cases, arguing manual modeling is faster and safer, while others praise the parametric slider feature for rapid iteration and cite successful specific prompt results.
+**Discussion**: The community expressed interest in differentiating from other AI CAD solutions, with one user asking about the team's moat and monetization plans. Another user praised the platform's performance on a specific prompt, noting it was faster than loading traditional CAD software. There was also a question about working from photos and a mention of a competing early-stage project.
 
-**Tags**: `#AI`, `#CAD`, `#open-source`, `#Y Combinator`, `#mechanical design`
+**Tags**: `#AI CAD`, `#open-source`, `#YC startup`, `#text-to-CAD`
+
+---
+
+<a id="item-19"></a>
+## [SteamOS 3.8 Stable Released with Arch Linux and KDE Plasma 6.4](https://store.steampowered.com/news/app/1675200/view/697641379212298072) ⭐️ 7.0/10
+
+Valve released SteamOS 3.8 stable, rebasing on Arch Linux and upgrading to KDE Plasma 6.4, along with improved Wayland support. This update brings modern desktop environment features and more up-to-date packages to Steam Deck and Linux gaming PCs, enhancing user experience and compatibility. The rebase from a semi-rolling Debian base to Arch Linux provides more frequent updates, while the move to KDE Plasma 6.4 offers improved performance and Wayland integration.
+
+hackernews · jrepinc · Jun 18, 04:05 · [Discussion](https://news.ycombinator.com/item?id=48580686)
+
+**Background**: Arch Linux is a rolling release distribution known for its minimal design and up-to-date packages. KDE Plasma is a flexible desktop environment. Wayland is a display server protocol that offers better security and performance compared to X11.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Arch_Linux">Arch Linux</a></li>
+<li><a href="https://en.wikipedia.org/wiki/KDE_Plasma">KDE Plasma</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Users expressed interest in using SteamOS as a general desktop distro, with questions about compatibility with NVIDIA GPUs. Some noted the updated Arch base brings packages within a year old rather than 1.5 years. Enthusiasm for KDE 6.4 and Wayland was tempered by the fact that newer versions (KDE 6.7) are already available.
+
+**Tags**: `#SteamOS`, `#Linux`, `#Gaming`, `#Valve`, `#KDE`
+
+---
+
+<a id="item-20"></a>
+## [RFC 10008 Defines New HTTP QUERY Method](https://www.rfc-editor.org/info/rfc10008/) ⭐️ 7.0/10
+
+RFC 10008 introduces the HTTP QUERY method, which allows safe and idempotent requests with a request body, filling the gap between GET and POST. This new method can simplify API design by providing a standard way to perform complex queries without side effects, and it could improve caching strategies since QUERY is idempotent and cachable. The QUERY method is safe and idempotent, meaning repeated identical requests yield the same effect. The cache key includes the request body, which raises considerations for caching efficiency.
+
+hackernews · schappim · Jun 17, 10:51 · [Discussion](https://news.ycombinator.com/item?id=48568502)
+
+**Background**: HTTP GET is safe and idempotent but does not support a request body, while POST supports a body but is not idempotent. This forces developers to use POST for complex queries or to encode parameters in the URL, leading to limitations in caching and safety. The QUERY method addresses this by allowing a body while maintaining idempotence.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.rfc-editor.org/info/rfc10008/">RFC 10008 : The HTTP QUERY Method | RFC Editor</a></li>
+<li><a href="https://mailarchive.ietf.org/arch/msg/ietf-announce/uNaYyRDGKjyOn_KDT2JaGLlm9fE/">RFC 10008 on The HTTP QUERY Method</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments highlight concerns about including the request body in the cache key, which could lead to unbounded cache keys. Some discuss potential HTML form support for QUERY to avoid POST re-submission warnings, while others note issues with GET bodies in practice.
+
+**Tags**: `#HTTP`, `#RFC`, `#Web Standards`, `#API Design`, `#Caching`
 
 ---
 
 <a id="item-21"></a>
-## [RFC 10008 Defines New HTTP QUERY Method](https://www.rfc-editor.org/info/rfc10008/) ⭐️ 7.0/10
+## [DivInit Improves Agentic Search with Diverse Query Initialization](https://arxiv.org/abs/2606.17209) ⭐️ 7.0/10
 
-The IETF has published RFC 10008, which defines a new HTTP method called QUERY. This method is designed for safe and idempotent requests that include a request body, filling a gap between GET and POST. The QUERY method standardizes how to perform complex queries with request bodies while preserving cacheability and idempotency, which previously forced developers to choose between GET (no body) and POST (non-idempotent). This improves API design consistency and enables efficient caching for data queries. The QUERY method requires the request body to be part of the cache key, which can lead to unbounded cache keys. It was chosen over allowing GET with a body due to historical interoperability issues and strict adherence to HTTP architectural definitions.
+The paper introduces DivInit, a training-free method that diversifies initial queries in parallel sampling for agentic search, achieving consistent gains of 5-7 points on multi-hop QA benchmarks across multiple models. This addresses the diminishing returns of breadth scaling in test-time computation for agentic search, a critical area with business implications. The method is simple, training-free, and improves performance without additional compute. DivInit first samples n candidate queries from a single call, then selects k < n diverse ones to execute in parallel. It was tested on five open-weight models and eight benchmarks.
 
-hackernews · schappim · Jun 17, 10:51 · [Discussion](https://news.ycombinator.com/item?id=48568502)
+rss · arXiv CS.AI · Jun 18, 04:00
 
-**Background**: HTTP methods like GET are idempotent and cacheable but do not support a request body; POST allows a body but is neither idempotent nor cacheable by default. For complex queries with large payloads, developers often used POST, sacrificing caching benefits. The QUERY method combines safe, idempotent semantics with a body, providing a standardized solution for modern APIs.
+**Background**: Agentic search refers to autonomous AI agents that perform multi-step reasoning and tool use to answer complex queries. Test-time scaling aims to improve performance by allocating more computation at inference, either by increasing depth (more turns) or breadth (more parallel trajectories). Standard parallel sampling often suffers from query redundancy, leading to diminishing returns.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html">The HTTP QUERY Method</a></li>
-<li><a href="https://horovits.medium.com/http-s-new-method-for-data-apis-http-query-1ff71e6f73f3">HTTP ‘s New Method For Data APIs: HTTP QUERY | Medium</a></li>
-<li><a href="https://http.dev/query">QUERY - Expert Guide to HTTP methods</a></li>
+<li><a href="https://buzzgrewal.medium.com/ai-agents-dont-need-vector-search-anymore-inside-the-agentic-search-stack-replacing-rag-in-2026-58efcabe4f6f">AI Agents Don’t Need Vector Search Anymore: Inside the Agentic ...</a></li>
+<li><a href="https://grata.com/resources/agentic-search-vs-natural-language-search">Agentic Search vs. Natural Language Search : What’s the Difference...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments express concerns about caching with large or user-controlled cache keys, noting that including the request body as part of the cache key implies unbounded keys. Some see potential in HTML forms supporting QUERY to avoid re-submission warnings, while others have been using GET with a body despite non-standard practice. Overall, the discussion reflects technical debate about practical implications.
-
-**Tags**: `#HTTP`, `#RFC`, `#web standards`, `#API design`
+**Tags**: `#agentic search`, `#test-time scaling`, `#parallel sampling`, `#diversity`, `#query initialization`
 
 ---
 
 <a id="item-22"></a>
-## [Volkswagen blocks GrapheneOS users from app access](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3) ⭐️ 7.0/10
+## [CEO-Bench: Benchmarking LLMs as Strategic CEOs](https://arxiv.org/abs/2606.17459) ⭐️ 7.0/10
 
-Volkswagen has blocked users of the privacy-focused mobile operating system GrapheneOS from accessing its official app and APIs, effectively locking out devices not Play Protect certified. This move alienates privacy-conscious customers and could harm Volkswagen's brand perception among tech-savvy users, while also breaking community integrations like Home Assistant that relied on the open API. The API lockdown affects not only GrapheneOS but also any device without Play Protect certification, killing third-party community projects. Volkswagen's official app reportedly contains heavy advertisements, making the loss of alternative access especially frustrating.
+Researchers introduced CEO-Bench, a multi-agent benchmark that evaluates LLMs on strategic resource reallocation across business units in a multi-round, constraint-rich environment. It tests models on synthesizing conflicting advice from four specialized C-suite advisors to produce a concrete capital allocation plan. This benchmark moves beyond isolated reasoning tasks to assess LLMs on realistic executive decision-making, which involves integrating conflicting stakeholder perspectives under uncertainty. The findings reveal systematic failure modes and tradeoffs that inform the design of future AI-assisted executive systems. The benchmark evaluates models on four dimensions: role integration, conditional boldness, history-sensitive judgment, and plan validity. Experiments on five frontier models across 13 scenarios found high structural validity but sharp divergence on strategic calibration, with failure modes like single-advisor capture and historical amnesia.
 
-hackernews · microtonal · Jun 17, 15:04 · [Discussion](https://news.ycombinator.com/item?id=48571526)
+rss · arXiv CS.AI · Jun 18, 04:00
 
-**Background**: GrapheneOS is an open-source, security-hardened Android-based operating system that strips Google services by default, often used by privacy advocates. Play Protect certification requires Google Mobile Services, which GrapheneOS does not include by default. This move by Volkswagen follows a broader trend of automakers tightening control over vehicle APIs.
+**Background**: Strategic resource reallocation is the process of redirecting capital across business units, a key CEO task. Multi-agent simulation uses multiple LLM agents to simulate interactions, helping evaluate complex decision-making. CEO-Bench extends this by creating a constrained organizational environment with conflicting advisors and temporal dependencies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/GrapheneOS">GrapheneOS</a></li>
-<li><a href="https://grapheneos.org/">GrapheneOS : the private and secure mobile OS</a></li>
+<li><a href="https://ceo-bench.dave.engineer/">CEO Bench</a></li>
+<li><a href="https://github.com/dave1010/ceo-bench">GitHub - dave1010/ ceo - bench : CEO Bench is a comprehensive...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members expressed frustration, with some reconsidering car purchases over the API lockdown. Users noted that Volkswagen's app is ad-heavy and that alternative integrations like Home Assistant were superior. There is broader criticism of EU mandates for modems and intrusive driving aids.
-
-**Tags**: `#Volkswagen`, `#GrapheneOS`, `#privacy`, `#automotive tech`, `#API lockdown`
+**Tags**: `#LLM`, `#benchmark`, `#multi-agent`, `#decision-making`, `#business strategy`
 
 ---
 
 <a id="item-23"></a>
-## [Robot Game Tests AI Models: Claude vs Grok Cost Showdown](https://openrouter.ai/blog/insights/royale-last-agent-standing/) ⭐️ 7.0/10
+## [SEAGym: An Evaluation Environment for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.17546) ⭐️ 7.0/10
 
-A blog post on OpenRouter compared AI models in a robot game, finding that cheaper models like DeepSeek V4 Flash outperformed expensive ones like Claude and Grok in cost efficiency, while Grok 4.1-fast was silently rerouted to a more expensive model. This matters for businesses selecting AI models, as it shows dramatic cost differences and that cheaper models can be surprisingly effective, while also highlighting the need for pricing transparency. The author spent $482 on 30 games, while frontier-tier models would cost around $3,000. DeepSeek V4 Flash was the cost-efficiency winner, and Grok 4.1-fast was rerouted to Grok 4.3 with higher pricing.
+Researchers introduced SEAGym, a new evaluation environment designed to measure how LLM agents improve over time through updates to their agent harness, including prompts, memory, tools, and runtime state. It provides training, validation, test, replay, and cost records to capture reusable improvements versus overfitting. Current evaluations often reduce self-evolution to isolated task scores, obscuring whether an update produces genuine progress or merely memorizes recent tasks. SEAGym fills this gap by providing a multi-dimensional view, making it easier to build more robust and reliable autonomous agents. SEAGym turns Harbor-compatible benchmarks like Terminal-Bench 2.0 and HLE into dynamic self-evolution task sources, and was used to compare methods ACE, TF-GRPO, and AHE under a shared protocol. Results showed that frequent updates may fail on held-out tasks, useful snapshots can later collapse, and source diversity affects reliability.
 
-hackernews · Usu · Jun 17, 21:00 · [Discussion](https://news.ycombinator.com/item?id=48576824)
+rss · arXiv CS.AI · Jun 18, 04:00
 
-**Background**: OpenRouter is a unified API platform providing access to multiple AI models for side-by-side comparison. The blog used a game called 'Royale Last Agent Standing' to evaluate models on a task outside typical training data, offering a practical cost vs. performance benchmark.
+**Background**: Self-evolving LLM agents improve by updating their 'agent harness'—the structured layer around a base model, including prompts, memory, tools, middleware, runtime state, and the model-tool interaction loop. Previously, evaluating such evolution was limited to isolated scores or single curves, missing important signals like overfitting, cost, and regression. SEAGym leverages Harbor, a framework for reproducible agent evaluation in sandbox environments, to create standardized and comparable evolution benchmarks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openrouter.ai/">OpenRouter</a></li>
-<li><a href="https://openrouter.ai/chat">AI Chat Playground - Compare AI Models Side by Side | OpenRouter</a></li>
+<li><a href="https://medium.com/@windead/why-i-disagree-with-agent-llm-harness-103a4ccdcf8c">Why I Disagree With “ Agent = LLM + Harness ” | by Windead | Medium</a></li>
+<li><a href="https://goharbor.io/docs/2.13.0/install-config/harbor-compatibility-list/">Harbor docs | Harbor Compatibility List</a></li>
+<li><a href="https://huggingface.co/docs/trl/main/en/grpo_trainer">GRPO Trainer · Hugging Face</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments humorously noted Grok is more likely to deliver a taco, expressed surprise at the high cost of frontier models compared to human labor, praised DeepSeek V4 Flash for coding, and criticized Grok's silent price hike. Some questioned the experiment's generalizability but found it interesting.
-
-**Tags**: `#AI models`, `#cost analysis`, `#benchmarking`, `#OpenRouter`, `#Hacker News`
+**Tags**: `#LLM agents`, `#self-evolving agents`, `#evaluation benchmark`, `#AI research`
 
 ---
 
 <a id="item-24"></a>
-## [DivInit: Diverse Query Initialization for Agentic Search](https://arxiv.org/abs/2606.17209) ⭐️ 7.0/10
+## [Foundation Model Orchestrates Crash Safety Design Workflow](https://arxiv.org/abs/2606.17577) ⭐️ 7.0/10
 
-DivInit introduces a training-free method to diversify initial queries in agentic search, addressing the diminishing returns of standard parallel sampling by selecting k diverse seeds from n candidates, achieving consistent gains across multiple models and benchmarks. This improves test-time scaling efficiency for multi-hop question answering, offering a simple, reproducible way to enhance search systems without additional training or model modifications. DivInit works by first generating n candidate first queries from a single model call, then selecting k diverse ones to run as parallel trajectories; experiments show average gains of 5–7 points on multi-hop QA at matched compute.
+Researchers have introduced the first foundation model-orchestrated workflow for surrogate-assisted pedestrian protection design, reducing crash simulation time from hours to seconds. This breakthrough can drastically accelerate automotive crash safety design, enabling rapid exploration of diverse design alternatives that would otherwise take weeks, and demonstrating how foundation models can integrate AI surrogates with physics-based simulation in safety-critical domains. The workflow combines a surrogate model predicting pedestrian leg injury metrics (average R²=0.87) with conformal prediction intervals, multiobjective evolutionary search via NSGA-II, a morphing-based geometry generator, and a natural-language interface using an LLM for orchestration and a VLM for semantic design comparison.
 
-rss · arXiv CS.AI · Jun 17, 04:00
+rss · arXiv CS.AI · Jun 18, 04:00
 
-**Background**: Agentic search refers to AI systems that autonomously perform multi-step reasoning to answer complex queries, often using tools like web search. Test-time scaling improves performance by increasing computation at inference, typically via more turns (depth) or parallel rollouts (breadth). Standard parallel sampling suffers from query redundancy, where multiple rollouts begin with similar queries and retrieve overlapping information.
+**Background**: Crash safety design relies on computationally expensive finite element simulations that can take hours per evaluation. Surrogate models approximate these simulations to speed up exploration, but capturing highly nonlinear crash dynamics is challenging. The workflow leverages a foundation model (LLM) to orchestrate the surrogate, optimizer, and geometry generator, and uses conformal prediction to provide distribution-free uncertainty estimates. NSGA-II is a widely used multiobjective evolutionary algorithm that finds diverse trade-off solutions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cintra.run/glossary/agentic-search">Agentic Search — Definition & Guide | Cintra Glossary</a></li>
-<li><a href="https://www.linkedin.com/pulse/reasoning-revolution-test-time-scaling-llms-rx-m-llc-a6ctf">The Reasoning Revolution: Test - Time Scaling for LLMs</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Conformal_prediction">Conformal prediction - Wikipedia</a></li>
+<li><a href="https://grokipedia.com/page/NSGA-II">NSGA-II</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#agentic search`, `#test-time scaling`, `#diversity`, `#parallel sampling`, `#multi-hop QA`
+**Tags**: `#AI engineering`, `#surrogate modeling`, `#crash safety`, `#automotive`, `#foundation model`
 
 ---
 
 <a id="item-25"></a>
-## [Can Language Models Discover the Concept of Zero?](https://arxiv.org/abs/2606.17289) ⭐️ 7.0/10
+## [SkillMigrator: Reusable Web Skills via Layout Matching](https://arxiv.org/abs/2606.17645) ⭐️ 7.0/10
 
-A study by cognitive scientists finds that GPT-2 sized language models cannot independently discover the concept of zero at test time, but they can learn it after being shown tens to hundreds of examples, with language pretraining reducing the needed examples by about 50%. This work assesses AI's ability to perform out-of-distribution generalization in mathematics, a key requirement for discovering genuinely new mathematical structures, and suggests that language abilities can scaffold such discovery. The experiments only used models of GPT-2 scale, so results may not transfer to larger models; the study measured generalization at test time and after few-shot fine-tuning, with language pretraining providing a 50% improvement in sample efficiency.
+SkillMigrator learns reusable web skills and transfers them across websites by matching layout structures, reducing average LLM action count by 8-10% on WebArena and Mind2Web benchmarks at matched success rates. This approach significantly lowers latency and cost for LLM-powered web agents, making their deployment in real-world applications more practical and efficient by enabling better reuse of skills across different sites. Each induced skill is stored as a Transferable Interaction Pattern (TIP), paired with a structural sketch of the webpage at induction time, and retrieval is based on layout similarity rather than element references.
 
-rss · arXiv CS.AI · Jun 17, 04:00
+rss · arXiv CS.AI · Jun 18, 04:00
 
-**Background**: Out-of-distribution (OOD) generalization refers to a model's ability to handle inputs that differ from its training data. In mathematical discovery, this includes hypothesizing new concepts like zero. Prior benchmarks like OMEGA have explored OOD in math reasoning, but this study directly tests discovery of a fundamental number concept.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/html/2510.06274v1">Bridging Reasoning to Learning: Unmasking Illusions using Complexity...</a></li>
-<li><a href="https://www.ibm.com/think/topics/large-language-models">What Are Large Language Models (LLMs)? | IBM</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#language models`, `#mathematical reasoning`, `#generalization`, `#cognitive science`
-
----
-
-<a id="item-26"></a>
-## [SpeechDx: Multi-Task Benchmark for Clinical Speech AI](https://arxiv.org/abs/2606.17339) ⭐️ 7.0/10
-
-Researchers introduced SpeechDx, a large-scale benchmark for clinical speech AI covering 12 datasets and 27 tasks across diverse health conditions, structured by three speech production stages: conceptualization, formulation, and articulation. This benchmark is significant because it establishes a shared evaluation framework for clinical speech AI, allowing systematic comparison of audio encoders and evaluation of generalization across different health conditions, which is crucial for advancing general-purpose clinical speech representations. The benchmark evaluates 12 state-of-the-art audio encoders across all tasks and under zero-shot cross-condition transfer. Key findings indicate that large-scale speech models provide the strongest overall baselines, domain-specific models only improve performance on closely matched tasks, and no current representation generalizes reliably across the entire clinical speech landscape.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: Clinical speech AI aims to analyze speech to detect or monitor health conditions, as speech involves multiple physiological systems. However, prior research was fragmented, with studies focusing on isolated conditions, making comparison difficult. The three stages of speech production—conceptualization (thinking of ideas), formulation (organizing words), and articulation (producing sounds)—provide a framework to group related tasks.
+**Background**: LLM web agents typically act as tool callers, issuing low-level primitive actions each turn, leading to long horizons and high costs. Recent systems wrap repeated interaction sequences into web skills to reduce calls, but prior skill libraries rely on instruction similarity or site metadata, limiting reuse. SkillMigrator overcomes this by using layout structure matching, which is more transferable across different websites.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2606.17339">SpeechDx : A Multi-Task Benchmark for Clinical Speech AI</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Speech_production">Speech production - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#clinical speech AI`, `#benchmark`, `#multi-task`, `#healthcare`, `#audio encoders`
-
----
-
-<a id="item-27"></a>
-## [Brand Bias in LLM Recommendations Creates Incumbent Advantage](https://arxiv.org/abs/2606.17443) ⭐️ 7.0/10
-
-A new study reveals that large language models recommend well-known brands 100% of the time when product specifications are identical, a phenomenon termed 'Conditional Monopoly.' The research also quantifies how authority-style marketing language can break this monopoly with a 'Bias Surplus Value' equivalent to +0.17 rating points. This research has direct implications for e-commerce, marketing, and generative engine optimization (GEO), showing that brands can manipulate LLM recommendations through marketing language. It also raises concerns about market competition and consumer fairness in LLM-based product discovery. The experiments tested three commercial LLMs (GPT-4o-mini, Claude Sonnet, Gemini 3 Flash) using skincare products, with a robustness check on search goods. The Incumbent Advantage Index (IAI) reached 10.0 for well-known brands in the conditional monopoly scenario, disappearing when a competitor had even a +0.1-star rating advantage.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: Large language models (LLMs) are increasingly used as product recommendation tools, but their training data often contains brand biases. This study introduces concepts like 'Conditional Monopoly' (where known brands dominate when product specs are equal), 'Incumbent Advantage Index (IAI)' (measuring recommendation dominance), and 'Bias Surplus Value' (the incremental impact of marketing language on recommendations). These concepts help understand how brand reputation and persuasive text influence LLM outputs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.rand.org/pubs/research_reports/RRA3415-1.html">Evaluating Natural Monopoly Conditions in the AI Foundation... | RAND</a></li>
-<li><a href="https://medium.com/@web2avi/rethinking-llm-architectures-for-recommendation-system-10b9fea36b88">Rethinking LLM Architectures for Recommendation system | Medium</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#recommendation systems`, `#brand bias`, `#marketing`, `#e-commerce`
-
----
-
-<a id="item-28"></a>
-## [Foundation Model Orchestrates Crash Safety Design](https://arxiv.org/abs/2606.17577) ⭐️ 7.0/10
-
-Researchers present the first foundation model-orchestrated workflow for surrogate-assisted pedestrian protection design, reducing evaluation time from hours per CAE simulation to seconds. This breakthrough significantly accelerates crash safety design iterations, enabling engineers to explore many more design alternatives in a fraction of the time, with potential to improve pedestrian protection in vehicles. The workflow integrates a surrogate model achieving R²=0.87 with conformal prediction intervals, NSGA-II multiobjective optimization, a morphing-based geometry generator, and a natural-language interface using an LLM and vision-language model.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: Crash safety design traditionally relies on costly CAE simulations that can take hours per evaluation, making iterative optimization slow. Surrogate models can approximate simulation outcomes quickly, but often struggle with highly nonlinear crash dynamics. Foundation models (LLMs, VLMs) can orchestrate complex workflows by integrating diverse tools and enabling natural-language interaction.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://thivi.medium.com/nsga-ii-non-dominated-sorting-genetic-algorithm-ii-eead0a3ac676">NSGA II : Non-Dominated Sorting Genetic Algorithm II | Medium</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Conformal_prediction">Conformal prediction - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI-driven engineering`, `#crash safety`, `#surrogate modeling`, `#foundation model`, `#pedestrian protection`
-
----
-
-<a id="item-29"></a>
-## [Closing the Feedback Loop in Verbal Reinforcement Learning](https://arxiv.org/abs/2606.17591) ⭐️ 7.0/10
-
-The paper proposes a three-layer architecture (rules, evidence, skills) with a feedback-driven curation loop to manage the retention-forgetting dilemma in training-free verbal reinforcement learning agents. This addresses a critical gap in verbal reinforcement learning, where agents struggle with non-stationary environments; the curation loop can dramatically improve performance, with potential applications in dynamic fields like financial forecasting and trading. The architecture includes rules for distilled experience, evidence logs tracking reliability, and skills for governance; experiments on financial forecasting show the curation loop can prevent performance degradation and improve risk-adjusted returns.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: Verbal Reinforcement Learning (vRL) is an emerging paradigm that uses natural language feedback to guide LLM agents without parameter updates. However, in non-stationary environments, agents face a retention-forgetting dilemma: keeping old insights causes negative transfer, but discarding them leads to catastrophic forgetting when patterns repeat. Existing methods focus on experience extraction but underserve insight governance.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.emergentmind.com/topics/verbal-reinforcement-learning">Verbal Reinforcement Learning (vRL)</a></li>
-<li><a href="https://arxiv.org/abs/2303.11366">Reflexion: Language Agents with Verbal Reinforcement Learning</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#reinforcement learning`, `#LLM agents`, `#knowledge management`, `#non-stationary environments`
-
----
-
-<a id="item-30"></a>
-## [SkillMigrator transfers web skills via layout matching](https://arxiv.org/abs/2606.17645) ⭐️ 7.0/10
-
-Researchers propose SkillMigrator, an agent that learns reusable web skills and transfers them across sites by matching layout structure rather than element references, reducing LLM action counts by 8-10% on WebArena and Mind2Web. This approach reduces token usage and latency for LLM web agents, addressing real cost and efficiency issues in web automation, and demonstrates a practical method for skill reuse across domains. Each learned skill is stored as a transferable interaction pattern (TIP) paired with a structural sketch of the snapshot at induction time; at test time, TIPs are retrieved by layout similarity and grounded on the live page. The method is agnostic to the underlying LLM.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: LLM web agents typically perform one low-level action per turn, leading to long horizons and high costs. Prior skill libraries reuse skills based on instruction similarity or site metadata, which limits transfer to new sites. SkillMigrator uses layout structure as a transferable representation, enabling more robust skill reuse across different websites.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://huggingface.co/collections/osunlp/mind2web">Mind 2 Web - a osunlp Collection</a></li>
+<li><a href="https://www.emergentmind.com/topics/mind2web-benchmark">Mind 2 Web Benchmark : Evaluating Web Navigation Agents</a></li>
 <li><a href="https://webarena.dev/">WebArena : A suite of benchmarks for building autonomous web agents.</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM web agents`, `#skill transfer`, `#layout matching`, `#efficiency`, `#arXiv`
+**Tags**: `#LLM agents`, `#web automation`, `#skill transfer`, `#efficiency`, `#layout matching`
 
 ---
 
-<a id="item-31"></a>
-## [Tracing LLM Code Reasoning Internal Lifecycle](https://arxiv.org/abs/2606.17648) ⭐️ 7.0/10
+<a id="item-26"></a>
+## [New Framework Reveals Internal Code Reasoning Failures](https://arxiv.org/abs/2606.17648) ⭐️ 7.0/10
 
-A new framework reveals that LLMs undergo a 'brewing' phase where answers become linearly recoverable before self-decodable, then diverge into four resolution outcomes: Resolved, Overprocessed, Misresolved, or Unresolved. This matters because similar task accuracies can mask fundamentally different failure modes, and understanding these internal dynamics can guide improvements in LLM reliability and interpretability. Across 16 models (Qwen, Llama, DeepSeek), overall Resolved rate is only 41.5%, with multiple tasks below 30%; Function Call Resolved plunges from 61.1% to 2.5% as call depth increases from one to three.
+Researchers introduced a dual diagnostic framework combining layer-wise linear probing and Context-Stripped Decoding (CSD) to trace the internal lifecycle of code reasoning in LLMs, discovering four distinct failure modes (Resolved, Overprocessed, Misresolved, Unresolved) that standard accuracy metrics cannot detect. This matters because similar task accuracies can hide fundamentally different failure mechanisms, and the framework provides a deeper evaluation method that can help improve LLM performance in code tasks, benefiting model developers and users. Applied across 16 models (Qwen, Llama, DeepSeek) on six code-reasoning task families, the overall Resolved rate was only 41.5%, with Function Call success dropping from 61.1% to 2.5% as call depth increased from one to three.
 
-rss · arXiv CS.AI · Jun 17, 04:00
+rss · arXiv CS.AI · Jun 18, 04:00
 
-**Background**: Layer-wise linear probing is an interpretability technique that trains a linear classifier on intermediate representations to check if information is linearly accessible. Context-Stripped Decoding (CSD) removes the input context during decoding to isolate the model's internal knowledge. The paper combines these to study the internal lifecycle of code reasoning, where 'brewing' refers to the period when the answer is linearly recoverable but not yet self-decodable.
+**Background**: Linear probing is a technique that uses a simple classifier trained on intermediate layer activations to extract specific features from an LLM. Context-Stripped Decoding (CSD) is a method proposed in this paper to decode without task-specific context, helping isolate the model's internal reasoning. The study reveals a two-stage lifecycle: a 'brewing' phase where the answer becomes linearly recoverable, followed by a 'resolution' phase that determines the final output.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2602.17229">Mechanistic Interpretability of Cognitive Complexity in LLMs via...</a></li>
+<li><a href="https://arxiv.org/abs/2412.00967">[2412.00967] Linear Probe Penalties Reduce LLM Sycophancy</a></li>
+<li><a href="https://deepwiki.com/guijiejie/Attention-driven-Masking-and-Throwing/5.3-linear-probing">Linear Probing | DeepWiki</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#code reasoning`, `#interpretability`, `#probing`
+**Tags**: `#code reasoning`, `#LLM interpretability`, `#LLM evaluation`, `#Qwen`, `#DeepSeek`
 
 ---
 
-<a id="item-32"></a>
+<a id="item-27"></a>
+## [Equation-to-Behavior Prompting for Human-like LLM Simulation](https://arxiv.org/abs/2606.17657) ⭐️ 7.0/10
+
+This paper introduces Equation-to-Behavior Prompting, a method to guide LLMs in simulating human cognitive biases like motivated reasoning in persuasion games, showing that large models can approximate equation-based cognitive models via prompting. This approach bridges cognitive science and AI safety by enabling more diverse and realistic human behavior simulations for training and evaluating LLMs, potentially improving their robustness and alignment. The paper evaluates on persuasion games based on legal decision-making, testing models like Bayesian updating and Grether's α-β model. Small models failed with prompting alone, but reinforcement learning training (Equation-to-Behavior RL) reduced belief error by 26.5% in out-of-distribution scenarios.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: Persuasion games model strategic interactions where one party tries to influence another's beliefs. Cognitive science provides mathematical models of human decision-making biases. Large language models are increasingly used for simulating humans in AI safety evaluations, but often lack behavioral diversity.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/pdf/2606.17657">Using Cognitive Models to Improve Language Model Simulation of...</a></li>
+<li><a href="https://openreview.net/forum?id=sdQqNFenoj">Teaching Values to Machines: Simulating Human-Like Behavior in...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#cognitive science`, `#persuasion games`, `#AI safety`, `#prompting`
+
+---
+
+<a id="item-28"></a>
 ## [EComAgentBench: Benchmark for Long-Horizon Shopping Agents](https://arxiv.org/abs/2606.17698) ⭐️ 7.0/10
 
-EComAgentBench introduces a benchmark of 662 tasks for LLM-based shopping agents, where requirements are distributed across a visible query, a tool-gated profile, and scripted clarification, requiring agents to uncover hidden intent within 100 tool calls. This benchmark addresses a critical gap in evaluating shopping agents by modeling realistic long-horizon tasks with hidden intent, providing granular, source-tagged failure analysis that can drive improvements in e-commerce AI systems. Tasks are grounded in real Amazon products and reviews, with answers fixed in code before text generation, ensuring reproducibility. Evaluation of seven models shows the best achieving only 57.1% overall accuracy, with rubric satisfaction degrading from visible to hidden sources.
+Researchers introduced EComAgentBench, a benchmark of 662 shopping tasks grounded in real Amazon products and reviews, designed to evaluate LLM-based agents on long-horizon tasks with hidden intent distributed across visible queries, tool-gated profiles, and scripted clarifications. Existing benchmarks fail to capture the real-world challenge where shopper requirements are not fully explicit upfront; EComAgentBench enables systematic evaluation of agents' ability to uncover hidden intent and verify candidates, moving shopping agents toward dependable long-horizon assistance. Each task requires agents to uncover hidden intent from three sources (visible query, tool-gated profile, and clarification), verify candidates against attributes and review evidence, and commit to a single product within 100 tool calls; typed, source-tagged rubrics grade every task and attribute failures to specific requirements. The top-performing model (Pro 2.5) achieved only 57.1% overall accuracy, with rubric satisfaction decreasing from visible to hidden sources.
 
-rss · arXiv CS.AI · Jun 17, 04:00
+rss · arXiv CS.AI · Jun 18, 04:00
 
-**Background**: Existing benchmarks for shopping agents often expose full intent upfront and only grade the final choice, failing to capture the long-horizon nature of real shopping where requirements emerge over time. EComAgentBench uses a tool-gated profile that hides some requirements behind tool interactions, and scripted clarification to simulate iterative information gathering, creating a more realistic evaluation setting.
+**Background**: LLM-based shopping agents are increasingly being deployed in production, but existing benchmarks evaluate only single-query tasks with fully explicit intents and ignore the long-horizon, distributed nature of real shopping scenarios. EComAgentBench addresses this by scattering requirements across multiple sources that agents must actively uncover, using real-world data from Amazon. The benchmark automates construction while ensuring reproducibility, with answers fixed in code before any text generation.
 
 <details><summary>References</summary>
 <ul>
@@ -759,38 +674,542 @@ rss · arXiv CS.AI · Jun 17, 04:00
 </ul>
 </details>
 
-**Tags**: `#e-commerce`, `#LLM agents`, `#benchmark`, `#AI shopping`, `#hidden intent`
+**Tags**: `#benchmark`, `#LLM agents`, `#shopping`, `#e-commerce`, `#AI evaluation`
 
 ---
 
-<a id="item-33"></a>
+<a id="item-29"></a>
 ## [LongWebBench: Benchmark for Long-Horizon Webpage Generation](https://arxiv.org/abs/2606.17727) ⭐️ 7.0/10
 
-Researchers introduce LongWebBench, a benchmark containing 490 real-world long webpages for structural evaluation and 507 interaction tasks over 129 webpages for functional evaluation. This benchmark addresses the lack of evaluation for long-horizon webpage generation in vision-language models, emphasizing that executable interaction should be a core criterion beyond visual similarity. The benchmark uses two complementary protocols: a multi-dimensional VLM-based metric for structural coherence and a DOM-augmented agent-based pipeline for functional verification.
+Researchers introduced LongWebBench, a benchmark for evaluating long-horizon webpage generation by vision-language models (VLMs) from structural and functional perspectives. This benchmark fills a critical gap in VLM evaluation, which previously focused on short, static webpages. It has practical implications for automated web design and interactive content generation. LongWebBench includes 490 real-world long webpages for structural evaluation and 507 goal-oriented interaction tasks over 129 webpages for functional evaluation. It uses a multi-dimensional VLM-based metric and a DOM-augmented agent-based pipeline.
 
-rss · arXiv CS.AI · Jun 17, 04:00
+rss · arXiv CS.AI · Jun 18, 04:00
 
-**Background**: Vision-language models (VLMs) can generate webpages from visual inputs, but existing evaluations focus on short, static pages. LongWebBench introduces long-horizon evaluation covering both structure and function. It uses Document Object Model (DOM) to augment agent-based testing.
+**Background**: Vision-language models (VLMs) combine visual and textual understanding to perform tasks like generating webpages from screenshots. However, existing benchmarks primarily assess short, single-screen webpages, failing to capture the complexity of long, interactive webpages that require coherent structure and functional interactivity. LongWebBench addresses this by introducing two complementary evaluation protocols: one for structural fidelity over long horizons and another for verifying executable multi-step interactions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2606.17727">[2606.17727] LongWebBench: Evaluating Structural and Functional...</a></li>
+<li><a href="https://arxiv.org/abs/2606.17727">[2606.17727] LongWebBench : Evaluating Structural and Functional...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#vision-language models`, `#benchmark`, `#webpage generation`, `#evaluation`, `#Jie Tang`
+**Tags**: `#benchmark`, `#vision-language models`, `#web generation`, `#long-horizon evaluation`
+
+---
+
+<a id="item-30"></a>
+## [Anthropic launches Workload Identity Federation for Claude](https://claude.com/blog/workload-identity-federation) ⭐️ 7.0/10
+
+Anthropic has introduced Workload Identity Federation support for the Claude platform, enabling secure service-to-service authentication without manual API keys. This feature simplifies and hardens enterprise integrations by allowing cloud workloads to authenticate to Claude using their existing cloud provider identities, reducing secret management overhead and security risks. Workload Identity Federation uses OIDC tokens from platforms like AWS, GCP, or Azure to authenticate workloads (e.g., Lambda functions, Kubernetes pods) to the Claude API, eliminating the need for long-lived API keys.
+
+rss · Claude Blog · Jun 17, 00:00
+
+**Background**: Workload Identity Federation is a service-to-service authentication method that allows a workload (such as a virtual machine, serverless function, or container) to authenticate to a target service using tokens issued by its cloud provider. Instead of manually managing API keys, the workload requests a short-lived token from its platform (e.g., AWS STS, GCP metadata server) and exchanges it for access tokens to the target API. This approach improves security by avoiding static credentials and enabling automatic rotation.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://docs.snowflake.cn/en/user-guide/workload-identity-federation">Workload identity federation | Snowflake Documentation</a></li>
+<li><a href="https://medium.com/@mandeeprana0453/snowflakes-workload-identity-federation-544b848db654">Snowflake’s Workload Identity Federation | by Mandeep... | Medium</a></li>
+<li><a href="https://tailscale.com/docs/features/workload-identity-federation">Workload identity federation · Tailscale Docs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#security`, `#Claude`, `#Anthropic`, `#identity federation`, `#enterprise`
+
+---
+
+<a id="item-31"></a>
+## [Anthropic Announces Claude Opus 4.8 Hackathon Winners](https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon) ⭐️ 7.0/10
+
+Anthropic has announced the winners of its Claude Opus 4.8 Build Day hackathon, showcasing projects built with the latest version of their flagship model. This event highlights real-world applications of Claude Opus 4.8, demonstrating its capabilities beyond benchmarks and fostering community-driven innovation in AI development. Claude Opus 4.8 is Anthropic's most capable coding model, with improved performance on SWE-bench Pro (from 64.3 to 69.2) and enhanced honesty about its own limitations.
+
+rss · Claude Blog · Jun 17, 00:00
+
+**Background**: Hackathons like this allow developers and creators to experiment with cutting-edge AI models in short, intense builds. Claude Opus 4.8, released recently, is an upgrade to Opus 4.7, with strengths in software engineering, agentic tool use, and reasoning. The winners were selected based on the creativity and impact of their projects.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://digg.com/ai/m3jmc7de">Anthropic launches Claude Opus 4 . 8 , claiming top performance on...</a></li>
+<li><a href="https://llm-stats.com/models/claude-opus-4-8">Claude Opus 4 . 8 Benchmarks, Pricing & Context Window</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#hackathon`, `#Claude`, `#Anthropic`, `#community`, `#applications`
+
+---
+
+<a id="item-32"></a>
+## [AI Makes Code Disposable, Demands More Discipline](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything) ⭐️ 7.0/10
+
+Charity Majors argues that in 2025, AI turned code production from expensive and time-consuming to effectively free and instant, making lines of code disposable and regenerable. This shift fundamentally changes software engineering economics, requiring teams to adopt more discipline and rigor in managing AI-generated code, rather than less. The quote highlights that code went from being treasured and carefully curated to disposable, emphasizing the need for stronger engineering practices to handle the flood of cheap code.
+
+rss · Simon Willison · Jun 17, 17:12
+
+**Background**: Traditionally, writing code was labor-intensive and expensive, so developers reused and maintained code carefully. With generative AI models like GPT-4, code can be generated on demand, reducing the cost of production but increasing challenges in quality, maintenance, and security.
+
+**Tags**: `#ai-assisted-programming`, `#software-engineering`, `#generative-ai`, `#industry-trends`
+
+---
+
+<a id="item-33"></a>
+## [Georgi Gerganov Endorses Qwen3.6-27B for Local Coding](https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything) ⭐️ 7.0/10
+
+Georgi Gerganov, creator of llama.cpp, publicly endorsed the Qwen3.6-27B model as a capable local coding assistant, sharing that he uses it daily on an M2 Ultra or RTX 5090 with a lightweight pi agent harness. This endorsement from a key open-source local LLM figure validates Qwen3.6-27B as a top choice for developers seeking local AI coding assistance, potentially accelerating adoption of local models for privacy and offline use. Gerganov uses Qwen3.6-27B with a stripped-down pi agent via 'pi -nc --offline' and a short system prompt. Qwen3.6-27B is a 27-billion-parameter dense model released in April 2026, noted for agentic coding performance.
+
+rss · Simon Willison · Jun 16, 16:04
+
+**Background**: Qwen3.6-27B is a dense 27B parameter language model from Alibaba's Qwen team, optimized for coding tasks. Local LLMs allow users to run AI on their own hardware without sending data to cloud servers. Gerganov is the creator of llama.cpp, a popular library for running LLMs locally on consumer hardware.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://huggingface.co/Qwen/Qwen3.6-27B">Qwen/ Qwen 3 . 6 - 27 B · Hugging Face</a></li>
+<li><a href="https://openrouter.ai/qwen/qwen3.6-27b">Qwen 3 . 6 27 B - API Pricing & Benchmarks | OpenRouter</a></li>
+<li><a href="https://xhinker.medium.com/qwen3-6-27b-is-the-new-king-april-2026-09467b6c6335">Qwen 3 . 6 – 27 B Is The New King (April 2026) | by Andrew Zhu | Medium</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Qwen`, `#local LLM`, `#coding assistant`, `#llama.cpp`, `#open-source`
 
 ---
 
 <a id="item-34"></a>
-## [DecoSearch: Training-Free Framework for Complex Text-to-SQL](https://arxiv.org/abs/2606.17821) ⭐️ 7.0/10
+## [Deploy AI Models from Hub to Real Robots with Strands Agents & LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) ⭐️ 7.0/10
 
-Researchers introduced DecoSearch, a training-free framework that routes natural language queries to appropriate reasoning levels using schema selection, LLM-based decomposition, and plan-level repair, achieving state-of-the-art execution accuracy on BIRD (70.53%) and Spider (88.31%) with a DeepSeek backbone while consuming far fewer tokens than competing methods. This work demonstrates that complex text-to-SQL tasks can be effectively handled without fine-tuning, making advanced SQL generation more accessible and efficient for practical applications. DecoSearch incorporates a lightweight Schema Selector to prune databases, an LLM Judger to decide between direct generation and decomposition into a DAG of sub-queries, and a Topology Refiner that restructures the reasoning plan upon execution failures. It is model-agnostic and can improve fine-tuned models without modification.
+Hugging Face published a blog post demonstrating how to use Strands Agents and LeRobot to deploy AI models from the Hugging Face Hub onto physical robot hardware, bridging the gap between simulation and real-world robotics. This integration simplifies robotic model deployment, making it accessible to a broader audience and accelerating real-world automation applications. It combines open-source agent frameworks with robotics libraries, reducing the barrier to entry for robotics practitioners. Strands Agents is a model-driven AI agent framework by AWS, while LeRobot is an open-source library from Hugging Face for deep learning robotics experiments. The blog post likely covers steps like model selection, agent configuration, and hardware integration.
 
-rss · arXiv CS.AI · Jun 17, 04:00
+rss · Hugging Face Blog · Jun 17, 10:18
 
-**Background**: Text-to-SQL is the task of converting natural language questions into SQL queries. Complex queries often require multi-step reasoning and understanding of database schemas. Existing methods often rely on fine-tuning large language models, which is computationally expensive. DecoSearch is a training-free alternative that routes queries to appropriate reasoning complexity using schema selection, decomposition, and plan repair.
+**Background**: AI agents are autonomous programs that can reason and act using large language models. LeRobot provides tools for imitation learning and reinforcement learning on robotic platforms. This combination allows developers to deploy sophisticated behaviors onto physical robots with minimal code.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://grokipedia.com/page/Strands_Agents">Strands Agents</a></li>
+<li><a href="https://grokipedia.com/page/LeRobot">LeRobot</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Hugging Face`, `#robotics`, `#LeRobot`, `#model deployment`, `#open source`
+
+---
+
+<a id="item-35"></a>
+## [Hugging Face Launches Agentic Resource Discovery for AI Agents](https://huggingface.co/blog/agentic-resource-discovery-launch) ⭐️ 7.0/10
+
+Hugging Face has launched Agentic Resource Discovery (ARD), enabling AI agents to programmatically search for and discover resources such as models, datasets, and spaces on the Hugging Face Hub. This significantly enhances the autonomy of AI agents by allowing them to dynamically find relevant tools and data, reducing manual configuration and enabling more complex, self-directed workflows in the AI ecosystem. ARD is an open specification co-developed with Google, designed to standardize how AI agents publish, discover, and verify capabilities across the web. Hugging Face's implementation allows agents to query the Hub's resources using natural language or structured queries.
+
+rss · Hugging Face Blog · Jun 17, 00:00
+
+**Background**: Agentic Resource Discovery (ARD) is an open specification initially announced by Google to enable AI agents to autonomously find and verify web-based capabilities. As AI agents become more prevalent, the need for a standardized discovery mechanism grows, similar to how web search engines index websites. Hugging Face, as a leading ML community, is adopting ARD to make its extensive repository of models and datasets programmatically discoverable by agents.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/">Announcing the Agentic Resource Discovery specification</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Hugging Face`, `#AI agents`, `#resource discovery`, `#tool launch`
+
+---
+
+<a id="item-36"></a>
+## [Google Announces Open Spec for AI Agent Discovery](https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/) ⭐️ 7.0/10
+
+Google announced the Agentic Resource Discovery (ARD) specification, an open standard for publishing, discovering, and verifying AI agents, tools, and skills across the web. This specification addresses the critical need for interoperability among AI agents, enabling a more cohesive and discoverable ecosystem that can accelerate adoption and collaboration. ARD is an open specification, meaning anyone can implement it, and it includes mechanisms for verifying the capabilities and authenticity of agents. It is designed to be decentralized and extensible.
+
+rss · Google AI Dev · Jun 17, 00:00
+
+**Background**: AI agents are autonomous programs that perform tasks on behalf of users. As the number of agents grows, discovering trustworthy agents becomes a challenge. ARD is analogous to web resource discovery but tailored for AI agents, using structured metadata to enable efficient lookup and trust verification.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/">Announcing the Agentic Resource Discovery specification</a></li>
+<li><a href="https://techgig.com/news/software-devops/google-unveils-open-spec-for-ai-agent-discovery-verification/131815127">Google unveils open spec for AI agent discovery , verification, TechGig</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Agentic`, `#Specification`, `#Google`, `#AI Agents`, `#Interoperability`
+
+---
+
+<a id="item-37"></a>
+## [Google introduces hybrid patterns for MCP and A2UI](https://developers.googleblog.com/a2ui-and-mcp-apps/) ⭐️ 7.0/10
+
+Google's blog post introduces three architectural patterns that integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to balance declarative and custom agentic UIs. These patterns allow developers to serve native UIs over MCP, embed complex iframe apps inside declarative views, or inject generative UI components into legacy systems. These hybrid patterns solve the tradeoff between highly custom iframe environments and native declarative rendering, enabling secure, performant, and brand-consistent agentic UIs. They empower engineering teams to deliver tailored user experiences for AI-powered applications, directly addressing a key challenge in agentic UI development. The three patterns include: serving native-feeling UIs directly over MCP servers, embedding complex and stateful iframe apps securely inside declarative views, and injecting generative UI components into legacy systems. The goal is to combine the best of both approaches—customizability and simplicity—based on project constraints.
+
+rss · Google AI Dev · Jun 17, 00:00
+
+**Background**: Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024, enabling AI systems like LLMs to integrate with external tools and data sources. Agent-to-User Interface (A2UI) is a protocol for AI agents to communicate with users via structured UI descriptions (e.g., JSON blueprints), allowing native rendering in frontend frameworks. By combining MCP and A2UI, developers can create hybrid agentic UIs that are both powerful and consistent.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol</a></li>
+<li><a href="https://www.linkedin.com/pulse/beyond-chat-bubble-why-a2ui-agent-to-user-interface-ai-shunmugaraj-sy5bf">Beyond the Chat Bubble: Why A2UI ( Agent - to - User Interface ) is the...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#MCP`, `#A2UI`, `#agentic UI`, `#Google AI`, `#architectural patterns`
+
+---
+
+<a id="item-38"></a>
+## [DeepSeek Launches Image Recognition Mode](https://linux.do/t/topic/2428337) ⭐️ 7.0/10
+
+DeepSeek employee Chen Xiaokang announced that image recognition mode is now fully live on both the website and app, with hints that a new model (possibly v4.1) is being tested. This update adds multimodal capability to DeepSeek, allowing users to upload images for analysis, competing with other AI assistants and enhancing practical use cases. The rollout appears gradual; some users may need to refresh or update the app to see the feature. Screenshots show the new interface with an image upload button.
+
+rss · LINUX.DO 前沿快讯 · Jun 18, 06:30
+
+**Background**: DeepSeek is a Chinese AI company known for large language models. Its image recognition feature is built on DeepSeek-OCR-2, a visual encoding model. Adding vision capabilities aligns with the industry trend toward multimodal AI systems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-OCR-2">deepseek - ai / DeepSeek -OCR-2 · Hugging Face</a></li>
+<li><a href="https://auraimagai.com/en/deepseek-multimodal-image-recognition-goes-live/">DeepSeek Finally "Opens Its Eyes": Multimodal Image Recognition ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community members are excited about the new feature and speculate about an upcoming model upgrade. Some users report not seeing the feature yet, confirming a phased rollout. Overall sentiment is positive with anticipation for further improvements.
+
+**Tags**: `#DeepSeek`, `#Image Recognition`, `#Model Update`, `#AI Application`
+
+---
+
+<a id="item-39"></a>
+## [Tencent Launches TokenPlan Enterprise with GLM 5.2](https://linux.do/t/topic/2428176) ⭐️ 7.0/10
+
+Tencent has released the enterprise version of TokenPlan, now integrated with the GLM 5.2 reasoning model on the Tencent Cloud platform. This launch marks a significant step in making advanced reasoning AI models accessible to enterprises, potentially lowering the barrier for businesses to adopt large language models for production workloads. The enterprise version is part of the TokenHub ecosystem on Tencent Cloud, offering dedicated API access and managed deployment for GLM 5.2, a large-scale reasoning model capable of code generation, document analysis, and agentic tool use.
+
+rss · LINUX.DO 前沿快讯 · Jun 18, 06:13
+
+**Background**: TokenPlan is Tencent's enterprise AI service platform for managing and deploying large language models. GLM 5.2 is a state-of-the-art reasoning model developed by Z.AI (formerly Zhipu AI), designed to parse research papers and generate runnable code. The enterprise version aims to provide stable, scalable AI infrastructure for business applications.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://docs.z.ai/guides/llm/glm-5.2">GLM - 5 . 2 - Overview - Z.AI DEVELOPER DOCUMENT</a></li>
+<li><a href="https://openrouter.ai/z-ai/glm-5.2">GLM 5 . 2 - API Pricing & Benchmarks | OpenRouter</a></li>
+<li><a href="https://www.cometapi.com/models/zhipuai/glm-5-2/">Affordable GLM 5 . 2 API | text-to-text | CometAPI</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Tencent`, `#TokenPlan`, `#GLM`, `#Enterprise AI`, `#Model Deployment`
+
+---
+
+<a id="item-40"></a>
+## [Google to Deprecate Standard Gemini API Keys by September 2026](https://linux.do/t/topic/2427827) ⭐️ 7.0/10
+
+Google announced a mandatory migration from standard API keys to authorized keys for the Gemini API. Starting June 19, 2026, unrestricted standard keys will be rejected, and all standard keys will be fully deprecated by September 2026. This policy change significantly enhances security for Gemini API users by preventing unauthorized key usage and reducing the risk of massive bills from leaked keys. Developers and businesses must update their applications to use authorized keys or risk service disruption. Authorized keys are bound to a Google Cloud service account, enabling fine-grained permissions and rapid revocation if leaked. New keys created in Google AI Studio are already authorized keys by default.
+
+rss · LINUX.DO 前沿快讯 · Jun 18, 05:20
+
+**Background**: Standard API keys are not tied to any user identity, meaning anyone with the key can use the Gemini API, leading to unauthorized usage and high bills. Recent incidents include a Brazilian tire shop receiving a $14,000 bill and other cases ranging from thousands of dollars to €54,000.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ai.google.dev/gemini-api/docs/api-key">Using Gemini API keys | Google AI for Developers</a></li>
+
+</ul>
+</details>
+
+**Discussion**: A developer on the Google AI Developers Forum expressed confusion about an email citing the June 19, 2026 deadline, suggesting some users may be unclear on the migration details or timeline.
+
+**Tags**: `#Google`, `#Gemini API`, `#API key deprecation`, `#security`, `#developer impact`
+
+---
+
+<a id="item-41"></a>
+## [Volcano Engine Coding Plan Limits Daily Purchases After GLM-5.2 Launch](https://linux.do/t/topic/2427408) ⭐️ 7.0/10
+
+Volcano Engine's Coding Plan and Agent Plan have imposed daily purchase limits starting at midnight, with limited stock refreshed periodically, due to surging demand following the GLM-5.2 model launch. This signals strong demand for specialized coding AI services and potential compute resource constraints at ByteDance's cloud platform, impacting individual developers and highlighting the competitive AI coding market dynamics in China. Existing subscribers are unaffected and can renew or upgrade; new users cannot place orders when daily stock runs out. The plan supports Claude Code and tools like veCLI, and now offers new models including GLM-5.2, Kimi-K2.7-Code, and Minimax-M3.
+
+rss · LINUX.DO 前沿快讯 · Jun 18, 03:57
+
+**Background**: Volcano Engine is ByteDance's cloud computing platform, akin to AWS or Alibaba Cloud, offering AI services including a Coding Plan for agentic programming. GLM-5.2 is a Mixture-of-Experts coding model from Zhipu AI (Z.AI), with 753B total parameters and 40B active per token, capable of converting papers into runnable code. The high demand for coding AI has led to compute capacity challenges, prompting these limits.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://docs.z.ai/guides/llm/glm-5.2">GLM - 5 . 2 - Overview - Z.AI DEVELOPER DOCUMENT</a></li>
+<li><a href="https://openrouter.ai/z-ai/glm-5.2">GLM 5 . 2 - API Pricing & Benchmarks | OpenRouter</a></li>
+<li><a href="https://news.aibase.com/news/22704">Volcano Engine Launches Doubao Programming Model, Leading the...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community discussion questions whether the limit is due to marketing strategy or genuine compute shortage, noting that ByteDance is widely believed to have abundant compute resources. Some users express skepticism about the scarcity narrative.
+
+**Tags**: `#Volcano Engine`, `#ByteDance`, `#AI demand`, `#coding plan`, `#compute resources`
+
+---
+
+<a id="item-42"></a>
+## [Speculative Decoding Trending on Papers with Code](https://www.reddit.com/r/MachineLearning/comments/1u83kzt/what_is_speculative_decoding_trending_on/) ⭐️ 7.0/10
+
+Speculative decoding, an inference optimization technique that uses a draft model to propose tokens verified in parallel by the target model, is trending on Papers with Code, and SGLang has released a blog post on next-generation DFlash speculative decoding models. This technique significantly accelerates LLM inference without sacrificing output quality, enabling faster, cost-effective model serving, which is critical for real-world deployment and has been adopted by industry frameworks like SGLang and vLLM. SGLang's blog details how they achieve state-of-the-art latencies using Modal and Z.ai's DFlash speculative decoding models, with DFlash being a lightweight block diffusion model that achieves up to 4.4x speedup over autoregressive decoding.
+
+reddit · r/MachineLearning · /u/NielsRogge · Jun 17, 07:41
+
+**Background**: Speculative decoding improves LLM inference speed by having a fast draft model generate multiple token proposals, which the larger target model accepts or rejects in parallel, ensuring the final output matches the target model's distribution. This method reduces the number of sequential decoding steps, making it highly effective for real-time applications.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/">The next generation of speculative decoding : DFlash ... | LMSYS Org</a></li>
+<li><a href="https://huggingface.co/z-lab/Qwen3.5-9B-DFlash">z-lab/Qwen3.5-9B- DFlash · Hugging Face</a></li>
+<li><a href="https://www.sglang.io/">SGLang - High-Performance Serving Framework for LLMs and VLMs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#speculative decoding`, `#LLM inference`, `#optimization`, `#SGLang`, `#vLLM`
+
+---
+
+<a id="item-43"></a>
+## [HeyGen's HyperFrames: AI agents create videos from HTML](https://github.com/heygen-com/hyperframes) ⭐️ 7.0/10
+
+HeyGen has open-sourced HyperFrames, a TypeScript tool that allows AI agents to programmatically generate videos by writing HTML, CSS, and JavaScript. The repository saw 10 stars in the past 24 hours and 95 pushes, indicating active development. This represents a novel approach to video creation by bridging traditional web development with AI-driven content generation. It could lower the barrier for developers and AI agents to produce dynamic video content without manual editing. HyperFrames is built for AI agents and uses Apache 2.0 license. It renders HTML into real MP4 videos, and can be used with tools like Claude Code. The project is written in TypeScript and has received 95 commits in its early stage.
+
+ossinsight · heygen-com · Jun 18, 08:05
+
+**Background**: HyperFrames is an open-source HTML-to-video renderer from HeyGen, a company known for AI avatar video generation. It enables AI coding agents to create videos by writing code, similar to how they generate images or animations. This approach is part of a trend where AI agents become capable of producing multimedia content programmatically.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://hyperframes.heygen.com/">HyperFrames — Edit Videos By Vibe-Coding</a></li>
+<li><a href="https://www.mindstudio.ai/blog/what-is-hyperframes-html-video-renderer-ai-agents">What Is HyperFrames? The HTML-Based Video Renderer for AI Agents</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#video generation`, `#AI agents`, `#open source`, `#HTML to video`, `#HeyGen`
+
+---
+
+<a id="item-44"></a>
+## [Volkswagen blocks GrapheneOS users from app and API](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3) ⭐️ 6.0/10
+
+Volkswagen has started blocking users of GrapheneOS, a privacy-focused Android-based operating system, from accessing its official app and API. This move signals a growing tension between privacy-conscious users and automotive companies that increasingly rely on proprietary software, potentially alienating a technically savvy customer base. The API is now locked to devices that are not Play Protect certified, which means community-driven integrations like Home Assistant can no longer function for Volkswagen vehicles.
+
+hackernews · microtonal · Jun 17, 15:04 · [Discussion](https://news.ycombinator.com/item?id=48571526)
+
+**Background**: GrapheneOS is a security-hardened, privacy-focused mobile operating system based on Android, designed without Google services by default. It is popular among users who prioritize control over their data and avoid proprietary software ecosystems. Volkswagen's decision affects not only the official app but also third-party integrations that many users relied on.
+
+**Discussion**: Community reactions are overwhelmingly negative, with users expressing frustration at Volkswagen's decision and citing it as a reason to reconsider purchasing their vehicles. Some note that the official app is cluttered with advertisements while community alternatives offered a better experience.
+
+**Tags**: `#Volkswagen`, `#GrapheneOS`, `#Privacy`, `#Automotive`, `#API`
+
+---
+
+<a id="item-45"></a>
+## [MicroUI: Tiny Immediate-Mode GUI Library in ANSI C](https://github.com/rxi/microui) ⭐️ 6.0/10
+
+MicroUI is a minimal, portable immediate-mode GUI library written in ANSI C, popular among hobbyists for its simplicity. It was released as open source on GitHub by rxi. MicroUI provides a lightweight, dependency-free GUI solution for embedded systems and toy projects where full frameworks are overkill. Its immediate-mode paradigm simplifies UI code by eliminating state management. The library is considered abandonware with a known bug: a misaligned pointer access in the draw call iterator that causes panics in environments like Zig. Despite this, forks exist but none have gained significant traction.
+
+hackernews · peter_d_sherman · Jun 17, 12:04 · [Discussion](https://news.ycombinator.com/item?id=48569205)
+
+**Background**: An immediate-mode GUI library requires the user to specify the entire UI each frame, rather than retaining state in widgets. This approach is common in game development and tools where simplicity and performance are key. ANSI C refers to the first standardized version of the C programming language, known for its portability across platforms.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C (programming language) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters generally appreciate MicroUI's minimalism and ease of integration, with one user noting it is his go-to for toy projects. However, several acknowledge it's abandonware and point out the misaligned pointer bug, though some have used it successfully in proofs-of-concept and production-like projects.
+
+**Tags**: `#UI library`, `#ANSI C`, `#open source`, `#immediate mode`, `#embedded`
+
+---
+
+<a id="item-46"></a>
+## [Structural Uncertainty for LLM Reasoning Consistency](https://arxiv.org/abs/2606.17312) ⭐️ 6.0/10
+
+Researchers propose 'structural uncertainty', a framework that measures consistency in LLM logical reasoning by analyzing the stability of self-preference-induced rankings over sampled reasoning solutions, instead of just looking at answer dispersion. This provides a more nuanced way to evaluate LLM reasoning reliability, especially for multi-step deductive reasoning where answer dispersion may miss inconsistencies, and improves identification of unreliable instances on logical and mathematical tasks. The framework uses the Bradley-Terry model with PageRank to aggregate self-preferences into ranking distributions, and decomposes uncertainty into across-trial ranking instability and within-trial candidate ambiguity, with the structural signal collapsing on factual retrieval tasks.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: Large language models (LLMs) often produce correct answers through reasoning paths that are unstable or contradictory, a failure mode common in multi-step deductive reasoning. Existing methods assess reliability mainly by measuring output dispersion, which discards information about whether the model can consistently rank its own reasoning candidates. The proposed structural uncertainty framework fills this gap by using self-preference rankings and Bradley-Terry modeling to capture consistency.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bradley–Terry_model">Bradley–Terry model - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2402.07811">[2402.07811] PageRank and the Bradley-Terry model</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#logical reasoning`, `#uncertainty quantification`, `#consistency`, `#evaluation`
+
+---
+
+<a id="item-47"></a>
+## [MemTrace: Benchmark for LLM Agent Long-Term Memory](https://arxiv.org/abs/2606.17328) ⭐️ 6.0/10
+
+MemTrace introduces a benchmark that evaluates LLM agents' long-term memory at the knowledge point level, probing each fact along three controlled dimensions: memory age, question type, and evidence condition. It reveals that pooled accuracy hides critical failure modes, such as the inability to track fact changes or correct false premises, and identifies evidence use as the dominant bottleneck over retrieval, guiding future improvements in memory systems. MemTrace's unit of measurement is the knowledge point, a single typed fact about the user, and it evaluates across three dimensions: memory age (sessions since appearance), question type (current, earlier, trajectory), and evidence condition (present, missing, contradicted by false premise). Evaluating 13 memory-system configurations showed that when systems fail, evidence was retrievable 10 times more often than it was missing.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: Traditional evaluation of LLM agent long-term memory aggregates accuracy over independent question rows, which can miss how the same fact behaves under different conditions. MemTrace addresses this by using knowledge points as the unit, tracking each fact across varying memory ages, question types, and evidence conditions. This approach exposes failure patterns that pooled accuracy obscures.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2606.17328">MemTrace : Probing What Final Accuracy Misses in Long - Term Memory</a></li>
+<li><a href="https://arxiv.org/pdf/2606.17328">MemTrace : Probing What Final Accuracy Misses in Long - Term Memory</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM agents`, `#long-term memory`, `#evaluation benchmark`, `#AI research`
+
+---
+
+<a id="item-48"></a>
+## [SpeechDx: A Multi-Task Benchmark for Clinical Speech AI](https://arxiv.org/abs/2606.17339) ⭐️ 6.0/10
+
+Researchers introduced SpeechDx, a large-scale benchmark spanning 12 datasets and 27 tasks across diverse health conditions, designed to evaluate clinical speech AI models systematically. This benchmark provides a standardized evaluation framework for clinical speech AI, enabling comparison across studies and promoting progress toward general-purpose clinical speech representations. SpeechDx organizes tasks by the stage of speech production (conceptualization, formulation, articulation) they disrupt, and evaluates 12 state-of-the-art audio encoders under zero-shot cross-condition transfer.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: Speech production involves three major stages: conceptualization (deciding what to say), formulation (structuring language), and articulation (physical production of sound). Clinical speech AI faces challenges like limited labeled data and difficulty comparing results across isolated condition-specific studies.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Speech_production">Speech production - Wikipedia</a></li>
+<li><a href="https://opentextbc.ca/psyclanguage/chapter/the-standard-model-of-speech-production/">9.2 The Standard Model of Speech Production – Psychology of Language</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12994280/">An End-to-End Overview of Clinical Speech AI - PMC</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#clinical speech AI`, `#benchmark`, `#multi-task`, `#audio encoders`, `#health`
+
+---
+
+<a id="item-49"></a>
+## [Adaptive Clinical Decision Support AI via Digital Twin and RL](https://arxiv.org/abs/2606.17405) ⭐️ 6.0/10
+
+Researchers propose an online adaptive framework that integrates treatment effect estimation, digital twin simulation, and reinforcement learning for clinical decision support. The system is validated on both a synthetic simulator and real ovarian cancer data from TCGA. This approach could enable safer, personalized treatment recommendations that continuously improve with use, reducing the need for expert consultation. It addresses the challenge of adapting to evolving patient conditions in real-time while maintaining safety constraints. The system uses a rule-based module to monitor vital signs and block contraindicated treatments, and flags cases with strong internal model disagreement for clinician review. It maintains low latency and requires expert consultation for only a minority of cases in experiments.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: Digital twins in healthcare are virtual replicas that simulate patient physiology or medical devices, updated dynamically with real data. Treatment effect estimation aims to quantify the causal impact of treatments on outcomes. Reinforcement learning learns optimal sequential decisions through trial and error, but must be constrained in clinical settings for safety.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.scalacode.com/blog/digital-twins-in-healthcare/">How Digital Twins In Healthcare Are Transforming Patient Care</a></li>
+<li><a href="https://www.createasoft.com/our-solutions/digital-twin-studio/healthcare-digital-twin">Healthcare Digital Twin | Simcad Pro Health</a></li>
+<li><a href="https://medium.com/@errolegutierrez/the-digital-twin-in-healthcare-simulating-patient-data-for-better-outcomes-78c17d4990a">The Digital Twin in Healthcare : Simulating Patient Data for... | Medium</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Healthcare`, `#Clinical Decision Support`, `#Reinforcement Learning`, `#Digital Twin`
+
+---
+
+<a id="item-50"></a>
+## [MapSatisfyBench: Benchmark for Satisfaction-Aware Map Agents](https://arxiv.org/abs/2606.17453) ⭐️ 6.0/10
+
+MapSatisfyBench is introduced as a new benchmark to evaluate how well large language model (LLM) based map agents can recover implicit user needs from underspecified queries, moving beyond task completion to user satisfaction. This benchmark addresses a critical gap in map agent evaluation by focusing on implicit decision factors that impact user satisfaction, which is essential for real-world daily use cases where queries are often vague. MapSatisfyBench is constructed from large-scale, real-world anonymized user data and provides ground truth across five dimensions, enabling a full-chain evaluation of satisfaction-aware map agents.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: Map services are often used in everyday scenarios where users express needs informally, leading to queries that omit many implicit decision factors critical for satisfaction. While clarification can help, it increases user burden. Therefore, an ideal agent should proactively recover these factors from available information before responding. MapSatisfyBench is designed to evaluate this ability in a principled way.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2606.17453">Benchmarking Satisfaction-Aware Map Agents through Behavior ...</a></li>
+<li><a href="https://www.linkedin.com/posts/daily-ai-wire_mapsatisfybench-new-benchmark-for-user-centric-activity-7472977294647808001-2z-I">New Benchmark for User-Centric Map Agents | Daily AI Wire News</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Large Language Models`, `#Map Services`, `#User Satisfaction`, `#Benchmarking`, `#AI Agents`
+
+---
+
+<a id="item-51"></a>
+## [Paper Dissects Agent Harness Intent-Execution Gap](https://arxiv.org/abs/2606.17454) ⭐️ 6.0/10
+
+A new paper formalizes the 'intent-execution gap' in AI agent systems and introduces the Simple Strands Agent (SSA), an open-source harness that aligns model behavior with harness execution, reproducing or improving pass@1 on benchmarks like SWE-Pro, SWE-Verified, and Terminal-Bench-2. This work highlights that agent performance depends critically on harness-model alignment, not just model capability, offering a practical framework (SSA) to bridge that gap and enabling finer-grained analysis of model problem-solving behavior via trajectory analysis. The paper analyzes 138k trajectories from SSA across Claude, Gemini, GPT, Grok, and Qwen, revealing model-specific differences in edit frequency, testing activity, and phase transitions beyond aggregate pass@1 scores.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: An agent harness is the software infrastructure that wraps an AI model, managing tools, memory, context, and safety checks to turn a raw language model into an autonomous worker. The 'intent-execution gap' refers to the mismatch between what the model intends to do and what the harness actually executes. SSA is a lightweight, open-source harness designed to minimize this gap by finding common patterns across model families while accommodating model-specific preferences.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.amazon.science/blog/bridging-intent-and-execution-in-agentic-systems">Bridging intent and execution in agentic systems - Amazon Science</a></li>
+<li><a href="https://www.linkedin.com/pulse/agent-harnesses-explained-why-your-ai-works-demos-fails-shahzad-safri-q58dc">Agent Harnesses Explained: Why Your AI Agent Works in Demos but...</a></li>
+<li><a href="https://sovereignpost.info/article/aws-unfurls-open-source-ai-agent-to-enable-better-ai-coding-outcomes-devops-com-2026-06-08t22-16-26z">AWS Unfurls Open Source AI Agent to Enable... — The Sovereign Post</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#intent-execution gap`, `#harness design`, `#model evaluation`
+
+---
+
+<a id="item-52"></a>
+## [Curriculum-Grounded LLM-as-Judge Pipeline for Exam Marking](https://arxiv.org/abs/2606.17507) ⭐️ 6.0/10
+
+A new paper proposes a curriculum-grounded, configurable LLM-as-Judge pipeline for automated marking of exam questions, co-developed with an industrial partner. The pipeline systematically grounds LLM judgments in authorised curriculum artefacts and marking guidelines. This work addresses the critical challenge of deploying LLMs in high-stakes educational assessments by improving consistency and traceability to official standards. It could lead to more reliable and transparent automated grading, benefiting students preparing for university admission exams. The pipeline identifies topics, subtopics, and cognitive demand of a question, then uses a staged LLM workflow to generate rubrics and allocate marks. Preliminary evaluation shows marking outcomes comparable to human tutors, with justifications more traceable to authorised artefacts.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: The LLM-as-Judge technique uses large language models to evaluate outputs of other systems. In education, automated assessment often suffers from inconsistency and lack of alignment with official curriculum. This pipeline operationalizes curriculum intent through syllabus artefacts like performance band descriptors and marking guidelines, aiming to ground LLM judgments in authorised context.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/pdf/2606.17507">LLM-as-Judge in Education: A Curriculum - Grounded Marking Pipeline</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LLM-as-a-Judge">LLM - as -a- Judge - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#education`, `#automated assessment`, `#curriculum`, `#AI in education`
+
+---
+
+<a id="item-53"></a>
+## [Brick-DICL: Dynamic In-Context Learning for Brick Schema Classification](https://arxiv.org/abs/2606.17637) ⭐️ 6.0/10
+
+The paper proposes Brick-DICL, a two-stage dynamic in-context learning framework that uses retrieval-augmented generation (RAG) to automate the classification of Building Management System (BMS) points into Brick ontology classes. This framework addresses a critical integration challenge in smart buildings by reducing manual effort and enabling rapid onboarding of diverse BMS systems, potentially accelerating the adoption of standardized, interoperable building management systems. Brick-DICL consists of two RAG components: metadata-RAG retrieves relevant examples to enhance LLM domain knowledge, while class-RAG narrows down the large classification space. A multi-LLM filtering mechanism flags low-confidence predictions for human review, achieving significant accuracy improvements over existing methods.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: The Brick schema is an open-source ontology that standardizes semantic descriptions of building assets, subsystems, and data points, but its 936 classes make manual mapping from diverse BMS points labor-intensive. Retrieval-augmented generation (RAG) combines large language models (LLMs) with external knowledge bases to improve domain-specific reasoning without fine-tuning.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://brickschema.org/">Brick Schema</a></li>
+<li><a href="https://github.com/BrickSchema">Brick Schema - GitHub</a></li>
+<li><a href="https://www.databricks.com/blog/what-is-retrieval-augmented-generation">What is Retrieval Augmented Generation (RAG)? - Databricks</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#RAG`, `#building management`, `#ontology classification`, `#schema mapping`
+
+---
+
+<a id="item-54"></a>
+## [DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL](https://arxiv.org/abs/2606.17821) ⭐️ 6.0/10
+
+DecoSearch is a training-free framework that introduces complexity-aware routing and plan-level repair to improve Text-to-SQL generation, achieving 70.53% execution accuracy on BIRD and 88.31% on Spider with a DeepSeek backbone while consuming far fewer tokens than competing methods. This work is significant because it demonstrates that complex Text-to-SQL queries can be handled efficiently without additional training, making it practical for real-world database querying where labeled data is scarce. It also serves as a model-agnostic wrapper that can improve fine-tuned SQL generation backbones without any modification. The framework consists of a lightweight Schema Selector, an LLM Judger that decides whether to decompose the query, a RAG component for grounding with examples, and a Topology Refiner that restructures the plan upon execution failures. DecoSearch surpasses all training-free baselines while consuming an order of magnitude fewer tokens than competing methods.
+
+rss · arXiv CS.AI · Jun 18, 04:00
+
+**Background**: Text-to-SQL is a task where natural language questions are converted into SQL queries to retrieve data from databases. Many recent approaches rely on large language models (LLMs) but either fine-tune them for better performance (which requires labeled data and computational cost) or use expensive reasoning strategies for all queries. Complexity-aware routing aims to allocate reasoning effort only to complex queries, while plan-level repair fixes high-level errors in the query decomposition plan rather than low-level SQL syntax.
 
 <details><summary>References</summary>
 <ul>
@@ -799,583 +1218,173 @@ rss · arXiv CS.AI · Jun 17, 04:00
 </ul>
 </details>
 
-**Tags**: `#text-to-SQL`, `#LLM`, `#training-free`, `#query routing`, `#decomposition`
-
----
-
-<a id="item-35"></a>
-## [OpenAI Launches LifeSciBench for AI in Life Sciences](https://openai.com/index/introducing-life-sci-bench) ⭐️ 7.0/10
-
-OpenAI has introduced LifeSciBench, a benchmark authored and reviewed by 173 PhD-level scientists, consisting of 750 tasks across seven biological research workflows to evaluate AI systems on realistic life science research. This benchmark addresses a critical need for evaluating AI in a high-stakes domain where real-world research tasks differ significantly from standard biology Q&A, potentially accelerating AI adoption in drug discovery and biotechnology. The 750 tasks were developed with input from 173 practicing scientists in biotech and pharma, covering seven workflows such as experimental design and data interpretation, ensuring the benchmark reflects genuine research challenges.
-
-rss · OpenAI Blog · Jun 17, 00:00
-
-**Background**: Benchmarks are standardized tests used to measure AI system performance on specific tasks. LifeSciBench differs from existing biology benchmarks by focusing on complex, multi-step research workflows rather than factual recall, requiring AI to demonstrate reasoning and decision-making skills similar to a human scientist.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openai.com/index/introducing-life-sci-bench/">Introducing LifeSciBench | OpenAI</a></li>
-<li><a href="https://digg.com/tech/7ay1iq9b">OpenAI releases LifeSciBench , a benchmark of 750 expert tasks to...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#benchmark`, `#AI evaluation`, `#life science`, `#OpenAI`
-
----
-
-<a id="item-36"></a>
-## [Anthropic Launches Workload Identity Federation for Claude](https://claude.com/blog/workload-identity-federation) ⭐️ 7.0/10
-
-Anthropic has introduced Workload Identity Federation for the Claude platform, enabling secure token-based authentication without requiring long-lived API keys. This innovation significantly reduces security risks for enterprises by eliminating static credentials, simplifying integration with existing identity providers, and enhancing overall API security posture. The feature uses short-lived tokens issued through federated trust, supporting major identity providers like AWS, GCP, Azure, and others, and is available immediately for Claude API users.
-
-rss · Claude Blog · Jun 17, 00:00
-
-**Background**: Workload Identity Federation is a security model that allows workloads (e.g., applications, services) to authenticate using short-lived credentials from a trusted identity provider, avoiding the need for long-lived secrets like API keys. This approach is widely adopted in cloud-native environments to improve security and operational efficiency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://nicolasuter.medium.com/why-you-should-use-entra-workload-identity-federation-dfe8b6b626a1">Why you should use Entra Workload Identity Federation | Medium</a></li>
-<li><a href="https://aembit.io/blog/anthropic-workload-identity-federation-what-it-gets-right-and-what-it-still-doesnt-solve/">Anthropic Workload Identity Federation : What It Gets Right – and...</a></li>
-<li><a href="https://nhimg.org/glossary/workload-identity-federation/">What Is Workload Identity Federation ? Definition & Examples</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#security`, `#enterprise`, `#Claude`, `#API management`
-
----
-
-<a id="item-37"></a>
-## [AI Flips Economics of Code: From Precious to Disposable](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything) ⭐️ 7.0/10
-
-Charity Majors, a respected industry figure, observed that as of 2025, the economics of code production have been inverted: generating code has become effectively free and instant, making code disposable rather than carefully curated. This shift has profound business implications, forcing software engineering teams to rethink strategies around code quality, reuse, and maintenance as the cost of generating new code plummets. Majors specifically notes that lines of code went from being treasured and carefully curated to being 'disposable and regenerable practically overnight,' marking a paradigm shift in how software is built.
-
-rss · Simon Willison · Jun 17, 17:12
-
-**Background**: Generative AI, particularly large language models (LLMs), now enables instant code generation from natural language prompts. This has dramatically lowered the barrier to producing code, leading to what some call 'AI-assisted programming.' The traditional view treated code as an asset to be refined over time; the new economics treat it as a cheap commodity that can be regenerated on demand.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://vegavid.com/blog/ai-code-generation">What Is AI Code Generation ? The Ultimate 2026 Guide</a></li>
-<li><a href="https://www.linkedin.com/posts/parthsuri_futureofcoding-ai-softwareengineering-activity-7310977954769973248-SyyR">How coding is evolving with AI and automation | Parth Suri... | LinkedIn</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#software-engineering`, `#economics-of-code`, `#generative-ai`
-
----
-
-<a id="item-38"></a>
-## [Georgi Gerganov Endorses Qwen3.6-27B for Local Coding](https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything) ⭐️ 7.0/10
-
-Georgi Gerganov, creator of llama.cpp and ggml, publicly attested that the Qwen3.6-27B model is highly capable for local coding tasks, stating he uses it daily for maintenance work on his M2 Ultra and RTX 5090 systems. This endorsement from a leading figure in local LLM infrastructure adds significant credibility to Qwen3.6-27B as a practical tool for developers, particularly for tasks like code maintenance and small-scale coding assistance, reinforcing the trend toward capable local models. Gerganov uses the model with a lightweight harness: the pi agent in offline mode with a short custom system prompt. He noted that he would use it more if not for extensive PR review duties.
-
-rss · Simon Willison · Jun 16, 16:04
-
-**Background**: Qwen3.6-27B is a dense 27-billion-parameter language model released by the Qwen Team at Alibaba in April 2026. llama.cpp is the de facto standard open-source inference engine for running LLMs locally, co-developed by Gerganov. The pi agent is a coding agent tool designed for token-efficient, minimal-prompt interactions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://huggingface.co/Tooony133/Qwen-3.6-27B">Tooony133/ Qwen - 3 . 6 - 27 B · Hugging Face</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Llama.cpp">Llama.cpp</a></li>
-<li><a href="https://pi.dev/">Pi Coding Agent</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#local LLM`, `#coding assistant`, `#Qwen`, `#llama.cpp`, `#open-source AI`
-
----
-
-<a id="item-39"></a>
-## [From Hugging Face Hub to Robot Hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) ⭐️ 7.0/10
-
-A blog post from Hugging Face describes how to deploy a trained policy from the Hugging Face Hub to a physical robot using AWS's Strands Agents SDK and the LeRobot library, bridging simulation and real-world hardware. This integration simplifies the pipeline from ML model training to physical robot control, making it easier for robotics practitioners to deploy AI policies in real-world applications, accelerating automation and research. The approach leverages Strands Agents for agent orchestration and LeRobot for robot learning and control, supporting customizable agent loops and minimal-code deployment. The post provides a step-by-step guide for end-to-end deployment.
-
-rss · Hugging Face Blog · Jun 17, 10:18
-
-**Background**: Hugging Face Hub is a popular platform for sharing machine learning models, including policies for robotics. LeRobot is an open-source library by Hugging Face for deep learning in robotics, supporting various robotic arms. Strands Agents is an open-source SDK from AWS for building AI agents with model-driven design. This news connects these tools to enable real robot deployment.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/">Introducing Strands Agents , an Open Source AI Agents SDK</a></li>
-<li><a href="https://grokipedia.com/page/LeRobot">LeRobot</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#robotics`, `#Hugging Face`, `#machine learning`, `#reinforcement learning`, `#automation`
-
----
-
-<a id="item-40"></a>
-## [GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog) ⭐️ 7.0/10
-
-Zhipu AI has released GLM-5.2, a new version of its GLM series specifically optimized for long-horizon tasks, enhancing reasoning and planning capabilities over extended sequences. This update makes GLM-5.2 more suitable for complex, multi-step AI applications such as autonomous agents and workflow automation, offering practical business value for planning and reasoning tasks. GLM-5.2 focuses on maintaining quality across long, messy coding-agent trajectories, not just accepting more tokens, making it engineering-usable for long-horizon tasks.
-
-rss · Hugging Face Blog · Jun 17, 09:01
-
-**Background**: Long-horizon tasks require an AI model to plan and execute over extended periods with multiple steps and complex decision-making. GLM is a series of large language models developed by Zhipu AI, similar to GPT, and has gained significant adoption in Chinese AI applications. This update targets a key limitation of previous models in handling such prolonged interactions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.z.ai/guides/llm/glm-5.2">GLM -5.2 - Overview - Z.AI DEVELOPER DOCUMENT</a></li>
-<li><a href="https://registry.ollama.ai/library/glm-5.2">GLM-5.2 is Z. ai ’s flagship model for the era of long - horizon tasks .</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Model Update`, `#GLM`, `#Long-Horizon Tasks`, `#Zhipu AI`
-
----
-
-<a id="item-41"></a>
-## [Hugging Face Launches Agentic Resource Discovery Tool](https://huggingface.co/blog/agentic-resource-discovery-launch) ⭐️ 7.0/10
-
-Hugging Face has introduced Agentic Resource Discovery, a new tool that enables AI agents to autonomously search and leverage resources from the Hugging Face ecosystem. This tool empowers AI agents to dynamically discover and use models, datasets, and other resources, which is a crucial step toward more autonomous and capable agent-based systems. It aligns with the growing trend of agentic AI, where agents act independently to complete complex tasks. Agentic Resource Discovery is designed to work within the Hugging Face platform, allowing agents to search for resources via natural language queries or programmatic interfaces. It is part of Hugging Face's broader push toward agent-centric AI development.
-
-rss · Hugging Face Blog · Jun 17, 00:00
-
-**Background**: Agentic Resource Discovery refers to the ability of AI agents to autonomously find and utilize external resources such as models, APIs, or datasets to accomplish tasks. This is distinct from traditional search where humans manually look for resources, as the agent itself performs the discovery process. Hugging Face hosts a vast repository of open-source AI resources, making it a natural environment for this capability.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/">Announcing the Agentic Resource Discovery specification</a></li>
-<li><a href="https://www.marcus-povey.co.uk/2026/05/11/being-prepared-for-agentic-search/">Being prepared for Agentic Search – Marcus Povey</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#resource discovery`, `#Hugging Face`, `#tool launch`, `#search`
-
----
-
-<a id="item-42"></a>
-## [Google introduces hybrid MCP + A2UI patterns for agentic UIs](https://developers.googleblog.com/a2ui-and-mcp-apps/) ⭐️ 7.0/10
-
-Google has introduced three architectural patterns that combine the Model Context Protocol (MCP) and Agent-to-User Interface (A2UI) to balance custom iframe environments with declarative rendering for agentic user interfaces. This integration enables developers to serve native-feeling UIs directly over MCP servers, embed stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems, providing flexibility for building secure and performant agentic experiences. The three patterns address the tradeoff between highly custom iframe environments and native declarative rendering, allowing hybrid frameworks that can adapt to specific project constraints.
-
-rss · Google AI Dev · Jun 17, 00:00
-
-**Background**: Model Context Protocol (MCP) is an open standard introduced by Anthropic in 2024 for connecting AI models to external tools and data sources. Agent-to-User Interface (A2UI) is another open protocol that enables AI agents to generate rich, interactive user interfaces that render natively. Traditionally, agent-generated UIs relied on iframes for security, but this approach often led to performance and consistency issues.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
-<li><a href="https://a2ui.org/">A 2 UI , a streaming protocol for Agent -Driven User Interfaces</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#MCP`, `#A2UI`, `#agentic UIs`, `#Google`, `#architecture patterns`
-
----
-
-<a id="item-43"></a>
-## [Tencent QQ Mail Launches Agently Mail for AI Agents](https://linux.do/t/topic/2426264) ⭐️ 7.0/10
-
-Tencent's QQ Mail team has launched Agently Mail, a dedicated email service designed specifically for AI agents, allowing agents to send and receive emails independently from personal mailboxes. This marks one of the first major tech companies to offer a native email solution for AI agents, potentially enabling more autonomous agent workflows in business contexts and simplifying agent integration with email-based services. Users can create multiple email addresses per account and authorize multiple agents to use a single address. The service is accessed via a CLI tool that provides a prompt for agents, and currently supports WeChat login for authorization.
-
-rss · LINUX.DO 前沿快讯 · Jun 18, 01:55
-
-**Background**: AI agents are autonomous programs that perform tasks on behalf of users. They often need to communicate via email for notifications, data exchange, or task execution. Traditional email services lack agent-friendly APIs and security isolation, making dedicated services like Agently Mail necessary for safe and efficient agent operation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://agent.qq.com/">Agently Mail</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters noted that the domain 'agent.qq.com' seems underutilized for this product and speculated that it might be a transitional step toward a larger offering. They also confirmed that setup is straightforward: users copy a prompt to the agent and complete authorization by visiting a URL.
-
-**Tags**: `#Tencent`, `#AI Agent`, `#Email Service`, `#Product Launch`, `#Agent Ecosystem`
-
----
-
-<a id="item-44"></a>
-## [AI predicts grammar, meaning, and context from neuron recordings](https://linux.do/t/topic/2425787) ⭐️ 7.0/10
-
-Researchers applied machine learning models to single-neuron recordings from humans during natural conversation and identified neuronal activity that reflects grammar, meaning, and context of spoken language. The study was published in Nature on June 17, 2026. This work reveals how individual neurons encode language at a finer scale than previously known, with potential applications in brain-computer interfaces for patients who cannot speak. It also bridges neuroscience and AI to improve neural decoding of speech. The team recorded from the frontal and temporal cortex and found neurons specialized for features like part-of-speech, syntactic dependencies, and phrase boundaries. Some neurons showed selectivity for grammatical relations (e.g., subject, object) and could integrate sentence context to predict word-level properties.
-
-rss · LINUX.DO 前沿快讯 · Jun 18, 00:45
-
-**Background**: Single-neuron recordings, also known as single-unit recordings, measure the electrical activity of individual neurons using microelectrodes. Previous language decoding efforts often used fMRI or EEG, which have lower spatial resolution. This study provides a cellular-resolution view of how the brain constructs sentences before speech.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Single-unit_recording">Single -unit recording - Wikipedia</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12460843/">Progress, challenges and future of linguistic neural decoding with...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#neuroscience`, `#language modeling`, `#brain-computer interface`
-
----
-
-<a id="item-45"></a>
-## [Stanford Grads Raise $11M for Noninvasive Hormone Wearable](https://linux.do/t/topic/2425735) ⭐️ 7.0/10
-
-Stanford University graduates Jenny Duan and Abhinav Agarwal raised $11 million to launch Clair Health, a startup developing a noninvasive wrist-worn wearable that uses biosensors and AI to continuously track hormones like estrogen, progesterone, LH, and FSH in real time. This marks a significant step in making continuous hormone monitoring accessible without blood draws or finger pricks, potentially transforming women's health management for fertility, perimenopause, and athletic performance. The device uses 10 biosensors and AI to track inflammation, bloating, energy levels, and cycle phase classification with 94% cycle accuracy, targeting women aged 19–50.
-
-rss · LINUX.DO 前沿快讯 · Jun 18, 00:39
-
-**Background**: Traditional hormone tracking methods, such as blood tests and saliva kits, are invasive, intermittent, and often inconvenient. Noninvasive wearable sweat biosensors have emerged as a promising alternative, enabling real-time, continuous monitoring of biomarkers. Clair Health builds on this technology by integrating multiple sensors and AI to provide personalized insights for women's health.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nature.com/articles/s44222-025-00276-8?error=cookies_not_supported&code=51f21eb9-055c-49f9-81e1-60ad5d2bf4cd">Non - invasive hormone monitoring with a wearable sweat biosensor</a></li>
-<li><a href="https://www.forbes.com/sites/josipamajic/2026/02/27/who-is-winning-continuous-hormone-monitoring--and-what-comes-next/">Who Is Winning Continuous Hormone Monitoring And What Comes Next</a></li>
-<li><a href="https://wearclair.com/blog/the-data-was-always-there/?trk=article-ssr-frontend-pulse_little-text-block">The Data Was Always There | Clair Health Blog</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#wearables`, `#hormone tracking`, `#health tech`, `#funding`, `#startup`
-
----
-
-<a id="item-46"></a>
-## [Anthropic CEO Urges US-Led AI Alliance to Exclude China](https://linux.do/t/topic/2425464) ⭐️ 7.0/10
-
-Dario Amodei, CEO of Anthropic, has called for a US-led international AI alliance that explicitly excludes China from cooperation. This proposal intensifies the geopolitical rivalry in AI development, potentially reshaping global AI governance and collaboration frameworks. The call comes amid escalating US-China tech competition, with implications for future AI safety standards and export controls.
-
-rss · LINUX.DO 前沿快讯 · Jun 17, 20:01
-
-**Background**: Anthropic, founded by former OpenAI employees, is a leading AI safety company behind the Claude model. The US and China are locked in a fierce race for AI dominance, with each side wary of the other's advancements. Amodei's proposal reflects broader concerns about national security and technological leadership.
-
-**Discussion**: In the forum discussion, a user expressed frustration with Amodei's stance and voiced hope that Chinese AI models would soon surpass Claude.
-
-**Tags**: `#AI地缘政治`, `#Anthropic`, `#中美竞争`, `#国际关系`
-
----
-
-<a id="item-47"></a>
-## [OpenAI Introduces Facial Recognition Verification](https://linux.do/t/topic/2425294) ⭐️ 7.0/10
-
-OpenAI has updated its help documentation and started rolling out facial recognition verification for some users to strengthen identity authentication. This change significantly impacts user authentication processes, especially for developers who rely on automated access, potentially adding friction but improving security. The verification appears as a pop-up window prompting users to scan their face; the help document titled 'Why am I being asked to verify my identity' has been updated to explain the new requirement.
-
-rss · LINUX.DO 前沿快讯 · Jun 17, 17:27
-
-**Background**: OpenAI has long relied on email and password-based authentication, occasionally supplemented by SMS codes. Facial recognition adds a biometric layer, common in financial services but newer for AI platforms.
-
-**Discussion**: Community members expressed concern about privacy and degradation of access, with comments like 'most genius programmers will be downgraded,' indicating resistance to the added friction.
-
-**Tags**: `#OpenAI`, `#面部识别`, `#身份验证`, `#安全更新`, `#开发者`
-
----
-
-<a id="item-48"></a>
-## [Self-Evolving LLM Agent Enhances BM25 for Legal Case Retrieval](https://arxiv.org/abs/2606.17220) ⭐️ 6.0/10
-
-Researchers propose a self-evolving framework where an LLM-based agent autonomously generates and refines query rewriting rules, improving BM25 retrieval without any parameter training. This work demonstrates a new paradigm combining LLM reasoning with classical ranking models, potentially reducing reliance on large-scale labeled data and expensive model fine-tuning in legal retrieval. The framework includes an automatic evaluation environment that iteratively creates, tests, and prunes rules; evaluated on the Chinese legal case retrieval benchmark LeCaRD-v2, it outperforms human-designed rules and greedy baselines.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: Legal case retrieval requires precise understanding of legal terminology and document structure. BM25 is a ranking algorithm using term frequency and document length normalization, still a strong baseline in many retrieval tasks. LeCaRD-v2 is a benchmark designed for Chinese legal case retrieval.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.myscale.com/blog/best-match-25-ranking-algorithm-explained/">Understanding Best Match 25 Ranking Algorithm</a></li>
-<li><a href="https://pub.aimind.so/understanding-the-bm25-ranking-algorithm-19f6d45c6ce">Understanding the BM 25 Ranking Algorithm | by Everton... | AI Mind</a></li>
-<li><a href="https://huggingface.co/datasets/sentence-transformers/lecard-v2">sentence-transformers/ lecard - v 2 · Datasets at Hugging Face</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#legal case retrieval`, `#LLM agent`, `#query rewriting`, `#BM25`, `#self-evolving`
-
----
-
-<a id="item-49"></a>
-## [MemTrace: Probing Hidden Failures in LLM Long-Term Memory](https://arxiv.org/abs/2606.17328) ⭐️ 6.0/10
-
-Researchers introduced MemTrace, a new benchmark that evaluates LLM long-term memory at the knowledge point level across three dimensions: memory age, question type, and evidence condition. This benchmark reveals that standard aggregated accuracy masks critical failures, such as inability to track changes over time and failure to correct false premises, highlighting the need to improve evidence use rather than just retrieval. Evaluating 13 memory-system configurations across four paradigms, MemTrace found that failures were due to evidence unreachable only 10% of the time, while in 90% of cases evidence was retrievable but not properly used.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: LLM agents increasingly maintain long-term memory across sessions, but evaluation typically aggregates accuracy over individual questions, which misses how a fact is handled under different conditions. MemTrace introduces knowledge points as the unit of measurement, allowing fine-grained probing along dimensions like memory age (how long ago the fact appeared) and evidence condition (whether evidence is present, missing, or contradicted). This approach uncovers hidden failures that standard accuracy cannot capture.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openclawradar.com/article/memtrace-claude-code-persistent-codebase-memory">Persistent Memory for Claude Code Agents: Memtrace Review</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#memory`, `#benchmark`, `#evaluation`
-
----
-
-<a id="item-50"></a>
-## [New Benchmark Evaluates LLM Map Agents on Implicit User Needs](https://arxiv.org/abs/2606.17453) ⭐️ 6.0/10
-
-Researchers introduce MapSatisfyBench, a benchmark that evaluates how well LLM-based map agents recover implicit decision factors from underspecified user queries using a restore-identify-filter framework. This benchmark shifts map agent evaluation from task completion to satisfaction-aware decision making, which is crucial for improving real-world user experience in everyday map services. MapSatisfyBench is constructed from large-scale real-world anonymized user data and annotates ground truth across five dimensions, enabling full-chain evaluation. Current agents perform well on explicit tasks but struggle with implicit factors.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: In map services, users often give underspecified queries with unspoken needs (implicit decision factors) that are critical for satisfaction. Clarifying these needs through questions can burden users, so agents should proactively recover them from available information before responding. This work provides a methodology and benchmark to evaluate that ability.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/2606.17453">[2606.17453] MapSatisfyBench: Benchmarking Satisfaction-Aware...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM agents`, `#map services`, `#benchmarking`, `#user satisfaction`
-
----
-
-<a id="item-51"></a>
-## [Intent-Execution Gap Formalized in AI Agent Systems](https://arxiv.org/abs/2606.17454) ⭐️ 6.0/10
-
-Researchers introduce the 'intent-execution gap' concept and propose a harness called Simple Strands Agent (SSA) to align model capabilities with execution, achieving performance gains on SWE-Pro, SWE-Verified, and Terminal-Bench-2 benchmarks. This work highlights that AI agent performance depends as much on systems design as on model capabilities, offering a practical approach to close the gap that often limits real-world deployment. The paper analyzes 138k trajectories generated by SSA using code state-space representations, revealing model-level differences in edit frequency, testing activity, and phase transitions beyond pass@1 metrics.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: AI agents use harnesses to interact with tools and execute actions, but mismatches between model assumptions and harness behavior create the 'intent-execution gap'. This gap can prevent models from fully translating their capabilities into effective agent performance. The SSA harness is designed to be simple and customizable, generalizing across model families while accommodating model-specific preferences.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.amazon.science/blog/bridging-intent-and-execution-in-agentic-systems">Bridging intent and execution in agentic systems - Amazon Science</a></li>
-<li><a href="https://nwquantum.uw.edu/2026/06/08/bridging-intent-and-execution-in-agentic-systems/">Bridging intent and execution in agentic systems - Northwest Quantum</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#intent-execution gap`, `#model harness`, `#systems design`
-
----
-
-<a id="item-52"></a>
-## [Curriculum-Grounded LLM-as-Judge Pipeline for Exam Marking](https://arxiv.org/abs/2606.17507) ⭐️ 6.0/10
-
-A new curriculum-grounded LLM-as-Judge pipeline for question-level marking in high-stakes exams is presented, co-developed with an industrial partner. Preliminary evaluation shows marking outcomes comparable to human tutors, with justifications more traceable to official curriculum artefacts. This pipeline improves consistency, transparency, and alignment with official marking standards, potentially reducing human workload and bias in educational assessment. It demonstrates a practical application of LLM-as-Judge in a high-stakes, regulated domain. The pipeline identifies topics, subtopics, and cognitive demand of a question, assembles verifiable context from syllabus artefacts, and uses a staged LLM workflow to generate rubrics and evaluate marking criteria. It has been integrated into an online study platform for operational use.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: LLM-as-Judge is a technique where large language models evaluate the outputs of other systems, but it can suffer from biases like position or verbosity bias. This work grounds the LLM in official curriculum documents and marking guidelines to mitigate such biases and increase reliability for educational assessment.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/LLM-as-a-Judge">LLM - as -a- Judge - Wikipedia</a></li>
-<li><a href="https://arxiv.org/pdf/2606.17507">LLM-as-Judge in Education: A Curriculum - Grounded Marking Pipeline</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#education`, `#automated assessment`, `#edtech`, `#AI pipeline`
-
----
-
-<a id="item-53"></a>
-## [SEAGym: New Evaluation for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.17546) ⭐️ 6.0/10
-
-SEAGym is a new evaluation environment that measures updates to LLM agent harnesses across training, validation, test, replay, and cost metrics, providing a more comprehensive assessment than isolated task scores. This matters because existing evaluations often miss whether an agent harness update leads to reusable improvements, overfitting, cost increases, or performance regressions. SEAGym helps researchers develop more robust self-evolving LLM agents. SEAGym converts Harbor-compatible benchmarks into dynamic self-evolution task sources with train batches, frozen update-validation, held-out ID and OOD transfer views, replay diagnostics, and saved snapshots. It was instantiated on Terminal-Bench 2.0 and HLE to compare ACE, TF-GRPO, and AHE under a shared epoch/batch protocol.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: Self-evolving LLM agents improve by changing their 'agent harness', which includes prompts, memory, tools, middleware, runtime state, and the model-tool interaction loop. Previous evaluations often used isolated task scores or single sequential curves, which could hide whether an update is truly beneficial. SEAGym aims to address this by providing a more detailed evaluation framework. Harbor is a benchmark framework from the creators of Terminal-Bench for evaluating and optimizing agents and language models.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cobusgreyling.medium.com/agent-model-harness-0d018f3d5014">Agent = Model + Harness . LLM -based agents are... | Medium</a></li>
-<li><a href="https://snorkel.ai/blog/benchtalks-alex-shaw-terminal-bench-harbor-building-the-benchmark-factory/">Benchtalks #1: Alex Shaw (Terminal- Bench , Harbor )... | Snorkel AI</a></li>
-<li><a href="https://github.com/harbor-framework/harbor">harbor -framework/ harbor : Harbor is a framework for running agent ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM agents`, `#self-evolution`, `#evaluation`, `#benchmarks`
-
----
-
-<a id="item-54"></a>
-## [FinAcumen: Self-Evolving Memory for Financial Multimodal Reasoning](https://arxiv.org/abs/2606.17642) ⭐️ 6.0/10
-
-FinAcumen introduces a self-evolving experience memory framework that selectively stores and retrieves reasoning experiences to improve tool-augmented financial multimodal reasoning, achieving consistent improvements over finance-specialized models on four benchmarks using a frozen 8B vision-language model. This work addresses the statelessness of existing tool-augmented agents, which repeatedly rediscover strategies and failures, leading to unreliable reasoning in high-stakes financial settings; FinAcumen's memory mechanism could improve reliability and efficiency of AI agents in finance and other domains. The framework uses a calibrated threshold to retrieve experiences only when semantically relevant, and suppresses irrelevant memory via a fallback mechanism; it operates within a deterministic financial tool environment covering numerical computation, retrieval, visual decoding, and answer verification.
-
-rss · arXiv CS.AI · Jun 17, 04:00
-
-**Background**: Tool-augmented agents are LLM-centric systems that invoke external tools like APIs and databases to improve execution fidelity. However, most lack persistent memory across episodes, forcing them to rediscover reasoning strategies each time. Experience memory stores past successes and failures to guide future reasoning, and self-evolving memory frameworks allow agents to continuously update and refine that knowledge over time.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.emergentmind.com/topics/tool-augmented-agents">Tool - Augmented Agents Overview</a></li>
-<li><a href="https://medium.com/@anupam.0480/solving-the-agentic-ai-puzzle-1-memory-in-agents-fc278aefe856">Solving the Agentic AI Puzzle #1: Memory in Agents | Medium</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#multimodal reasoning`, `#financial AI`, `#tool-augmented agents`, `#experience memory`
+**Tags**: `#Text-to-SQL`, `#LLM`, `#Natural Language Processing`, `#Query Routing`
 
 ---
 
 <a id="item-55"></a>
-## [Anthropic Announces Winners of Claude Opus 4.8 Hackathon](https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon) ⭐️ 6.0/10
+## [MolmoMotion: Language-guided 3D motion forecasting](https://huggingface.co/blog/allenai/molmomotion) ⭐️ 6.0/10
 
-Claude Blog has announced the winners of the Claude Opus 4.8 Build Day hackathon, showcasing innovative applications built on Anthropic's latest flagship model. This hackathon demonstrates real-world adoption and community engagement around Claude Opus 4.8, highlighting its capabilities in coding, agents, and enterprise workflows. Claude Opus 4.8, released in May 2026, features 69.2% on SWE-bench Pro, dynamic parallel workflows, and Effort Control, priced at $5/$25 per million input/output tokens.
+Allen AI and the University of Washington introduced MolmoMotion, a model that generates 3D motion sequences from natural language descriptions by forecasting object-attached point trajectories in world coordinates. This approach bridges language and physical motion, enabling applications like robot planning and controllable video generation without the computational cost of full video rendering. MolmoMotion represents motion as object-attached 3D points in world space, capturing motion efficiently. It can be used for downstream tasks such as robot planning and controllable video generation.
 
-rss · Claude Blog · Jun 17, 00:00
+rss · Hugging Face Blog · Jun 17, 15:26
 
-**Background**: Claude Opus 4.8 is Anthropic's flagship large language model optimized for complex tasks like coding and reasoning. The Build Day hackathon invited developers to create applications using this model, fostering community innovation.
+**Background**: 3D motion forecasting predicts how objects move in three-dimensional space over time. Language-guided models like MolmoMotion take natural language instructions (e.g., "a robot arm picks up the cup") and output corresponding motion sequences, which is useful for robotics, animation, and simulation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developer.puter.com/ai/anthropic/claude-opus-4.8-fast/">Claude Opus 4 . 8 Fast - API, Specs, Playground... - Puter Developer</a></li>
-<li><a href="https://awesomeagents.ai/models/claude-opus-48/">Claude Opus 4 . 8 | Awesome Agents</a></li>
-<li><a href="https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-anthropic-claude-opus-4-8.html">Claude Opus 4 . 8 - Amazon Bedrock</a></li>
+<li><a href="https://allenai.org/blog/molmo-motion">MolmoMotion: Language - guided 3 D motion forecasting | Ai2</a></li>
+<li><a href="https://www.alphaxiv.org/overview/molmomotion">MolmoMotion : Forecasting Point Trajectories in 3D with... | alphaXiv</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Claude`, `#hackathon`, `#Anthropic`, `#generative AI`, `#community`
+**Tags**: `#3D motion forecasting`, `#language-guided`, `#AI research`, `#Hugging Face`, `#robotics`
 
 ---
 
 <a id="item-56"></a>
-## [Datasette 1.0a34 Adds Insert/Edit/Delete Rows in UI](https://simonwillison.net/2026/Jun/16/datasette/#atom-everything) ⭐️ 6.0/10
+## [Step Plan Free Trial: Up to 120 Days for New and Existing Users](https://linux.do/t/topic/2427492) ⭐️ 6.0/10
 
-Datasette 1.0a34 alpha release introduces insert, edit, and delete row features directly in the table and row pages of the Datasette interface, enabling users to modify data without SQL queries. This feature addresses a long-standing user request, significantly improving Datasette's usability for non-technical users who want to interact with data directly. It also aligns Datasette's UI with the capabilities of the AI-powered Datasette Agent. The edit and delete actions are also available on the individual row page. The feature was inspired by Datasette Agent, which already had SQL write support, highlighting the inconsistency that data could be modified via chat but not the UI.
+Step Plan (阶跃星辰) has launched a limited-time free trial offering up to 120 days of access for both new and existing users. The promotion runs until July 18, 2026. This generous trial period lowers the barrier for users to evaluate Step Plan's AI capabilities, potentially expanding its user base. It also signals increased competition in the Chinese AI productivity tool market. New users receive 15 free days, and if the quota is used up, they get an additional 15 days (up to 30 days). Existing users can also claim 15 free days, with the same extension mechanism, and the free period automatically extends their current subscription.
 
-rss · Simon Willison · Jun 16, 21:31
+rss · LINUX.DO 前沿快讯 · Jun 18, 04:11
 
-**Background**: Datasette is an open-source tool for exploring and publishing data, typically read-only. Users previously had to use SQL or external tools to modify data. Datasette Agent is an AI assistant that can write and run SQL queries, which recently gained write capabilities.
+**Background**: Step Plan is an AI-powered productivity platform developed by 阶跃星辰 (StepFun), a Chinese AI startup founded in April 2023. The company has developed various models, including the Step-Audio2 voice model. This free trial aims to attract more users to test its services.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://agent.datasette.io/">Datasette Agent : an AI assistant for Datasette to help explore and...</a></li>
-<li><a href="https://simonwillison.net/2026/May/21/datasette-agent/">Datasette Agent | Simon Willison’s Weblog</a></li>
+<li><a href="https://en.wikipedia.org/wiki/StepFun">StepFun - Wikipedia</a></li>
+<li><a href="https://github.com/stepfun-ai/Step-Audio2/blob/main/examples.py">Step-Audio2/examples.py at main - GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#datasette`, `#open-source`, `#data-tools`, `#release`
+**Tags**: `#AI`, `#阶跃星辰`, `#免费体验`, `#Step Plan`
 
 ---
 
 <a id="item-57"></a>
-## [WhatsApp Tests View-Once Text Messages](https://linux.do/t/topic/2426651) ⭐️ 6.0/10
+## [StepFun's Step Plan Shifts to Token-Based Pricing](https://linux.do/t/topic/2427279) ⭐️ 6.0/10
 
-WhatsApp is testing a view-once mode for text messages in its Android and iOS beta versions. Users can long-press the send button and select 'send as view-once' to make the message disappear after being read, with copying, forwarding, and screenshots blocked. This feature extends privacy controls from photos, videos, and voice messages to text, offering users more granular control over ephemeral conversations. It brings WhatsApp closer to competitors like Signal and Telegram in terms of disappearing message capabilities. The feature is currently in development and not yet available in stable releases. It builds upon existing view-once support for media messages, which was introduced earlier.
+Chinese AI startup StepFun has changed its Step Plan service pricing from per-request to token-based billing, with existing packages remaining unchanged until expiry and future plans moving to the new system. This move aligns with an industry-wide trend of adopting token-based billing for AI services, which can offer more granular usage tracking but may also raise costs for heavy users. It signals StepFun's efforts to standardize pricing as it scales. The change applies only to new Step Plan subscriptions; existing plans retain their per-request pricing until expiration. Token-based billing charges users based on the number of tokens processed by the AI model, which reflects computational resource consumption.
 
-rss · LINUX.DO 前沿快讯 · Jun 18, 02:37
+rss · LINUX.DO 前沿快讯 · Jun 18, 03:41
 
-**Background**: WhatsApp has gradually added disappearing message features, including view-once for photos and videos, and default timers for chats. View-once for text fills a remaining gap, allowing sensitive information like passwords or temporary addresses to be shared without leaving a trace.
+**Background**: StepFun is a notable Chinese AI startup offering various AI services. Token billing has become common in the AI industry because it aligns cost with actual usage, as tokens are the basic units AI models process. This shift is similar to moves by companies like OpenAI and Anthropic.
 
-**Discussion**: The forum thread has 3 posts from 3 participants, indicating early discussion. Sentiments are not explicitly captured, but typical privacy-focused users may welcome the added control while others may question the necessity for text.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://juejin.cn/post/7599963665039491122">AI Token 计 费 与省钱总结（小钱办大事）一、简介 常见 AI ...</a></li>
+<li><a href="https://toby-blog.com/ai/2026/04/20/token-inflation-hidden-tax/">Token 膨胀： AI 进步中无人买单的隐形税 – Geek的疯狂世界</a></li>
 
-**Tags**: `#WhatsApp`, `#messaging`, `#privacy`, `#feature update`
+</ul>
+</details>
+
+**Discussion**: Forum users noted that per-request pricing is now 'gone forever' and called this trend inevitable. One commenter remarked that StepFun's models are suitable for small tasks due to fast response speed.
+
+**Tags**: `#阶跃星辰`, `#定价策略`, `#AI服务`, `#token计费`
 
 ---
 
 <a id="item-58"></a>
-## [HuggingFace Chat Adds GLM-5.2 Model Support](https://linux.do/t/topic/2425109) ⭐️ 6.0/10
+## [Claude Design Adds Bidirectional Sync via /design-sync Command](https://linux.do/t/topic/2427228) ⭐️ 6.0/10
 
-HuggingFace Chat, the official chat platform of HuggingFace, has added support for the GLM-5.2 reasoning model developed by Zhipu AI (Z.ai). This allows users to access and interact with the GLM-5.2 model directly through HuggingFace Chat. This integration expands the range of state-of-the-art open-source models available on HuggingFace Chat, giving users easy access to GLM-5.2's advanced reasoning capabilities. It highlights the growing ecosystem of Chinese AI models gaining global platform support. According to the forum post, the GLM-5.2 model on HuggingFace Chat has limitations, such as being suitable for HTML generation and chat but not heavy tasks. The model is a large-scale reasoning model that can turn paper descriptions into runnable code.
+Claude Design now supports bidirectional synchronization of UI components via the /design-sync command, allowing users to directly sync design tokens like colors, fonts, and components into their codebase without needing GitHub authorization or manual uploads. This feature significantly streamlines the design-to-development workflow, reducing friction for designers and developers using Claude Design. It enhances integration between design tools and codebases, potentially increasing adoption among teams seeking efficient design handoff. The /design-sync command is a new addition to Claude Design, a research preview by Anthropic Labs powered by Claude Opus 4.7. Previously, users had to authorize GitHub or upload local code to sync design assets.
 
-rss · LINUX.DO 前沿快讯 · Jun 17, 16:21
+rss · LINUX.DO 前沿快讯 · Jun 18, 03:35
 
-**Background**: HuggingFace Chat is a free platform by HuggingFace that provides access to various open-source AI models for chat and other tasks. GLM-5.2 is a large reasoning model from Zhipu AI (Z.ai), designed to handle code generation, document analysis, and agentic tool use. The model is available via API and now through HuggingFace Chat.
+**Background**: Claude Design is an AI-powered design workspace from Anthropic Labs that allows users to create designs, interactive prototypes, and presentations through natural language conversation. It is currently in research preview for Pro, Max, Team, and Enterprise subscribers. The bidirectional sync feature addresses a common pain point in design systems, where keeping UI components in sync between design tools and actual code repositories can be tedious and error-prone.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://docs.z.ai/guides/llm/glm-5.2">GLM - 5 . 2 - Overview - Z.AI DEVELOPER DOCUMENT</a></li>
-<li><a href="https://openrouter.ai/z-ai/glm-5.2">GLM 5 . 2 - API Pricing & Benchmarks | OpenRouter</a></li>
+<li><a href="https://support.claude.com/en/articles/14604416-get-started-with-claude-design">Get started with Claude Design | Claude Help Center</a></li>
+<li><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">Introducing Claude Design by Anthropic Labs \ Anthropic</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The forum post with two participants briefly notes the addition of GLM-5.2 to HuggingFace Chat, with one user mentioning the model's limitations. The discussion lacks in-depth analysis, but the discovery is shared as a noteworthy update.
-
-**Tags**: `#HuggingFace`, `#GLM-5.2`, `#AI model`, `#open source`
+**Tags**: `#Claude`, `#UI设计`, `#同步`, `#AI工具`
 
 ---
 
 <a id="item-59"></a>
-## [Agent-Reach CLI Lets AI Agents Scrape Social Media Without API Fees](https://github.com/Panniantong/Agent-Reach) ⭐️ 6.0/10
+## [Codex Quotas Reset with Reduced Limits](https://linux.do/t/topic/2425932) ⭐️ 6.0/10
 
-Agent-Reach is a newly trending open-source Python CLI tool that enables AI agents to read and search across multiple social media platforms including Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu, with zero API costs. This tool lowers the barrier for AI agents to access real-time social media data, enabling developers to build more context-aware applications without relying on expensive or rate-limited official APIs. Agent-Reach is built in Python and uses web scraping techniques to bypass API requirements. It is at an early stage with 41 stars gained in the past 24 hours, and faces potential scalability and ethical concerns regarding terms of service compliance.
+Users report that OpenAI Codex API quotas were reset, but the 5-hour limit and weekly limit appear to have been reduced compared to previous levels. This change affects developers relying on Codex for code generation, potentially increasing cost or limiting usage for frequent users, and may signal a broader trend of tightening API access. The user specifically mentions that after the reset, the 5-hour rate limit and weekly quota seem lower, though no official announcement from OpenAI has been confirmed. The discussion involves 60 posts from 40 participants on the Linux.do forum.
 
-ossinsight · Panniantong · Jun 18, 03:28
+rss · LINUX.DO 前沿快讯 · Jun 18, 01:11
 
-**Background**: Many social media platforms offer official APIs, but they often come with usage limits, costs, or restricted access. Web scraping is an alternative method to collect public data, though it may violate platform terms of service. Agent-Reach provides a unified CLI interface for AI agents to scrape multiple platforms without API keys.
+**Background**: Codex is an AI model by OpenAI that generates code from natural language. Developers access it via API with usage quotas that reset periodically. Quota adjustments affect how much code can be generated within specific timeframes.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://apify.com/store/categories/social-media-scrapers">Social media scrapers · Apify</a></li>
-<li><a href="https://scrapfly.io/blog/posts/social-media-scraping">How to Scrape Social Media with Python in 2026 - Scrapfly Blog</a></li>
+**Discussion**: The community discussion on Linux.do shows general concern about the reduced limits, with many users sharing similar experiences and questioning whether this is a permanent change or a bug.
 
-</ul>
-</details>
-
-**Tags**: `#AI Agents`, `#CLI Tool`, `#Web Scraping`, `#Social Media`, `#Open Source`
+**Tags**: `#OpenAI`, `#Codex`, `#API quota`, `#community discussion`
 
 ---
 
 <a id="item-60"></a>
-## [CodeGraph: Pre-indexed knowledge graph to cut AI coding agent costs](https://github.com/colbymchenry/codegraph) ⭐️ 6.0/10
+## [CodeGraph: Pre-indexed code knowledge graph cuts AI agent token use](https://github.com/colbymchenry/codegraph) ⭐️ 6.0/10
 
-CodeGraph is a new open-source TypeScript tool that pre-indexes codebases into a knowledge graph, allowing AI coding agents like Claude Code and Gemini to use fewer tokens and make fewer tool calls while staying fully local. By reducing token and tool call waste, CodeGraph could significantly lower API costs and speed up AI coding assistants, addressing a critical inefficiency in current agent-based coding workflows. The tool works with multiple agents including Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent, and runs entirely on the user's machine for privacy and speed.
+A new open-source tool called CodeGraph provides a pre-indexed code knowledge graph that enables AI coding agents to query project structure instantly instead of scanning files, reducing token consumption and tool calls. This addresses a key cost and performance bottleneck for AI-assisted development, as repeated file scanning and tool calls consume significant tokens and slow down responses. CodeGraph supports multiple agents including Claude Code, Codex, Gemini, Cursor, and others, operates 100% locally, and is written in TypeScript.
 
-ossinsight · colbymchenry · Jun 18, 03:28
+ossinsight · colbymchenry · Jun 18, 08:05
 
-**Background**: AI coding agents often waste tokens and context by repeatedly reading files and searching code during tool calls. A pre-indexed code knowledge graph lets agents access relevant information instantly without multiple lookups, similar to how vector databases speed up retrieval-augmented generation.
+**Background**: AI coding agents often need to understand codebases but rely on repeatedly reading files or issuing tool calls, which consumes tokens and incurs latency. A code knowledge graph pre-indexes symbol relationships, call graphs, and code structure, allowing agents to retrieve structured information with minimal overhead.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://stoneforge.ai/blog/ai-coding-agent-context-window-hill-climbing/">Why AI Coding Agents Waste Half Their Context... — Stoneforge Blog</a></li>
+<li><a href="https://github.com/colbymchenry/codegraph">colbymchenry/codegraph: Pre - indexed code knowledge graph , auto...</a></li>
+<li><a href="https://pyshine.com/CodeGraph-Pre-Indexed-Code-Knowledge-Graph-AI-Coding-Agents/">CodeGraph: Pre - Indexed Code Knowledge Graph for AI... | PyShine</a></li>
+<li><a href="https://hermesatlas.com/projects/colbymchenry/codegraph">codegraph — Hermes Agent Developer Tools | Hermes Atlas</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open-source`, `#AI coding assistant`, `#code knowledge graph`, `#developer tools`
+**Tags**: `#code-knowledge-graph`, `#AI-assistant`, `#TypeScript`, `#developer-tools`
 
 ---
 
 <a id="item-61"></a>
-## [Headroom Compresses LLM Inputs by 60-95% with No Quality Loss](https://github.com/chopratejas/headroom) ⭐️ 6.0/10
+## [Headroom: Compress LLM inputs by 60-95% with no quality loss](https://github.com/chopratejas/headroom) ⭐️ 6.0/10
 
-A new open-source tool called Headroom compresses text inputs—including tool outputs, logs, files, and RAG chunks—before sending them to large language models, reducing token usage by 60-95% while maintaining answer quality. This can significantly lower LLM costs and latency, making AI applications more economical and accessible, especially for high-volume or real-time use cases. Headroom is written in Python and can be used as a library, a proxy, or an MCP server, offering flexibility across different integration points.
+A new open-source Python library called Headroom has been released that compresses LLM inputs—including tool outputs, logs, files, and RAG chunks—by 60-95% while maintaining the same output quality. This tool directly addresses the high cost of token usage in LLM applications, enabling significant cost savings for production deployments without sacrificing answer quality. Headroom can function as a Python library, a proxy, or an MCP server, offering flexible integration into various workflows. It reduces token count by 60-95% depending on the input type.
 
-ossinsight · chopratejas · Jun 18, 03:28
+ossinsight · chopratejas · Jun 18, 08:05
 
-**Background**: RAG (Retrieval-Augmented Generation) enhances LLMs by retrieving relevant external information before generating a response, and MCP (Model Context Protocol) is an open standard introduced by Anthropic to connect AI systems to external tools and data sources. Both approaches often involve sending large amounts of text to LLMs, leading to high token usage. Headroom aims to reduce this token overhead through compression.
+**Background**: Large language models (LLMs) charge based on the number of tokens processed, so every token in the input prompt adds cost. Techniques like prompt compression aim to remove redundant or low-information tokens while preserving essential meaning. Headroom applies such compression automatically to inputs like logs, documents, and retrieval-augmented generation (RAG) chunks before they reach the LLM.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval - augmented generation - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Model_Context_Protocol">Model Context Protocol - Wikipedia</a></li>
-<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol ( MCP )?</a></li>
+<li><a href="https://github.com/modelcontextprotocol/servers">GitHub - modelcontextprotocol/ servers : Model Context Protocol Servers</a></li>
+<li><a href="https://medium.com/@sahin.samia/prompt-compression-in-large-language-models-llms-making-every-token-count-078a2d1c7e03">Prompt Compression in Large Language Models ( LLMs )... | Medium</a></li>
+<li><a href="https://community.databricks.com/t5/technical-blog/the-ultimate-guide-to-chunking-strategies-for-rag-applications/ba-p/113089">The Ultimate Guide to Chunking Strategies for RAG Applications with Databricks</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#token compression`, `#open-source tool`
+**Tags**: `#LLM`, `#cost optimization`, `#token compression`, `#open source`, `#efficiency`
 
 ---
 
 <a id="item-62"></a>
-## [Alibaba Releases Lightweight In-Process Vector Database zvec](https://github.com/alibaba/zvec) ⭐️ 6.0/10
+## [Omnigent: Meta-harness for Multiple AI Agents](https://github.com/omnigent-ai/omnigent) ⭐️ 6.0/10
 
-Alibaba has open-sourced zvec, a lightweight, in-process vector database written in C++, which gained 10 stars on GitHub in the past 24 hours. zvec could enable faster and more efficient similarity search for AI applications, especially in resource-constrained environments, by running inside the application process without requiring a separate server. The repository is written entirely in C++ and describes zvec as 'lightning-fast,' but as a very early-stage project, it has minimal traction with only 10 stars and 1 fork to date.
+Omnigent, an open-source meta-harness for orchestrating AI agents like Claude Code and Codex, gained 15 stars on GitHub in the past 24 hours. This tool simplifies managing multiple AI coding agents, enabling developers to switch or combine them without rewriting code, which could improve productivity in AI-assisted development workflows. Omnigent provides a common layer for Claude Code, Codex, Pi, and custom agents, with features like policy enforcement, sandboxing, and real-time collaboration across devices.
 
-ossinsight · alibaba · Jun 18, 03:28
+ossinsight · omnigent-ai · Jun 18, 08:05
 
-**Background**: Vector databases are specialized systems that store and retrieve high-dimensional vector embeddings for semantic similarity search, commonly used in AI tasks like retrieval-augmented generation and recommendations. An in-process database runs inside the same process as the application, eliminating network overhead and simplifying deployment, similar to DuckDB for analytical workloads.
+**Background**: Claude Code and Codex are popular AI coding agents that help developers write code autonomously. Omnigent acts as a meta-harness to combine, control, and share these agents without requiring code changes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Vector_database">Vector database</a></li>
-<li><a href="https://duckdb.org/">DuckDB – An in - process SQL OLAP database management system</a></li>
+<li><a href="https://github.com/omnigent-ai/omnigent">GitHub - omnigent-ai/omnigent: Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.</a></li>
+<li><a href="https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents">Introducing Omnigent: A Meta-Harness to Combine, Control and Share Your Agents | Databricks Blog</a></li>
+<li><a href="https://omnigent.ai/">Omnigent — a meta-harness for building and running AI agents</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#vector-database`, `#alibaba`, `#open-source`, `#AI-infrastructure`
+**Tags**: `#AI Agents`, `#Agent Orchestration`, `#Open Source`, `#Developer Tools`
 
 ---
